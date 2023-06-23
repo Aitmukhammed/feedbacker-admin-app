@@ -1,0 +1,49 @@
+[
+    
+    {
+        "name": "Ваше имя",
+        "username" : "Имя пользователя",
+        "email" : "Почта",
+        "password" : "Пароль",
+        "registration_btn" : "Регистрация",
+        "requiredName" : "Имя обязательно",
+        "requiredUserame" : "Требуется имя пользователя",
+        "passwordRequired" : "Требуется пароль",
+        "charactersPassword" : "Пароль должен содержать не менее 6 символов",
+        "emailRequired" : "Требуется электронная почта",
+        "emailValid" : "Адрес электронной почты должен быть действительным",
+        "signupFailed" : "Регистрация не удалась!",
+        "successful" : "Ваша регистрация прошла успешно. Пожалуйста, войдите в систему!"
+    },
+    {
+        "name": "Your name",
+        "username" : "User name",
+        "email" : "Mail",
+        "password" : "Password",
+        "registration_btn" : "Registration",
+        "requiredName" : "Name is required",
+        "requiredUsername" : "Username is required",
+        "passwordRequired" : "Password is required",
+        "charactersPassword" : "Password must be at least 6 characters",
+        "emailRequired" : "Email is required",
+        "emailValid" : "Email must be a valid email address",
+        "signupFailed" : "Signup failed!",
+        "successful" : "Your registration is successful. Please login!"
+    },
+    {
+        "name": "Сіздің атыңыз",
+        "username" : "Пайдаланушы аты",
+        "email" : "Пошта",
+        "password" : "Құпия сөз",
+        "registration_btn" : "Тіркелу",
+        "requiredName" : "Аты міндетті",
+        "requiredUsername" : "Пайдаланушы аты қажет",
+        "passwordRequired" : "Құпия сөз қажет",
+        "charactersPassword" : "Құпия сөзде кемінде 6 таңба болуы керек",
+        "emailRequired" : "Электрондық пошта қажет",
+        "emailValid" : "Электрондық пошта мекенжайы жарамды болуы керек",
+        "signupFailed" : "Тіркеу сәтсіз аяқталды!",
+        "successful" : "Сіздің тіркеуіңіз сәтті өтті. Жүйеге кіріңіз!"
+    }
+
+]

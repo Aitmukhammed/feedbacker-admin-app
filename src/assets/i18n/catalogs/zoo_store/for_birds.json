@@ -1,0 +1,176 @@
+[
+    [
+        {
+            "id" : 353,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/280394-sprei_milbenzerstauber_ot_nasekomyh_dlya_ptic_100_ml.png?w=360&h=360&_c=1668141165",
+            "description" : "Спрей Milbenzerstauber от насекомых для птиц 100 мл",
+            "price" : 3900,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 354,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/270970-korm_zhorka_dlya_krupnyh_i_srednih_popugaev.jpg?w=360&h=360&_c=1683780739",
+            "description" : "Корм Жорка для крупных и средних попугаев",
+            "price" : 1235,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 355,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/269181-korm_titbit_dlya_shinshill_classic_500_g.jpg?w=360&h=360&_c=1685007275",
+            "description" : "Корм TitBit для шиншилл Classic 500 г",
+            "price" : 1675,
+            "quantity" : 0,
+            "promotion" : 1860
+        },
+        {
+            "id" : 356,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/269188-korm_titbit_dlya_srednih_popugaev_classic_500_g.jpg?w=360&h=360&_c=1685359317",
+            "description" : "Корм TitBit для средних попугаев Classic 500 г",
+            "price" : 1595,
+            "quantity" : 0,
+            "promotion" : 1770
+        },
+        {
+            "id" : 357,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/269189-korm_titbit_dlya_volnistyh_popugaev_classic_500_g.jpg?w=360&h=360&_c=1685624808",
+            "description" : "Корм TitBit для волнистых попугаев Classic 500 г",
+            "price" : 1130,
+            "quantity" : 0,
+            "promotion" : 1255
+        },
+        {
+            "id" : 358,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/269191-korm_titbit_dlya_krupnyh_popugaev_classic_500_g.jpg?w=360&h=360&_c=1685359395",
+            "description" : "Корм TitBit для крупных попугаев Classic 500 г",
+            "price" : 1430,
+            "quantity" : 0,
+            "promotion" : 1590
+        },
+        {
+            "id" : 359,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/269192-korm_titbit_dlya_kanareek_classic_500_g.jpg?w=360&h=360&_c=1685624809",
+            "description" : "Корм TitBit для канареек Classic 500 г",
+            "price" : 1455,
+            "quantity" : 0,
+            "promotion" : 1615  
+        }
+    ],
+    [
+        {
+            "id" : 353,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/280394-sprei_milbenzerstauber_ot_nasekomyh_dlya_ptic_100_ml.png?w=360&h=360&_c=1668141165",
+            "description" : "Milbenzerstauber insect spray for birds 100 ml",
+            "price" : 3900,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 354,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/270970-korm_zhorka_dlya_krupnyh_i_srednih_popugaev.jpg?w=360&h=360&_c=1683780739",
+            "description" : "Zhorka food for large and medium-sized parrots",
+            "price" : 1235,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 355,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/269181-korm_titbit_dlya_shinshill_classic_500_g.jpg?w=360&h=360&_c=1685007275",
+            "description" : "TitBit food for chinchillas Classic 500 g",
+            "price" : 1675,
+            "quantity" : 0,
+            "promotion" : 1860
+        },
+        {
+            "id" : 356,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/269188-korm_titbit_dlya_srednih_popugaev_classic_500_g.jpg?w=360&h=360&_c=1685359317",
+            "description" : "TitBit food for medium-sized parrots Classic 500 g",
+            "price" : 1595,
+            "quantity" : 0,
+            "promotion" : 1770
+        },
+        {
+            "id" : 357,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/269189-korm_titbit_dlya_volnistyh_popugaev_classic_500_g.jpg?w=360&h=360&_c=1685624808",
+            "description" : "TitBit food for budgies Classic 500 g",
+            "price" : 1130,
+            "quantity" : 0,
+            "promotion" : 1255
+        },
+        {
+            "id" : 358,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/269191-korm_titbit_dlya_krupnyh_popugaev_classic_500_g.jpg?w=360&h=360&_c=1685359395",
+            "description" : "TitBit food for large parrots Classic 500 g",
+            "price" : 1430,
+            "quantity" : 0,
+            "promotion" : 1590
+        },
+        {
+            "id" : 359,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/269192-korm_titbit_dlya_kanareek_classic_500_g.jpg?w=360&h=360&_c=1685624809",
+            "description" : "TitBit food for canaries Classic 500 g",
+            "price" : 1455,
+            "quantity" : 0,
+            "promotion" : 1615  
+        }
+    ],
+    [
+        {
+            "id" : 353,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/280394-sprei_milbenzerstauber_ot_nasekomyh_dlya_ptic_100_ml.png?w=360&h=360&_c=1668141165",
+            "description" : "Milbenzerstauber құстарға арналған жәндіктерге арналған спрей 100 мл",
+            "price" : 3900,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 354,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/270970-korm_zhorka_dlya_krupnyh_i_srednih_popugaev.jpg?w=360&h=360&_c=1683780739",
+            "description" : "Үлкен және орташа попугаяларға арналған Жорк тағамы",
+            "price" : 1235,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 355,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/269181-korm_titbit_dlya_shinshill_classic_500_g.jpg?w=360&h=360&_c=1685007275",
+            "description" : "Классикалық Шиншиллаларға арналған TitBit тағамы 500 г",
+            "price" : 1675,
+            "quantity" : 0,
+            "promotion" : 1860
+        },
+        {
+            "id" : 356,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/269188-korm_titbit_dlya_srednih_popugaev_classic_500_g.jpg?w=360&h=360&_c=1685359317",
+            "description" : "Классикалық орташа попугаяларға арналған TitBit тағамы 500 г",
+            "price" : 1595,
+            "quantity" : 0,
+            "promotion" : 1770
+        },
+        {
+            "id" : 357,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/269189-korm_titbit_dlya_volnistyh_popugaev_classic_500_g.jpg?w=360&h=360&_c=1685624808",
+            "description" : "Классикалық попугаяларға арналған TitBit тағамы 500 г",
+            "price" : 1130,
+            "quantity" : 0,
+            "promotion" : 1255
+        },
+        {
+            "id" : 358,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/269191-korm_titbit_dlya_krupnyh_popugaev_classic_500_g.jpg?w=360&h=360&_c=1685359395",
+            "description" : "Үлкен попугаяларға арналған TitBit тағамы Classic 500 г",
+            "price" : 1430,
+            "quantity" : 0,
+            "promotion" : 1590
+        },
+        {
+            "id" : 359,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/269192-korm_titbit_dlya_kanareek_classic_500_g.jpg?w=360&h=360&_c=1685624809",
+            "description" : "Классикалық канарияға арналған TitBit тағамы 500 г",
+            "price" : 1455,
+            "quantity" : 0,
+            "promotion" : 1615  
+        }
+    ]
+]

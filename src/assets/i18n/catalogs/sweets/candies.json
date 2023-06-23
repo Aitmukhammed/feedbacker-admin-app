@@ -1,0 +1,416 @@
+[
+    [
+        {
+            "id" : 389,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/191265-konfety_raffaello_150_g.jpg?w=360&h=360&_c=1685088314",
+            "description" : "Конфеты Raffaello 150 г",
+            "price" : 1980,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 390,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/247867-marmelad_bon_pari_kislye_zmeiki_zhevatelnyi_so_vkusom_fruktov_120_g.jpg?w=360&h=360&_c=1686221143",
+            "description" : "Мармелад Bon Pari Кислые Змейки жевательный со вкусом фруктов 120 г",
+            "price" : 580,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 391,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/205665-39-konfety_roshen_beshe_ru.png?w=360&h=360&_c=1684925638",
+            "description" : "Конфеты Roshen Бешеная пчёлка Фрутти",
+            "price" : 2180,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 392,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/284082-konfety_albeni_petits_shokoladnye_konfety_s_kremom_so_vkusom_apelsina.jpg?w=360&h=360&_c=1684925634",
+            "description" : "Конфеты Albeni Petits шоколадные конфеты с кремом со вкусом апельсина",
+            "price" : 4170,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" :393,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/284081-konfety_ulker_albeni_petits_shokoladnye_konfety_s_kremom_iz_funduka_kg.jpg?w=360&h=360&_c=1684925634",
+            "description" : "Конфеты Ulker Albeni Petits шоколадные конфеты с кремом из фундука кг",
+            "price" : 3995,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 394,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/274690-konfety_elvan_toffix_mix_fruktovyi_kg.jpg?w=360&h=360&_c=1684925635",
+            "description" : "Конфеты Elvan Toffix Mix фруктовый кг",
+            "price" : 4960,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 395,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/254287-konfety_orehovichi_funduk_petrovich_pokrytye_molochnym_shokoladom_kg.jpg?w=360&h=360&_c=1684925638",
+            "description" : "Конфеты Ореховичи Фундук Петрович покрытые молочным шоколадом кг",
+            "price" : 5055,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 396,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228383-konfety_snickers_minis_kg.jpg?w=360&h=360&_c=1684925642",
+            "description" : "Конфеты Snickers minis кг",
+            "price" : 6755,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 397,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228387-konfety_milky_way_minis_kg.jpg?w=360&h=360&_c=1684925649",
+            "description" : "Конфеты Milky way minis кг",
+            "price" : 5790,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 398,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228385-konfety_bounty_minis_kg.jpg?w=360&h=360&_c=1684925649",
+            "description" : "Конфеты Bounty minis кг",
+            "price" : 5790,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 399,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228384-konfety_twix_minis_kg.jpg?w=360&h=360&_c=1684925649",
+            "description" : "Конфеты Twix minis кг",
+            "price" : 5790,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 400,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228386-konfety_mars_minis_kg.jpg?w=360&h=360&_c=1684925649",
+            "description" : "Конфеты Mars minis кг",
+            "price" : 5790,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 401,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/205875-39-konfety_roshen_karam_ru.jpg?w=360&h=360&_c=1684992926",
+            "description" : "Конфеты Roshen Карамелькино кг",
+            "price" : 651,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" :402,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/220329-konfety_kdv_chio_rio_kg.jpg?w=360&h=360&_c=1685332673",
+            "description" : "Конфеты KDV Чио Рио кг",
+            "price" : 2625,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 403,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/220345-39-konfety_glazirovanny_ru.jpg?w=360&h=360&_c=1686221984",
+            "description" : "Конфеты KDV Ярче Арахис в мягкой карамели глазированные кг",
+            "price" : 2455,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 404,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/288737-drazhe_arahis_v_molochno-saharnoi_glazuri_tiramisu_800_g.jpg?w=360&h=360&_c=1684750665",
+            "description" : "Драже арахис в молочно-сахарной глазури Тирамису 800 г",
+            "price" : 2740,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 405,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/288733-drazhe_arahis_v_sahare_800_g.jpg?w=360&h=360&_c=1684750665",
+            "description" : "Драже Арахис в сахаре 800 г",
+            "price" : 2740,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ],
+    [
+        {
+            "id" : 389,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/191265-konfety_raffaello_150_g.jpg?w=360&h=360&_c=1685088314",
+            "description" : "Raffaello sweets 150 g",
+            "price" : 1980,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 390,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/247867-marmelad_bon_pari_kislye_zmeiki_zhevatelnyi_so_vkusom_fruktov_120_g.jpg?w=360&h=360&_c=1686221143",
+            "description" : "Marmalade bon pari sour snakes chewing snakes with fruit taste 120 g",
+            "price" : 580,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 391,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/205665-39-konfety_roshen_beshe_ru.png?w=360&h=360&_c=1684925638",
+            "description" : "Roshen sweets Frantic bee Frutti",
+            "price" : 2180,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 392,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/284082-konfety_albeni_petits_shokoladnye_konfety_s_kremom_so_vkusom_apelsina.jpg?w=360&h=360&_c=1684925634",
+            "description" : "Sweets Albeni Petits chocolates with cream with orange flavor",
+            "price" : 4170,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" :393,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/284081-konfety_ulker_albeni_petits_shokoladnye_konfety_s_kremom_iz_funduka_kg.jpg?w=360&h=360&_c=1684925634",
+            "description" : "Sweets Ulker Albeni Petits chocolates with hazelnut cream kg",
+            "price" : 3995,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 394,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/274690-konfety_elvan_toffix_mix_fruktovyi_kg.jpg?w=360&h=360&_c=1684925635",
+            "description" : "Sweets Elvan Toffix Mix fruit kg",
+            "price" : 4960,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 395,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/254287-konfety_orehovichi_funduk_petrovich_pokrytye_molochnym_shokoladom_kg.jpg?w=360&h=360&_c=1684925638",
+            "description" : "Orekhovichi Hazelnut Petrovich candies covered with milk chocolate kg",
+            "price" : 5055,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 396,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228383-konfety_snickers_minis_kg.jpg?w=360&h=360&_c=1684925642",
+            "description" : "SNICRES SNICRES Minis kg",
+            "price" : 6755,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 397,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228387-konfety_milky_way_minis_kg.jpg?w=360&h=360&_c=1684925649",
+            "description" : "Milky Way Minis sweets kg",
+            "price" : 5790,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 398,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228385-konfety_bounty_minis_kg.jpg?w=360&h=360&_c=1684925649",
+            "description" : "Bounty minis sweets kg",
+            "price" : 5790,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 399,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228384-konfety_twix_minis_kg.jpg?w=360&h=360&_c=1684925649",
+            "description" : "Twix minis sweets kg",
+            "price" : 5790,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 400,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228386-konfety_mars_minis_kg.jpg?w=360&h=360&_c=1684925649",
+            "description" : "Twix minis sweets kg",
+            "price" : 5790,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 401,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/205875-39-konfety_roshen_karam_ru.jpg?w=360&h=360&_c=1684992926",
+            "description" : "Sweets Roshen Karamelkino kg",
+            "price" : 651,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" :402,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/220329-konfety_kdv_chio_rio_kg.jpg?w=360&h=360&_c=1685332673",
+            "description" : "Candy KDV Chio Rio kg",
+            "price" : 2625,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 403,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/220345-39-konfety_glazirovanny_ru.jpg?w=360&h=360&_c=1686221984",
+            "description" : "KDV sweets are brighter than peanuts in soft caramels glazed kg",
+            "price" : 2455,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 404,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/288737-drazhe_arahis_v_molochno-saharnoi_glazuri_tiramisu_800_g.jpg?w=360&h=360&_c=1684750665",
+            "description" : "Peanuts in milk-sugar glaze Tiramisu 800 g",
+            "price" : 2740,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 405,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/288733-drazhe_arahis_v_sahare_800_g.jpg?w=360&h=360&_c=1684750665",
+            "description" : "Dried Peanuts in sugar 800 g",
+            "price" : 2740,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ],
+    [
+        {
+            "id" : 389,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/191265-konfety_raffaello_150_g.jpg?w=360&h=360&_c=1685088314",
+            "description" : "Raffaello кәмпиттері 150 г",
+            "price" : 1980,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 390,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/247867-marmelad_bon_pari_kislye_zmeiki_zhevatelnyi_so_vkusom_fruktov_120_g.jpg?w=360&h=360&_c=1686221143",
+            "description" : "Мармелад Bon Pari қышқыл жыландар жеміс дәмі бар шайнайтын 120 г",
+            "price" : 580,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 391,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/205665-39-konfety_roshen_beshe_ru.png?w=360&h=360&_c=1684925638",
+            "description" : "Roshen кәмпиттері Фруттидің құтырған арасы",
+            "price" : 2180,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 392,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/284082-konfety_albeni_petits_shokoladnye_konfety_s_kremom_so_vkusom_apelsina.jpg?w=360&h=360&_c=1684925634",
+            "description" : "Albeni Petits кәмпиттері апельсин хош иісті кремі бар шоколад кәмпиттері",
+            "price" : 4170,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" :393,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/284081-konfety_ulker_albeni_petits_shokoladnye_konfety_s_kremom_iz_funduka_kg.jpg?w=360&h=360&_c=1684925634",
+            "description" : "Ulker albeni Petits кәмпиттері жаңғақ кремі бар шоколадтар кг",
+            "price" : 3995,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 394,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/274690-konfety_elvan_toffix_mix_fruktovyi_kg.jpg?w=360&h=360&_c=1684925635",
+            "description" : "Elvan toffix Mix кәмпиттері жеміс кг",
+            "price" : 4960,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 395,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/254287-konfety_orehovichi_funduk_petrovich_pokrytye_molochnym_shokoladom_kg.jpg?w=360&h=360&_c=1684925638",
+            "description" : "Жаңғақ Петрович кәмпиттері сүтті шоколадпен жабылған кг",
+            "price" : 5055,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 396,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228383-konfety_snickers_minis_kg.jpg?w=360&h=360&_c=1684925642",
+            "description" : "Snickers Minis кәмпиттері кг",
+            "price" : 6755,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 397,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228387-konfety_milky_way_minis_kg.jpg?w=360&h=360&_c=1684925649",
+            "description" : "Milky way Minis кәмпиттері кг",
+            "price" : 5790,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 398,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228385-konfety_bounty_minis_kg.jpg?w=360&h=360&_c=1684925649",
+            "description" : "Bounty Minis кәмпиттері кг",
+            "price" : 5790,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 399,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228384-konfety_twix_minis_kg.jpg?w=360&h=360&_c=1684925649",
+            "description" : "Twix Minis кәмпиттері кг",
+            "price" : 5790,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 400,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228386-konfety_mars_minis_kg.jpg?w=360&h=360&_c=1684925649",
+            "description" : "Mars Minis кәмпиттері кг",
+            "price" : 5790,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 401,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/205875-39-konfety_roshen_karam_ru.jpg?w=360&h=360&_c=1684992926",
+            "description" : "Roshen кәмпиттері карамелькино кг",
+            "price" : 651,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" :402,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/220329-konfety_kdv_chio_rio_kg.jpg?w=360&h=360&_c=1685332673",
+            "description" : "KDV кәмпиттері Чио Рио кг",
+            "price" : 2625,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 403,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/220345-39-konfety_glazirovanny_ru.jpg?w=360&h=360&_c=1686221984",
+            "description" : "KDV кәмпиттері жарқын жұмсақ карамельдегі жержаңғақ жылтыратылған кг",
+            "price" : 2455,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 404,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/288737-drazhe_arahis_v_molochno-saharnoi_glazuri_tiramisu_800_g.jpg?w=360&h=360&_c=1684750665",
+            "description" : "Драже жержаңғақ сүт-қант глазурінде Тирамису 800 г",
+            "price" : 2740,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 405,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/288733-drazhe_arahis_v_sahare_800_g.jpg?w=360&h=360&_c=1684750665",
+            "description" : "Драже қанттағы жержаңғақ 800 г",
+            "price" : 2740,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ]
+]

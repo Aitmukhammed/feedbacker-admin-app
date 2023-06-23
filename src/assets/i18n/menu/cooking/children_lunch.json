@@ -1,0 +1,200 @@
+[
+    [
+        {
+            "id" : 647,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/283517-iogurt_ragout_kokosovyi_koko-iogo_100_gr.png?w=360&h=360&_c=1686828767",
+            "description" : "Йогурт Ragout кокосовый Koko-Його 100 гр",
+            "price" : 1430,
+            "quantity" : 0,
+            "promotion" : 1590
+        },
+        {
+            "id" : 648,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279727-kotlety_ragout_iz_pecheni_indeiki_s_ovoshami_iron_man_6_sht.jpg?w=360&h=360&_c=1686819792",
+            "description" : "Котлеты Ragout из печени индейки с овощами Iron Man 6 шт",
+            "price" : 3140,
+            "quantity" : 0,
+            "promotion" : 3490
+        },
+        {
+            "id" : 649,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277413-ragu_ragout_vision_250_g.jpg?w=360&h=360&_c=1686654328",
+            "description" : "Рагу Ragout Vision 250 г",
+            "price" : 1980,
+            "quantity" : 0,
+            "promotion" : 2200
+        },
+        {
+            "id" : 650,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277416-ragu_ragout_greench_250_g.jpg?w=360&h=360&_c=1686654329",
+            "description" : "Рагу Ragout Greench 250 г",
+            "price" : 1980,
+            "quantity" : 0,
+            "promotion" : 2200
+        },
+        {
+            "id" : 651,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/283519-zhele_ragout_iz_svekly_s_tregalozoi_jiggl-jiggl_100_gr.png?w=360&h=360&_c=1686819791",
+            "description" : "Желе Ragout из свеклы с трегалозой Jiggl-Jiggl 100 гр",
+            "price" : 1080,
+            "quantity" : 0,
+            "promotion" : 1200
+        },
+        {
+            "id" : 652,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/283518-iogurt_ragout_iz_lna_yoggi_250_gr.png?w=360&h=360&_c=1686886371",
+            "description" : "Йогурт Ragout из льна Yoggi 250 гр",
+            "price" : 1835,
+            "quantity" : 0,
+            "promotion" : 2040
+        },
+        {
+            "id" : 653,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277378-keks_ragout_iz_nuta_minion_500_g.jpg?w=360&h=360&_c=1686042498",
+            "description" : "Кекс Ragout из нута Minion 500 г",
+            "price" : 2880,
+            "quantity" : 0,
+            "promotion" : 3200
+        },
+        {
+            "id" : 654,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277379-vafli_ragout_iz_nuta_coco_noot_500_g.jpg?w=360&h=360&_c=1686654321",
+            "description" : "Вафли Ragout из нута Coco&Noot 500 г",
+            "price" : 3150,
+            "quantity" : 0,
+            "promotion" : 3500
+        }
+    ],
+    [
+        {
+            "id" : 647,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/283517-iogurt_ragout_kokosovyi_koko-iogo_100_gr.png?w=360&h=360&_c=1686828767",
+            "description" : "Yogurt ragout Coconut koko-yogo 100 g",
+            "price" : 1430,
+            "quantity" : 0,
+            "promotion" : 1590
+        },
+        {
+            "id" : 648,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279727-kotlety_ragout_iz_pecheni_indeiki_s_ovoshami_iron_man_6_sht.jpg?w=360&h=360&_c=1686819792",
+            "description" : "Ragout cutlets from turkey liver with vegetables Iron Man 6 pcs",
+            "price" : 3140,
+            "quantity" : 0,
+            "promotion" : 3490
+        },
+        {
+            "id" : 649,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277413-ragu_ragout_vision_250_g.jpg?w=360&h=360&_c=1686654328",
+            "description" : "RAGU RAGOUT VISION 250 g",
+            "price" : 1980,
+            "quantity" : 0,
+            "promotion" : 2200
+        },
+        {
+            "id" : 650,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277416-ragu_ragout_greench_250_g.jpg?w=360&h=360&_c=1686654329",
+            "description" : "RAGUT RAGOUT GREENCH 250 g",
+            "price" : 1980,
+            "quantity" : 0,
+            "promotion" : 2200
+        },
+        {
+            "id" : 651,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/283519-zhele_ragout_iz_svekly_s_tregalozoi_jiggl-jiggl_100_gr.png?w=360&h=360&_c=1686819791",
+            "description" : "Jelly Ragout from beetroot with tregalose jiggl-jiggl 100 g",
+            "price" : 1080,
+            "quantity" : 0,
+            "promotion" : 1200
+        },
+        {
+            "id" : 652,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/283518-iogurt_ragout_iz_lna_yoggi_250_gr.png?w=360&h=360&_c=1686886371",
+            "description" : "Yoggi linen yoggi yogurt 250 grams",
+            "price" : 1835,
+            "quantity" : 0,
+            "promotion" : 2040
+        },
+        {
+            "id" : 653,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277378-keks_ragout_iz_nuta_minion_500_g.jpg?w=360&h=360&_c=1686042498",
+            "description" : "Nutot Ragout Cupcake 500 g",
+            "price" : 2880,
+            "quantity" : 0,
+            "promotion" : 3200
+        },
+        {
+            "id" : 654,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277379-vafli_ragout_iz_nuta_coco_noot_500_g.jpg?w=360&h=360&_c=1686654321",
+            "description" : "Nututa waffles COCO & NOOT 500 g",
+            "price" : 3150,
+            "quantity" : 0,
+            "promotion" : 3500
+        }
+    ],
+    [
+        {
+            "id" : 647,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/283517-iogurt_ragout_kokosovyi_koko-iogo_100_gr.png?w=360&h=360&_c=1686828767",
+            "description" : "Йогурт Ragout кокос Коко-Його 100 гр",
+            "price" : 1430,
+            "quantity" : 0,
+            "promotion" : 1590
+        },
+        {
+            "id" : 648,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279727-kotlety_ragout_iz_pecheni_indeiki_s_ovoshami_iron_man_6_sht.jpg?w=360&h=360&_c=1686819792",
+            "description" : "Iron Man көкөністері бар Ragout күркетауық бауыр котлеттері 6 д",
+            "price" : 3140,
+            "quantity" : 0,
+            "promotion" : 3490
+        },
+        {
+            "id" : 649,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277413-ragu_ragout_vision_250_g.jpg?w=360&h=360&_c=1686654328",
+            "description" : "Ragout Vision бұқтырмасы 250 г",
+            "price" : 1980,
+            "quantity" : 0,
+            "promotion" : 2200
+        },
+        {
+            "id" : 650,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277416-ragu_ragout_greench_250_g.jpg?w=360&h=360&_c=1686654329",
+            "description" : "Ragout greench бұқтырмасы 250 г",
+            "price" : 1980,
+            "quantity" : 0,
+            "promotion" : 2200
+        },
+        {
+            "id" : 651,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/283519-zhele_ragout_iz_svekly_s_tregalozoi_jiggl-jiggl_100_gr.png?w=360&h=360&_c=1686819791",
+            "description" : "Jiggl-jiggl трегалозасы бар Ragout қызылша Желе 100 гр",
+            "price" : 1080,
+            "quantity" : 0,
+            "promotion" : 1200
+        },
+        {
+            "id" : 652,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/283518-iogurt_ragout_iz_lna_yoggi_250_gr.png?w=360&h=360&_c=1686886371",
+            "description" : "Yoggi зығыр йогурты 250 гр",
+            "price" : 1835,
+            "quantity" : 0,
+            "promotion" : 2040
+        },
+        {
+            "id" : 653,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277378-keks_ragout_iz_nuta_minion_500_g.jpg?w=360&h=360&_c=1686042498",
+            "description" : "Ragout Minion ноқат кексі 500 г",
+            "price" : 2880,
+            "quantity" : 0,
+            "promotion" : 3200
+        },
+        {
+            "id" : 654,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277379-vafli_ragout_iz_nuta_coco_noot_500_g.jpg?w=360&h=360&_c=1686654321",
+            "description" : "Ragout ноқат Вафли Coco & Noot 500 г",
+            "price" : 3150,
+            "quantity" : 0,
+            "promotion" : 3500
+        }
+    ]
+]

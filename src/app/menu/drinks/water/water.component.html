@@ -1,0 +1,23 @@
+<h1>{{text_2[translateservice.languageId].Water}}</h1>
+<div class="slide" *ngFor="let hit of text[translateservice.languageId]; let i = index;">
+    <img [src]="hit.img" class="hits_png">
+    <div class="caption" >
+      <h4 class="description" (click)="toggleBlock(i)">{{ hit.description }}</h4>
+
+      <div *ngIf="showDes === i" class="block">
+        <p>{{ hit.description }}</p>
+      </div>
+
+      <div class="price-promotion">
+        <p class="price">{{ hit.price }} ₸
+             <span class="promotion"><s>{{ hit.promotion }}</s></span></p>
+      </div>
+      <button class="minus" (click)="removeFromCart(hit)">-</button>
+      <p class="quantity">{{ getProductQuantityById(hit.id) }}</p>
+      <button class="minus" (click)="addToCart(hit)">+</button>
+  </div>
+</div>
+
+<app-footer></app-footer>
+    
+  

@@ -1,0 +1,368 @@
+[
+    [
+        {
+            "id" : 268,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/235074-kassety_venus_breeze_smennye_dlya_britya_co_vstroennymi_podushechkami_s_gelem_2_sht.jpg?w=360&h=360&_c=1685015031",
+            "description" : "Кассеты Venus Breeze сменные для бритья cо встроенными подушечками с гелем 2 шт",
+            "price" : 5197,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 269,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/272451-britva_gillette_mach3_s_1_smennoi_kassetoi_gillette_mach3_smennye_kassety_dlya_britya_4_sht.jpg?w=360&h=360&_c=1685676916",
+            "description" : "Бритва Gillette Mach3 с 1 сменной кассетой + Gillette Mach3 сменные кассеты для бритья 4 шт",
+            "price" : 11948,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 270,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/235075-britva_gillette_fusion_5_proglide_smennye_kassety_2_sht.jpg?w=360&h=360&_c=1685676215",
+            "description" : "Бритва Gillette Fusion 5 ProGlide сменные кассеты 2 шт",
+            "price" : 9514,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 271,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/238418-gel_gillette_moisturizing_dlya_britya_uvlazhnyayushii_200_ml.jpg?w=360&h=360&_c=1685676308",
+            "description" : "Гель Gillette Moisturizing для бритья увлажняющий 200 мл",
+            "price" : 3113,
+            "quantity" : 0,
+            "promotion" : 3713 
+        },
+        {
+            "id" : 272,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/254663-akva-flyuid_l_oreal_paris_genii_uvlazhneniya_dlya_normalnoi_i_kombinirovannoi_kozhi_s_aloe_70_ml.jpg?w=360&h=360&_c=1684400942",
+            "description" : "Аква-флюид L'Oreal Paris Гений Увлажнения для нормальной и комбинированной кожи с алоэ 70 мл",
+            "price" : 3356,
+            "quantity" : 0,
+            "promotion" : 5162
+        },
+        {
+            "id" : 273,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/254654-krem_l_oreal_paris_revitalift_filler_dlya_lica_dnevnoi_antivozrastnoi_50_ml.jpg?w=360&h=360&_c=1684400942",
+            "description" : "Крем L'Oreal Paris Revitalift Filler для лица дневной антивозрастной 50 мл",
+            "price" : 6335,
+            "quantity" : 0,
+            "promotion" : 9050
+        },
+        {
+            "id" : 274,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293132-krem_solncezashitnyi_dlya_vsei_semi_spf_45_s_repelentnym_effektom.jpg?w=360&h=360&_c=1686033939",
+            "description" : "Крем Солнцезащитный Для Всей Семьи SPF 45 С Репелентным Эффектом",
+            "price" : 2295,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 275,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279068-massazher_almaspa_dlya_lica_2v1_ochishenie_i_uhod_zelenyi.png?w=360&h=360&_c=1676373925",
+            "description" : "Массажер Almaspa для лица 2в1 очищение и уход зеленый",
+            "price" : 1715,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 276,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/269231-banochki_almaspa_silikonovye_dlya_kosmeticheskogo_massazha_fuksiya_3_sht.jpg?w=360&h=360&_c=1676026443",
+            "description" : "Баночки Almaspa Силиконовые для косметического массажа фуксия 3 шт",
+            "price" : 2000,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 277,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/287321-zapaski_dorco_dlya_stanka_zapaska_eve_3.jpg?w=360&h=360&_c=1680518817",
+            "description" : "Запаски Dorco для станка запаска Eve 3",
+            "price" : 3715,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 278,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/266060-roller_almaspa_igolchatyi.jpg?w=360&h=360&_c=1676026444",
+            "description" : "Роллер AlmaSpa игольчатый",
+            "price" : 6500,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 279,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279587-kassety_wilkinson_sword_intuition_sensitive_care_3_sht.png?w=360&h=360&_c=1677660530",
+            "description" : "Кассеты Wilkinson Sword Intuition Sensitive Care 3 шт",
+            "price" : 5572,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 280,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/267338-syvorotka_likato_s_lifting-effektom_dlya_lica_30_ml.jpg?w=360&h=360&_c=1684400936",
+            "description" : "Сыворотка Likato с лифтинг-эффектом для лица 30 мл",
+            "price" : 5349,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 281,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/266054-nabor_botavikos_efirnyh_masel_aromaty_krasoty_6_sht_1_5_ml.jpg?w=360&h=360&_c=1684400936",
+            "description" : "Набор Botavikos эфирных масел ароматы красоты 6 шт 1.5 мл",
+            "price" : 2700,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 282,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/262552-syvorotka_prosto_well_done_dlya_lica_s_niacinamidom_50_ml.jpg?w=360&h=360&_c=1685008561",
+            "description" : "Сыворотка Prosto Well Done для лица с ниацинамидом 50 мл",
+            "price" : 12743,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ],
+    [
+        {
+            "id" : 268,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/235074-kassety_venus_breeze_smennye_dlya_britya_co_vstroennymi_podushechkami_s_gelem_2_sht.jpg?w=360&h=360&_c=1685015031",
+            "description" : "Cassettes Venus Breeze Change for shaving with built -in pads with gel 2 pcs",
+            "price" : 5197,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 269,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/272451-britva_gillette_mach3_s_1_smennoi_kassetoi_gillette_mach3_smennye_kassety_dlya_britya_4_sht.jpg?w=360&h=360&_c=1685676916",
+            "description" : "Gillette Mach3 Razor with 1 Replaceable Cassette + Gillette Mach3 replaceable Shaving Cassettes 4 pcs",
+            "price" : 11948,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 270,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/235075-britva_gillette_fusion_5_proglide_smennye_kassety_2_sht.jpg?w=360&h=360&_c=1685676215",
+            "description" : "Razor Gillette Fusion 5 ProGlide replaceable cassettes 2 pcs",
+            "price" : 9514,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 271,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/238418-gel_gillette_moisturizing_dlya_britya_uvlazhnyayushii_200_ml.jpg?w=360&h=360&_c=1685676308",
+            "description" : "Gillette Moisturizing Shaving Gel Moisturizing 200 ml",
+            "price" : 3113,
+            "quantity" : 0,
+            "promotion" : 3713 
+        },
+        {
+            "id" : 272,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/254663-akva-flyuid_l_oreal_paris_genii_uvlazhneniya_dlya_normalnoi_i_kombinirovannoi_kozhi_s_aloe_70_ml.jpg?w=360&h=360&_c=1684400942",
+            "description" : "Aqua Fluid L'Oreal Paris Moisturizing Genius for normal and combination skin with aloe 70 ml",
+            "price" : 3356,
+            "quantity" : 0,
+            "promotion" : 5162
+        },
+        {
+            "id" : 273,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/254654-krem_l_oreal_paris_revitalift_filler_dlya_lica_dnevnoi_antivozrastnoi_50_ml.jpg?w=360&h=360&_c=1684400942",
+            "description" : "Cream L'Oreal Paris Revitalift Filler for face day anti-aging 50 ml",
+            "price" : 6335,
+            "quantity" : 0,
+            "promotion" : 9050
+        },
+        {
+            "id" : 274,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293132-krem_solncezashitnyi_dlya_vsei_semi_spf_45_s_repelentnym_effektom.jpg?w=360&h=360&_c=1686033939",
+            "description" : "Sunscreen For The Whole Family SPF 45 With A Repellent Effect",
+            "price" : 2295,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 275,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279068-massazher_almaspa_dlya_lica_2v1_ochishenie_i_uhod_zelenyi.png?w=360&h=360&_c=1676373925",
+            "description" : "Almaspa Facial Massager 2in1 Cleansing and Care Green",
+            "price" : 1715,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 276,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/269231-banochki_almaspa_silikonovye_dlya_kosmeticheskogo_massazha_fuksiya_3_sht.jpg?w=360&h=360&_c=1676026443",
+            "description" : "Almaspa Silicone jars for cosmetic massage fuchsia 3 pcs",
+            "price" : 2000,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 277,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/287321-zapaski_dorco_dlya_stanka_zapaska_eve_3.jpg?w=360&h=360&_c=1680518817",
+            "description" : "Dorco spare parts for the Eve 3 spare parts machine",
+            "price" : 3715,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 278,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/266060-roller_almaspa_igolchatyi.jpg?w=360&h=360&_c=1676026444",
+            "description" : "AlmaSpa needle roller",
+            "price" : 6500,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 279,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279587-kassety_wilkinson_sword_intuition_sensitive_care_3_sht.png?w=360&h=360&_c=1677660530",
+            "description" : "Wilkinson Sword Intuition Sensitive Care cassettes 3 pcs",
+            "price" : 5572,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 280,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/267338-syvorotka_likato_s_lifting-effektom_dlya_lica_30_ml.jpg?w=360&h=360&_c=1684400936",
+            "description" : "Likato serum with lifting effect for the face 30 ml",
+            "price" : 5349,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 281,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/266054-nabor_botavikos_efirnyh_masel_aromaty_krasoty_6_sht_1_5_ml.jpg?w=360&h=360&_c=1684400936",
+            "description" : "Botavikos Essential Oil Fragrance Beauty Set 6 pcs 1.5ml",
+            "price" : 2700,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 282,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/262552-syvorotka_prosto_well_done_dlya_lica_s_niacinamidom_50_ml.jpg?w=360&h=360&_c=1685008561",
+            "description" : "Prosto Well Done serum for face with niacinamide 50 ml",
+            "price" : 12743,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ],
+    [
+        {
+            "id" : 268,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/235074-kassety_venus_breeze_smennye_dlya_britya_co_vstroennymi_podushechkami_s_gelem_2_sht.jpg?w=360&h=360&_c=1685015031",
+            "description" : "Кірістірілген гель жастықшалары бар қырынуға арналған ауыстырылатын Venus Breeze кассеталары 2 д",
+            "price" : 5197,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 269,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/272451-britva_gillette_mach3_s_1_smennoi_kassetoi_gillette_mach3_smennye_kassety_dlya_britya_4_sht.jpg?w=360&h=360&_c=1685676916",
+            "description" : "1рет ауыстырылатын кассетасы бар Gillette Mach3 ұстарасы + Gillette Mach3 ауыстырылатын қырыну кассеталары 4 дана.",
+            "price" : 11948,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 270,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/235075-britva_gillette_fusion_5_proglide_smennye_kassety_2_sht.jpg?w=360&h=360&_c=1685676215",
+            "description" : "Ұстара Gillette Fusion 5 ProGlide ауыстырылатын кассеталар 2 дана",
+            "price" : 9514,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 271,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/238418-gel_gillette_moisturizing_dlya_britya_uvlazhnyayushii_200_ml.jpg?w=360&h=360&_c=1685676308",
+            "description" : "Gillette ылғалдандыратын қырыну гелі ылғалдандыратын 200 мл",
+            "price" : 3113,
+            "quantity" : 0,
+            "promotion" : 3713 
+        },
+        {
+            "id" : 272,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/254663-akva-flyuid_l_oreal_paris_genii_uvlazhneniya_dlya_normalnoi_i_kombinirovannoi_kozhi_s_aloe_70_ml.jpg?w=360&h=360&_c=1684400942",
+            "description" : "L ' Oreal Paris Аква сұйықтығы алоэ 70 мл қалыпты және аралас теріге арналған ылғалдандыру данышпаны",
+            "price" : 3356,
+            "quantity" : 0,
+            "promotion" : 5162
+        },
+        {
+            "id" : 273,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/254654-krem_l_oreal_paris_revitalift_filler_dlya_lica_dnevnoi_antivozrastnoi_50_ml.jpg?w=360&h=360&_c=1684400942",
+            "description" : "Бетке арналған L ' Oreal Paris Revitalift Filler кремі күндізгі қартаюға қарсы 50 мл",
+            "price" : 6335,
+            "quantity" : 0,
+            "promotion" : 9050
+        },
+        {
+            "id" : 274,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293132-krem_solncezashitnyi_dlya_vsei_semi_spf_45_s_repelentnym_effektom.jpg?w=360&h=360&_c=1686033939",
+            "description" : "Бүкіл отбасы үшін Күннен қорғайтын крем Репеллент әсері бар SPF 45",
+            "price" : 2295,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 275,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279068-massazher_almaspa_dlya_lica_2v1_ochishenie_i_uhod_zelenyi.png?w=360&h=360&_c=1676373925",
+            "description" : "Almaspa бетке арналған Массажер 2в1 тазарту және күтім жасыл",
+            "price" : 1715,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 276,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/269231-banochki_almaspa_silikonovye_dlya_kosmeticheskogo_massazha_fuksiya_3_sht.jpg?w=360&h=360&_c=1676026443",
+            "description" : "Косметикалық массажға арналған Almaspa Силиконды банкалар Фуксия 3 дана",
+            "price" : 2000,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 277,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/287321-zapaski_dorco_dlya_stanka_zapaska_eve_3.jpg?w=360&h=360&_c=1680518817",
+            "description" : "Eve 3 Қосалқы станогына арналған Dorco қорлары",
+            "price" : 3715,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 278,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/266060-roller_almaspa_igolchatyi.jpg?w=360&h=360&_c=1676026444",
+            "description" : "Almaspa ине ролигі",
+            "price" : 6500,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 279,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279587-kassety_wilkinson_sword_intuition_sensitive_care_3_sht.png?w=360&h=360&_c=1677660530",
+            "description" : "Wilkinson Sword intuition sensitive Care таспалары 3 дана",
+            "price" : 5572,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 280,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/267338-syvorotka_likato_s_lifting-effektom_dlya_lica_30_ml.jpg?w=360&h=360&_c=1684400936",
+            "description" : "Бетке арналған лифтинг әсері бар Likato сарысуы 30 мл",
+            "price" : 5349,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 281,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/266054-nabor_botavikos_efirnyh_masel_aromaty_krasoty_6_sht_1_5_ml.jpg?w=360&h=360&_c=1684400936",
+            "description" : "Botavikos эфир майларының жиынтығы Сұлулық хош иістері 6 дана 1.5 мл",
+            "price" : 2700,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 282,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/262552-syvorotka_prosto_well_done_dlya_lica_s_niacinamidom_50_ml.jpg?w=360&h=360&_c=1685008561",
+            "description" : "Ниацинамид 50 мл бетке арналған prosto Well Done сарысуы",
+            "price" : 12743,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ]
+]

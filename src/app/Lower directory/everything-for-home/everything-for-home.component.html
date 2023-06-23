@@ -1,0 +1,68 @@
+<span class="back" routerLink="/main"><- Назад</span>  
+<div>
+    <button class="btn" (click)="showBlock(1)">{{header[translateservice.languageId].For_washing_dishes}}</button>
+    <button class="btn" (click)="showBlock(2)">{{header[translateservice.languageId].Laundry_and_laundry_care}}</button>
+    <button class="btn" (click)="showBlock(3)">{{header[translateservice.languageId].For_cleaning}}</button>
+</div><br><br>
+  
+  <div *ngIf="activeBlock === 1" class="for_washing_dishes">
+    <div class="slide" *ngFor="let hit of text[translateservice.languageId]; let i = index;">
+        <img [src]="hit.img" class="hits_png">
+        <div class="caption" >
+          <h4 class="description" (click)="toggleBlock(i)">{{ hit.description }}</h4>
+
+          <div *ngIf="showDes === i" class="block">
+            <p>{{ hit.description }}</p>
+          </div>
+
+          <div class="price-promotion">
+            <p class="price">{{ hit.price }} ₸
+                 <span class="promotion"><s>{{ hit.promotion }}</s></span></p>
+          </div>
+          <button class="minus" (click)="removeFromCart(hit)">-</button>
+          <p class="quantity">{{ getProductQuantityById(hit.id) }}</p>
+          <button class="minus" (click)="addToCart(hit)">+</button>
+      </div>
+    </div>
+  </div>
+
+
+<div *ngIf="activeBlock === 2">
+  <div class="slide" *ngFor="let hit of text_2[translateservice.languageId]; let i = index;">
+    <img [src]="hit.img" class="hits_png">
+    <div class="caption" >
+      <h4 class="description" (click)="toggleBlock(i)">{{ hit.description }}</h4>
+        <div *ngIf="showDes === i" class="block">
+          <p>{{ hit.description }}</p>
+        </div>  
+        <div class="price-promotion">
+          <p class="price">{{ hit.price }} ₸
+              <span class="promotion"><s>{{ hit.promotion }}</s></span></p>
+        </div>
+        <button class="minus" (click)="removeFromCart(hit)">-</button>
+        <p class="quantity">{{ getProductQuantityById(hit.id) }}</p>
+        <button class="minus" (click)="addToCart(hit)">+</button>
+    </div>
+  </div>
+</div>
+
+<div *ngIf="activeBlock === 3">
+  <div class="slide" *ngFor="let hit of text_3[translateservice.languageId]; let i = index;">
+    <img [src]="hit.img" class="hits_png">
+    <div class="caption" >
+      <h4 class="description" (click)="toggleBlock(i)">{{ hit.description }}</h4>
+        <div *ngIf="showDes === i" class="block">
+          <p>{{ hit.description }}</p>
+        </div>  
+        <div class="price-promotion">
+          <p class="price">{{ hit.price }} ₸
+              <span class="promotion"><s>{{ hit.promotion }}</s></span></p>
+        </div>
+        <button class="minus" (click)="removeFromCart(hit)">-</button>
+        <p class="quantity">{{ getProductQuantityById(hit.id) }}</p>
+        <button class="minus" (click)="addToCart(hit)">+</button>
+    </div>
+  </div>
+</div>
+<app-footer></app-footer>
+  

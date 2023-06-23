@@ -1,0 +1,272 @@
+[
+    [
+        {
+            "id" : 23,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/266140-salat_segodnya_zapechenaya_svekla_s_syrom_210_g.jpg?w=360&h=360&_c=1684202432",
+            "description" : "Салат запеченая свекла с сыром 210 г",
+            "price" : 780,
+            "quantity": 0,
+            "promotion" : null  
+        },
+        {
+            "id" : 24,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/281471-pirozhnoe_napoleon_segodnya_1_sht.jpg?w=360&h=360&_c=1683719535",
+            "description" : "Пирожное Наполеон Сегодня 1 шт",
+            "price" : 605,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id" : 25,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/266144-salat_segodnya_grecheskii_219_g.jpg?w=360&h=360&_c=1684118071",
+            "description" : "Салат Сегодня Греческий 219 г",
+            "price" : 1080,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id" : 26,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279023-dolma_metafarm_aromatnaya_loza_350_gr.jpg?w=360&h=360&_c=1682506154",
+            "description" : "Долма Metafarm ароматная лоза 350 гр",
+            "price" : 2350,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id" : 27,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279022-lyulya-kebab_metafarm_sochnyi_vostochnyi_350_gr.jpg?w=360&h=360&_c=1682506154",
+            "description" : "Люля-кебаб Metafarm восточный 350 гр",
+            "price" : 2350,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id" : 28,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279019-plov_metafarm_biohakerskii_400_gr.jpg?w=360&h=360&_c=1682506154",
+            "description" : "Плов Metafarm биохакерский 400 гр",
+            "price" : 2350,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id" : 29,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/266152-manty_segodnya_s_govyadinoi_265_g.jpg?w=360&h=360&_c=1684118074",
+            "description" : "Манты Сегодня с говядиной 265 г",
+            "price" : 865,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id" : 30,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/272759-brauni_casserole_gluten_free_75_g.jpg?w=360&h=360&_c=1683788270",
+            "description" : "Брауни Casserole Gluten free 75 г",
+            "price" : 1600,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id" : 31,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/268713-kruassan_segodnya_s_kopchenoi_govyadinoi_180_g.jpg?w=360&h=360&_c=1684202433",
+            "description" : "Круассан Сегодня с говядиной 180 г",
+            "price" : 920,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id" : 32,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/266841-salat_s_lososem_220_gr.jpg?w=360&h=360&_c=1684118079",
+            "description" : "Салат с лососем 220 гр",
+            "price" : 1400,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id" : 33,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/268328-vaflya_mfood_sladkaya_150_g.jpg?w=360&h=360&_c=1682506164",
+            "description" : "Вафля Mfood сладкая 150 г",
+            "price" : 635,
+            "quantity": 0,
+            "promotion" : null
+        }
+    ],
+    [
+        {
+            "id" : 23,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/266140-salat_segodnya_zapechenaya_svekla_s_syrom_210_g.jpg?w=360&h=360&_c=1684202432",
+            "description" : "Salad Today baked with cheese 210 g",
+            "price" : 780,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id" : 24,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/281471-pirozhnoe_napoleon_segodnya_1_sht.jpg?w=360&h=360&_c=1683719535",
+            "description" : "Napoleon Cake Today 1 piece",
+            "price" : 605,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id" : 25,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/266144-salat_segodnya_grecheskii_219_g.jpg?w=360&h=360&_c=1684118071",
+            "description" : "Salad Today Greek 219 g",
+            "price" : 1080,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id" : 26,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279023-dolma_metafarm_aromatnaya_loza_350_gr.jpg?w=360&h=360&_c=1682506154",
+            "description" : "At home Metafarm fragrant vine 350 gr",
+            "price" : 2350,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id" : 27,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279022-lyulya-kebab_metafarm_sochnyi_vostochnyi_350_gr.jpg?w=360&h=360&_c=1682506154",
+            "description" : "Lula-kebab Medafarm juicy oriental 350 gr",
+            "price" : 2350,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id" : 28,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279019-plov_metafarm_biohakerskii_400_gr.jpg?w=360&h=360&_c=1682506154",
+            "description" : "Metafarm biohacker pilaf 400 gr",
+            "price" : 2350,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id" : 29,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/266152-manty_segodnya_s_govyadinoi_265_g.jpg?w=360&h=360&_c=1684118074",
+            "description" : "Manti Today with beef 265 g",
+            "price" : 865,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id" : 30,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/272759-brauni_casserole_gluten_free_75_g.jpg?w=360&h=360&_c=1683788270",
+            "description" : "Casserole Gluten free Brownie 75 g",
+            "price" : 1600,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id" : 31,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/268713-kruassan_segodnya_s_kopchenoi_govyadinoi_180_g.jpg?w=360&h=360&_c=1684202433",
+            "description" : "Croissant Today with smoked beef 180 g",
+            "price" : 920,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id" : 32,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/266841-salat_s_lososem_220_gr.jpg?w=360&h=360&_c=1684118079",
+            "description" : "Salad with salmon 220 gr",
+            "price" : 1400,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id" : 33,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/268328-vaflya_mfood_sladkaya_150_g.jpg?w=360&h=360&_c=1682506164",
+            "description" : "Mfood sweet waffle 150 g",
+            "price" : 635,
+            "quantity": 0,
+            "promotion" : null
+        }
+    ],
+    [
+        {
+            "id" : 23,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/266140-salat_segodnya_zapechenaya_svekla_s_syrom_210_g.jpg?w=360&h=360&_c=1684202432",
+            "description" : "Салат бүгінгі ірімшік қосылған 210 г",
+            "price" : 780,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id" : 24,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/281471-pirozhnoe_napoleon_segodnya_1_sht.jpg?w=360&h=360&_c=1683719535",
+            "description" : "Наполеон торты Бүгін 1 дана",
+            "price" : 605,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id" : 25,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/266144-salat_segodnya_grecheskii_219_g.jpg?w=360&h=360&_c=1684118071",
+            "description" : "Бүгінгі грек салаты 219 г",
+            "price" : 1080,
+            "quantity": 0,
+            "promotion" : 0
+        },
+        {
+            "id" : 26,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279023-dolma_metafarm_aromatnaya_loza_350_gr.jpg?w=360&h=360&_c=1682506154",
+            "description" : "Долма medafarm хош иісті раушан 350 гр",
+            "price" : 2350,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id" : 27,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279022-lyulya-kebab_metafarm_sochnyi_vostochnyi_350_gr.jpg?w=360&h=360&_c=1682506154",
+            "description" : "Люля-кебаб Medafarm Шығыс 350 гр",
+            "price" : 2350,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id" : 28,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279019-plov_metafarm_biohakerskii_400_gr.jpg?w=360&h=360&_c=1682506154",
+            "description" : "Metafarm биохакерлік палауы 400 гр",
+            "price" : 2350,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id" : 29,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/266152-manty_segodnya_s_govyadinoi_265_g.jpg?w=360&h=360&_c=1684118074",
+            "description" : "Бүгінгі сиыр еті қосылған мантия 265 г",
+            "price" : 865,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id" : 30,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/272759-brauni_casserole_gluten_free_75_g.jpg?w=360&h=360&_c=1683788270",
+            "description" : "Брауни Casserole Gluten free 75 г",
+            "price" : 1600,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id" : 31,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/268713-kruassan_segodnya_s_kopchenoi_govyadinoi_180_g.jpg?w=360&h=360&_c=1684202433",
+            "description" : "Бүгін ысталған сиыр еті бар Круассан 180 г",
+            "price" : 920,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id" : 32,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/266841-salat_s_lososem_220_gr.jpg?w=360&h=360&_c=1684118079",
+            "description" : "Лосось салаты 220 гр",
+            "price" : 1400,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id" : 33,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/268328-vaflya_mfood_sladkaya_150_g.jpg?w=360&h=360&_c=1682506164",
+            "description" : "Mfood тәтті вафли 150 г",
+            "price" : 635,
+            "quantity": 0,
+            "promotion" : null
+        }
+    ]
+]

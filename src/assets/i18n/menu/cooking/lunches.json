@@ -1,0 +1,368 @@
+[
+    [
+        {
+            "id" : 617,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293170-akciya_spagetti_mfood_kz_s_sousom_boloneze_240_g_chai_lipton_chernyi_persik_500_ml_so_skidkoi.jpg?w=360&h=360&_c=1686049744",
+            "description" : "Акция Спагетти Mfood.kz с соусом болоньезе 240 г + Чай Lipton черный персик 500 мл со скидкой",
+            "price" : 1580,
+            "quantity" : 0,
+            "promotion" : 1915
+        },
+        {
+            "id" : 618,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293168-akciya_rybnyi_sup_mfood_kz_s_semgoi_i_sudakom_300_g_chai_lipton_chernyi_limon_500_ml_so_skidkoi.jpg?w=360&h=360&_c=1686049744",
+            "description" : "Акция Рыбный суп Mfood.kz с семгой и судаком 300 г + Чай Lipton черный лимон 500 мл со скидкой",
+            "price" : 1475,
+            "quantity" : 0,
+            "promotion" : 1795
+        },
+        {
+            "id" : 619,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293167-akciya_kartofelnye_nokki_mfood_kz_v_slivochnom_souse_s_kuricei_i_gribami_300_g_chai_lipton_chernyi_p.jpg?w=360&h=360&_c=1686540346",
+            "description" : "Акция Картофельные ньокки Mfood.kz в сливочном соусе с курицей и грибами 300 г + Чай Lipton черный персик 500 мл со скидкой",
+            "price" : 2110,
+            "quantity" : 0,
+            "promotion" : 2550
+        },
+        {
+            "id" : 620,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292745-roll_s_ugrem_8_sht.jpg?w=360&h=360&_c=1686535939",
+            "description" : "Ролл Сегодня с угрем 8 шт 220 гр",
+            "price" : 2265,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 621,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/282302-poke_oliver_s_indeikoi_180gr.png?w=360&h=360&_c=1686540383",
+            "description" : "Поке Oliver с Индейкой 180гр",
+            "price" : 1105,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 622,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/282301-poke_oliver_s_krivetkoi_180_gr.png?w=360&h=360&_c=1686540381",
+            "description" : "Поке Oliver с Креветкой 180 г",
+            "price" : 1105,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 623,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/282299-poke_oliver_s_lososem_180_gr.png?w=360&h=360&_c=1686540379",
+            "description" : "Поке Oliver с лососем 180 гр",
+            "price" : 1105,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 624,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/282288-baget_oliver_s_indeikoi_180_gr.png?w=360&h=360&_c=1686540385",
+            "description" : "Багет Oliver с индейкой 180 гр",
+            "price" : 800,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 625,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/282276-kruassan_sendvich_oliver_s_indeikoi_190_gr.png?w=360&h=360&_c=1686540384",
+            "description" : "Круассан сэндвич Oliver с индейкой 190 гр",
+            "price" : 800,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 626,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279027-bolonez_metafarm_milano_350_gr.jpg?w=360&h=360&_c=1686049765",
+            "description" : "Болоньез Metafarm Milano 350 гр",
+            "price" : 2350,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" :627,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279019-plov_metafarm_biohakerskii_400_gr.jpg?w=360&h=360&_c=1686049765",
+            "description" : "Плов Metafarm биохакерский замороженный 400 г",
+            "price" : 2350,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 628,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277058-grenki_mfood_kz_s_syrom_i_vetchinoi_220_g.jpg?w=360&h=360&_c=1686049767",
+            "description" : "Гренки Mfood.kz с сыром и ветчиной 220 г",
+            "price" : 1145,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 629,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277029-kasha_mfood_kz_ovsyanaya_300_g.jpg?w=360&h=360&_c=1686049767",
+            "description" : "Каша Mfood.kz овсяная замороженная 300 г",
+            "price" : 805,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 630,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/274061-pasta_mfood_kz_s_moreproduktami_v_tomatnom_souse_240_g.jpg?w=360&h=360&_c=1686049771",
+            "description" : "Паста Mfood.kz с морепродуктами в томатном соусе замороженная 240 г",
+            "price" : 2030,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 631,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277063-zapekanka_mfood_kz_tvorozhnaya_220_g.jpg?w=360&h=360&_c=1686049766",
+            "description" : "Запеканка Mfood.kz творожная замороженная 220 г",
+            "price" : 1560,
+            "quantity" : 0,
+            "promotion" : null
+        } 
+    ],
+    [
+        {
+            "id" : 617,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293170-akciya_spagetti_mfood_kz_s_sousom_boloneze_240_g_chai_lipton_chernyi_persik_500_ml_so_skidkoi.jpg?w=360&h=360&_c=1686049744",
+            "description" : "The action of Spaghetti Mfood.kz with bolognese sauce 240 g + Lipton black peach tea 500 ml with discount",
+            "price" : 1580,
+            "quantity" : 0,
+            "promotion" : 1915
+        },
+        {
+            "id" : 618,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293168-akciya_rybnyi_sup_mfood_kz_s_semgoi_i_sudakom_300_g_chai_lipton_chernyi_limon_500_ml_so_skidkoi.jpg?w=360&h=360&_c=1686049744",
+            "description" : "Mfood Fish soup promotion.kz with salmon and pike perch 300 g + Lipton black lemon tea 500 ml with discount",
+            "price" : 1475,
+            "quantity" : 0,
+            "promotion" : 1795
+        },
+        {
+            "id" : 619,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293167-akciya_kartofelnye_nokki_mfood_kz_v_slivochnom_souse_s_kuricei_i_gribami_300_g_chai_lipton_chernyi_p.jpg?w=360&h=360&_c=1686540346",
+            "description" : "Promotion Potato gnocchi Mfood.kz in cream sauce with chicken and mushrooms 300 g + Lipton black peach tea 500 ml with discount",
+            "price" : 2110,
+            "quantity" : 0,
+            "promotion" : 2550
+        },
+        {
+            "id" : 620,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292745-roll_s_ugrem_8_sht.jpg?w=360&h=360&_c=1686535939",
+            "description" : "Roll with eel 8 pcs",
+            "price" : 2265,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 621,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/282302-poke_oliver_s_indeikoi_180gr.png?w=360&h=360&_c=1686540383",
+            "description" : "Oliver Poke with Turkey 180g",
+            "price" : 1105,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 622,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/282301-poke_oliver_s_krivetkoi_180_gr.png?w=360&h=360&_c=1686540381",
+            "description" : "Oliver Poke with Shrimp 180 g",
+            "price" : 1105,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 623,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/282299-poke_oliver_s_lososem_180_gr.png?w=360&h=360&_c=1686540379",
+            "description" : "Pock Oliver with salmon 180 g",
+            "price" : 1105,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 624,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/282288-baget_oliver_s_indeikoi_180_gr.png?w=360&h=360&_c=1686540385",
+            "description" : "Baguette Oliver with turkey 180 gr",
+            "price" : 800,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 625,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/282276-kruassan_sendvich_oliver_s_indeikoi_190_gr.png?w=360&h=360&_c=1686540384",
+            "description" : "Croissant sandwich Oliver with turkey 190 gr",
+            "price" : 800,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 626,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279027-bolonez_metafarm_milano_350_gr.jpg?w=360&h=360&_c=1686049765",
+            "description" : "Bolognese Metafarm Milano 350 gr",
+            "price" : 2350,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 627,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279019-plov_metafarm_biohakerskii_400_gr.jpg?w=360&h=360&_c=1686049765",
+            "description" : "Pilaf Metafarm Biohaker 400 gr",
+            "price" : 2350,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 628,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277058-grenki_mfood_kz_s_syrom_i_vetchinoi_220_g.jpg?w=360&h=360&_c=1686049767",
+            "description" : "Mfood croutons.kz with cheese and ham 220 g",
+            "price" : 1145,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 629,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277029-kasha_mfood_kz_ovsyanaya_300_g.jpg?w=360&h=360&_c=1686049767",
+            "description" : "Mfood porridge.kz oatmeal 300 g",
+            "price" : 805,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 630,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/274061-pasta_mfood_kz_s_moreproduktami_v_tomatnom_souse_240_g.jpg?w=360&h=360&_c=1686049771",
+            "description" : "Mfood paste.kz with seafood in tomato sauce 240 g",
+            "price" : 2030,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 631,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277063-zapekanka_mfood_kz_tvorozhnaya_220_g.jpg?w=360&h=360&_c=1686049766",
+            "description" : "Casserole mfood.kz curd 220 g",
+            "price" : 1560,
+            "quantity" : 0,
+            "promotion" : null
+        } 
+    ],
+    [   
+        {
+            "id" : 617,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293170-akciya_spagetti_mfood_kz_s_sousom_boloneze_240_g_chai_lipton_chernyi_persik_500_ml_so_skidkoi.jpg?w=360&h=360&_c=1686049744",
+            "description" : "Спагетти акциясы Mfood.kz Болон соусымен 240 г + Липтон шайы қара шабдалы 500 мл жеңілдікпен",
+            "price" : 1580,
+            "quantity" : 0,
+            "promotion" : 1915
+        },
+        {
+            "id" : 618,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293168-akciya_rybnyi_sup_mfood_kz_s_semgoi_i_sudakom_300_g_chai_lipton_chernyi_limon_500_ml_so_skidkoi.jpg?w=360&h=360&_c=1686049744",
+            "description" : "Балық сорпасы акциясы Mfood.kz лосось және Уолли қосылған 300 г + Липтон шайы қара лимон 500 мл жеңілдікпен",
+            "price" : 1475,
+            "quantity" : 0,
+            "promotion" : 1795
+        },
+        {
+            "id" : 619,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293167-akciya_kartofelnye_nokki_mfood_kz_v_slivochnom_souse_s_kuricei_i_gribami_300_g_chai_lipton_chernyi_p.jpg?w=360&h=360&_c=1686540346",
+            "description" : "Картоп гнокки акциясы Mfood.kz тауық пен саңырауқұлақ қосылған кремді тұздықта 300 г + Липтон шайы қара шабдалы 500 мл жеңілдікпен",
+            "price" : 2110,
+            "quantity" : 0,
+            "promotion" : 2550
+        },
+        {
+            "id" : 620,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292745-roll_s_ugrem_8_sht.jpg?w=360&h=360&_c=1686535939",
+            "description" : "Жыланбалық орамы 8 дана",
+            "price" : 2265,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 621,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/282302-poke_oliver_s_indeikoi_180gr.png?w=360&h=360&_c=1686540383",
+            "description" : "Poke Oliver күркетауық 180гр",
+            "price" : 1105,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 622,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/282301-poke_oliver_s_krivetkoi_180_gr.png?w=360&h=360&_c=1686540381",
+            "description" : "180 г асшаян қосылған Оливер Поке",
+            "price" : 1105,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 623,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/282299-poke_oliver_s_lososem_180_gr.png?w=360&h=360&_c=1686540379",
+            "description" : "Лосось қосылған Оливер Поке 180 гр",
+            "price" : 1105,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 624,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/282288-baget_oliver_s_indeikoi_180_gr.png?w=360&h=360&_c=1686540385",
+            "description" : "Baguette Oliver with turkey 180 gr",
+            "price" : 800,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 625,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/282276-kruassan_sendvich_oliver_s_indeikoi_190_gr.png?w=360&h=360&_c=1686540384",
+            "description" : "Oliver Круассан сэндвичі Күркетауықпен 190 гр",
+            "price" : 800,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 626,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279027-bolonez_metafarm_milano_350_gr.jpg?w=360&h=360&_c=1686049765",
+            "description" : "Болонья Metafarm Milano 350 гр",
+            "price" : 2350,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 627,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279019-plov_metafarm_biohakerskii_400_gr.jpg?w=360&h=360&_c=1686049765",
+            "description" : "Metafarm биохакерлік палауы 400 гр",
+            "price" : 2350,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 628,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277058-grenki_mfood_kz_s_syrom_i_vetchinoi_220_g.jpg?w=360&h=360&_c=1686049767",
+            "description" : "Крутондар Mfood.kz ірімшік пен Ветчина қосылған 220 г",
+            "price" : 1145,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 629,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277029-kasha_mfood_kz_ovsyanaya_300_g.jpg?w=360&h=360&_c=1686049767",
+            "description" : "Ботқа Mfood.kz сұлы 300 г",
+            "price" : 805,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 630,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/274061-pasta_mfood_kz_s_moreproduktami_v_tomatnom_souse_240_g.jpg?w=360&h=360&_c=1686049771",
+            "description" : "Паста Mfood.kz Томат тұздығындағы теңіз өнімдерімен 240 г",
+            "price" : 2030,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 631,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277063-zapekanka_mfood_kz_tvorozhnaya_220_g.jpg?w=360&h=360&_c=1686049766",
+            "description" : "Кәстрөл Mfood.kz сүзбе 220 г",
+            "price" : 1560,
+            "quantity" : 0,
+            "promotion" : null
+        } 
+    ]
+]

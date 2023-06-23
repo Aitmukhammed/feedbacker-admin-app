@@ -1,0 +1,368 @@
+[
+    [
+        {
+            "id" : 684,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277692-morozhenoe_fresco_slivochnoe_s_karamelyu_i_greckimi_orehami_130_ml.jpg?w=360&h=360&_c=1686637591",
+            "description" : "Мороженое Fresco Сливочное с карамелью и грецкими орехами 130 мл",
+            "price" : 1070,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 685,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/260290-morozhenoe_fresco_sol_naya_karamel_550_ml.jpg?w=360&h=360&_c=1686911925",
+            "description" : "Мороженое Fresco Солёная карамель 550 мл",
+            "price" : 3720,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 686,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293438-morozhennoe_paleta_sochnaya_vishnya_s_granatom_70_gr.jpg?w=360&h=360&_c=1686911684",
+            "description" : "Мороженное Paleta сочная вишня с гранатом 70 гр",
+            "price" : 1015,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 687,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293457-morozhennoe_kulikovskii_stakan_bum_slivochnoe_s_pechenem_cookies_90_g.jpg?w=360&h=360&_c=1686807238",
+            "description" : "Мороженное Куликовский Стакан Бум сливочное с печеньем Cookies 90 г",
+            "price" : 955,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 688,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293436-morozhennoe_cream_kitchen_tureckii_granat_s_klubnikoi_75_gr.png?w=360&h=360&_c=1686637582",
+            "description" : "Мороженное CREAM&KITCHEN турецкий гранат с клубникой 75 гр",
+            "price" : 1315,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 689,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293129-morozhenoe_inmarko_zolotoi_standart_stakanchik_plombir_s_chernikoi_80_g.jpg?w=360&h=360&_c=1687069381",
+            "description" : "Мороженое Инмарко золотой стандарт стаканчик пломбир с черникой 80 г",
+            "price" : 460,
+            "quantity" : 0,
+            "promotion" : 540
+        },
+        {
+            "id" : 690,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293107-morozhenoe_inmarko_zolotoi_standart_stakanchik_plombir_so_sgushenkoi_80_g.jpg?w=360&h=360&_c=1687069383",
+            "description" : "Мороженое Инмарко золотой стандарт стаканчик пломбир со сгущенкой 80 г",
+            "price" : 460,
+            "quantity" : 0,
+            "promotion" : 540
+        },
+        {
+            "id" : 691,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293105-morozhenoe_inmarko_zolotoi_standart_stakanchik_plombir_80_g.jpg?w=360&h=360&_c=1686637583",
+            "description" : "Мороженое Инмарко золотой стандарт стаканчик пломбир 80 г",
+            "price" : 460,
+            "quantity" : 0,
+            "promotion" : 540
+        },
+        {
+            "id" : 692,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291040-morozhenoe_gormolzavod_so_vkusom_chernoi_smorodiny_450_g.jpg?w=360&h=360&_c=1686637585",
+            "description" : "Мороженое Гормолзавод со вкусом Черной смородины 450 г",
+            "price" : 1485,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 693,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291037-morozhenoe_gormolzavod_so_vkusom_fistashek_450_g.jpg?w=360&h=360&_c=1686820407",
+            "description" : "Мороженое Гормолзавод со вкусом фисташек 450 г",
+            "price" : 1485,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 694,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/290437-morozhenoe_algida_magnat_mini_sunlover_kokos-mango-mindal_276_6_g.png?w=360&h=360&_c=1686910923",
+            "description" : "Мороженое Algida магнат mini sunlover кокос-манго-миндаль 276,6 г",
+            "price" : 2915,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 695,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/290433-morozhenoe_inmarko_zolotoi_standart_stakanchik_plombir_s_madagaskarskoi_vanilyu_65_g.png?w=360&h=360&_c=1686910878",
+            "description" : "Мороженое Инмарко Золотой стандарт стаканчик пломбир с мадагаскарской ванилью 65 г",
+            "price" : 370,
+            "quantity" : 0,
+            "promotion" : 435
+        },
+        {
+            "id" : 696,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/290431-morozhenoe_slasti_dinasti_shokoladnoe_800_g.jpeg?w=360&h=360&_c=1686637585",
+            "description" : "Мороженое Сласти Династи Шоколадное 800 г",
+            "price" : 2080,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 697,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/290412-morozhenoe_gost_shokoladnoe_15_800_g.jpg?w=360&h=360&_c=1686637585",
+            "description" : "Мороженое Гост Шоколадное 15% 800 г",
+            "price" : 2990,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 698,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/290423-morozhenoe_gost_plombirnoe_15_800_g.jpg?w=360&h=360&_c=1686637585",
+            "description" : "Мороженое Гост Пломбирное 15%800 г",
+            "price" : 2990,
+            "quantity" : 0,
+            "promotion" : null
+        } 
+    ],
+    [
+        {
+            "id" : 684,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277692-morozhenoe_fresco_slivochnoe_s_karamelyu_i_greckimi_orehami_130_ml.jpg?w=360&h=360&_c=1686637591",
+            "description" : "Fresco Cream ice cream with caramel and walnuts 130 ml",
+            "price" : 1070,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 685,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/260290-morozhenoe_fresco_sol_naya_karamel_550_ml.jpg?w=360&h=360&_c=1686911925",
+            "description" : "Ice cream Fresco Salted caramel 550 ml",
+            "price" : 3720,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 686,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293438-morozhennoe_paleta_sochnaya_vishnya_s_granatom_70_gr.jpg?w=360&h=360&_c=1686911684",
+            "description" : "Paleta juicy cherry ice cream with pomegranate 70 gr",
+            "price" : 1015,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 687,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293457-morozhennoe_kulikovskii_stakan_bum_slivochnoe_s_pechenem_cookies_90_g.jpg?w=360&h=360&_c=1686807238",
+            "description" : "Ice cream Kulikovsky Glass Boom cream with cookies Cookies 90 g",
+            "price" : 955,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 688,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293436-morozhennoe_cream_kitchen_tureckii_granat_s_klubnikoi_75_gr.png?w=360&h=360&_c=1686637582",
+            "description" : "CREAM&KITCHEN ice cream Turkish pomegranate with strawberries 75 gr",
+            "price" : 1315,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 689,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293129-morozhenoe_inmarko_zolotoi_standart_stakanchik_plombir_s_chernikoi_80_g.jpg?w=360&h=360&_c=1687069381",
+            "description" : "Inmarko ice cream gold standard ice cream cup with blueberries 80 g",
+            "price" : 460,
+            "quantity" : 0,
+            "promotion" : 540
+        },
+        {
+            "id" : 690,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293107-morozhenoe_inmarko_zolotoi_standart_stakanchik_plombir_so_sgushenkoi_80_g.jpg?w=360&h=360&_c=1687069383",
+            "description" : "Ice cream Inmarko gold standard cup ice cream with condensed milk 80 g",
+            "price" : 460,
+            "quantity" : 0,
+            "promotion" : 540
+        },
+        {
+            "id" : 691,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293105-morozhenoe_inmarko_zolotoi_standart_stakanchik_plombir_80_g.jpg?w=360&h=360&_c=1686637583",
+            "description" : "Inmarko ice cream gold standard ice cream cup 80 g",
+            "price" : 460,
+            "quantity" : 0,
+            "promotion" : 540
+        },
+        {
+            "id" : 692,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291040-morozhenoe_gormolzavod_so_vkusom_chernoi_smorodiny_450_g.jpg?w=360&h=360&_c=1686637585",
+            "description" : "Gormolzavod ice cream with Black currant flavor 450 g",
+            "price" : 1485,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 693,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291037-morozhenoe_gormolzavod_so_vkusom_fistashek_450_g.jpg?w=360&h=360&_c=1686820407",
+            "description" : "Gormolzavod ice cream with pistachio flavor 450 g",
+            "price" : 1485,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 694,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/290437-morozhenoe_algida_magnat_mini_sunlover_kokos-mango-mindal_276_6_g.png?w=360&h=360&_c=1686910923",
+            "description" : "Algida Ice cream magnate mini sunlover coconut mango almond 276.6 g",
+            "price" : 2915,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 695,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/290433-morozhenoe_inmarko_zolotoi_standart_stakanchik_plombir_s_madagaskarskoi_vanilyu_65_g.png?w=360&h=360&_c=1686910878",
+            "description" : "Inmarco Gold Standard ice cream sundae cup with Madagascar vanilla 65 g",
+            "price" : 370,
+            "quantity" : 0,
+            "promotion" : 435
+        },
+        {
+            "id" : 696,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/290431-morozhenoe_slasti_dinasti_shokoladnoe_800_g.jpeg?w=360&h=360&_c=1686637585",
+            "description" : "Ice cream Slasti Dinasti Chocolate 800 gr",
+            "price" : 2080,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 697,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/290412-morozhenoe_gost_shokoladnoe_15_800_g.jpg?w=360&h=360&_c=1686637585",
+            "description" : "Gost Chocolate ice cream 15% 800 g",
+            "price" : 2990,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 698,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/290423-morozhenoe_gost_plombirnoe_15_800_g.jpg?w=360&h=360&_c=1686637585",
+            "description" : "Gost Ice cream Plombir 15% 800g",
+            "price" : 2990,
+            "quantity" : 0,
+            "promotion" : null
+        } 
+    ],
+    [
+        {
+            "id" : 684,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277692-morozhenoe_fresco_slivochnoe_s_karamelyu_i_greckimi_orehami_130_ml.jpg?w=360&h=360&_c=1686637591",
+            "description" : "Карамель мен жаңғақ қосылған кремді Fresco балмұздақ 130 мл",
+            "price" : 1070,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 685,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/260290-morozhenoe_fresco_sol_naya_karamel_550_ml.jpg?w=360&h=360&_c=1686911925",
+            "description" : "Fresco балмұздақ тұздалған карамель 550 мл",
+            "price" : 3720,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 686,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293438-morozhennoe_paleta_sochnaya_vishnya_s_granatom_70_gr.jpg?w=360&h=360&_c=1686911684",
+            "description" : "Балмұздақ палета Анар қосылған шырынды шие 70 гр",
+            "price" : 1015,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 687,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293457-morozhennoe_kulikovskii_stakan_bum_slivochnoe_s_pechenem_cookies_90_g.jpg?w=360&h=360&_c=1686807238",
+            "description" : "Балмұздақ Куликовский стакан Бум печенье қосылған кремді печенье 90 г",
+            "price" : 955,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 688,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293436-morozhennoe_cream_kitchen_tureckii_granat_s_klubnikoi_75_gr.png?w=360&h=360&_c=1686637582",
+            "description" : "Cream&KITCHEN балмұздақ құлпынай қосылған түрік анары 75 гр",
+            "price" : 1315,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 689,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293129-morozhenoe_inmarko_zolotoi_standart_stakanchik_plombir_s_chernikoi_80_g.jpg?w=360&h=360&_c=1687069381",
+            "description" : "Инмарко балмұздақ алтын стандарт көкжидек пломбасы 80 г",
+            "price" : 460,
+            "quantity" : 0,
+            "promotion" : 540
+        },
+        {
+            "id" : 690,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293107-morozhenoe_inmarko_zolotoi_standart_stakanchik_plombir_so_sgushenkoi_80_g.jpg?w=360&h=360&_c=1687069383",
+            "description" : "Инмарко балмұздақ алтын стандарт қоюландырылған сүт қосылған стакан пломбир 80 г",
+            "price" : 460,
+            "quantity" : 0,
+            "promotion" : 540
+        },
+        {
+            "id" : 691,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293105-morozhenoe_inmarko_zolotoi_standart_stakanchik_plombir_80_g.jpg?w=360&h=360&_c=1686637583",
+            "description" : "Инмарко балмұздақ алтын стандарт шыныаяқ пломбир 80 г",
+            "price" : 460,
+            "quantity" : 0,
+            "promotion" : 540
+        },
+        {
+            "id" : 692,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291040-morozhenoe_gormolzavod_so_vkusom_chernoi_smorodiny_450_g.jpg?w=360&h=360&_c=1686637585",
+            "description" : "Балмұздақ Гормолқара Қарақат хош иісті өсімдік 450 г",
+            "price" : 1485,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 693,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291037-morozhenoe_gormolzavod_so_vkusom_fistashek_450_g.jpg?w=360&h=360&_c=1686820407",
+            "description" : "Балмұздақ Гормолпісте Хош Иістендірілген өсімдік 450 г",
+            "price" : 1485,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 694,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/290437-morozhenoe_algida_magnat_mini_sunlover_kokos-mango-mindal_276_6_g.png?w=360&h=360&_c=1686910923",
+            "description" : "Algida Магнат балмұздағы mini sunlover кокос-манго-миндаль 276,6 г",
+            "price" : 2915,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 695,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/290433-morozhenoe_inmarko_zolotoi_standart_stakanchik_plombir_s_madagaskarskoi_vanilyu_65_g.png?w=360&h=360&_c=1686910878",
+            "description" : "Инмарко балмұздақ алтын стандарт шыныаяқ Мадагаскар ваниль пломбасы 65 г",
+            "price" : 370,
+            "quantity" : 0,
+            "promotion" : 435
+        },
+        {
+            "id" : 696,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/290431-morozhenoe_slasti_dinasti_shokoladnoe_800_g.jpeg?w=360&h=360&_c=1686637585",
+            "description" : "Балмұздақ Сласти Династи шоколадты 800 гр",
+            "price" : 2080,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 697,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/290412-morozhenoe_gost_shokoladnoe_15_800_g.jpg?w=360&h=360&_c=1686637585",
+            "description" : "Гост Шоколадты балмұздақ 15% 800 г",
+            "price" : 2990,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 698,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/290423-morozhenoe_gost_plombirnoe_15_800_g.jpg?w=360&h=360&_c=1686637585",
+            "description" : "Гост Пломбирлі балмұздақ 15% 800 г",
+            "price" : 2990,
+            "quantity" : 0,
+            "promotion" : null
+        } 
+    ]
+]

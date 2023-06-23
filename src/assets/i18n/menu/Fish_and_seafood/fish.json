@@ -1,0 +1,320 @@
+[
+    [
+        {
+            "id" : 588,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/238083-forel_santa_bremor_podkopchennaya_file-kusok_200_g.jpg?w=360&h=360&_c=1682497371",
+            "description" : "Форель Санта Бремор подкопченная филе-кусок 200 г",
+            "price" : 5135,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 589,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292750-preserva_rokos_fish_skumbriya_kopchenaya_180_g.png?w=360&h=360&_c=1686563136",
+            "description" : "Пресерва Rokos fish скумбрия копченая 180 г",
+            "price" : 1365,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 590,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/284447-nerka_meridian_lomtiki_slabosolenaya_120_g.png?w=360&h=360&_c=1685615605",
+            "description" : "Нерка Меридиан ломтики слабосоленая 120 г",
+            "price" : 3510,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 591,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/267560-forel_meridian_file_kusok_slabosolenaya_150_g.jpg?w=360&h=360&_c=1686017308",
+            "description" : "Форель Меридиан филе кусок слабосоленая 150 г",
+            "price" : 4000,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 592,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19982-39-seld_ru.jpg?w=360&h=360&_c=1684912940",
+            "description" : "Сельдь",
+            "price" : 2005,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 593,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292717-dorado_elitefish_zamorozhennaya_potroshenaya_s_golovoi_kg.jpg?w=360&h=360&_c=1686397513",
+            "description" : "Дорадо Elitefish замороженная потрошеная с головой кг",
+            "price" : 6250,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 594,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/288794-forel_good_fish_zamorozhennaya_potroshennaya_kg.jpg?w=360&h=360&_c=1686460186",
+            "description" : "Форель Good fish замороженная потрошенная кг",
+            "price" : 6000,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 595,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/289911-file_raduzhnoi_foreli_good_fish_svezhemorozhenaya_kg.jpeg?w=360&h=360&_c=1686135417",
+            "description" : "Филе радужной форели Good fish свежемороженая кг",
+            "price" : 8625,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 596,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/288331-pangasius_lofoten_viking_file_kg.jpg?w=360&h=360&_c=1684829381",
+            "description" : "Пангасиус Lofoten viking филе кг",
+            "price" : 3145,
+            "quantity" : 0,
+            "promotion" : 3930
+        },
+        {
+            "id" : 597,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/271819-seld_rokos_s_ukropom_v_masle_500_g.jpg?w=360&h=360&_c=1686218411",
+            "description" : "Сельдь Rokos с укропом в масле 500 г",
+            "price" : 1720,
+            "quantity" : 0,
+            "promotion" : 2295
+        },
+        {
+            "id" : 598,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/287778-steik_good_fish_atlanticheskoi_foreli_podkova_320-350_g.jpg?w=360&h=360&_c=1686136235",
+            "description" : "Стейк Good fish атлантической форели Подкова 320-350 г",
+            "price" : 3375,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 599,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/265657-seld_meridian_file_kusochki_v_masle_480_g.jpg?w=360&h=360&_c=1685009464",
+            "description" : "Сельдь Меридиан филе кусочки в масле 480 г",
+            "price" : 2520,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 600,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/284973-mintai_dobroflot_file_bez_kozhi_400_g.png?w=360&h=360&_c=1685931625",
+            "description" : "Минтай Доброфлот филе без кожи 400 г",
+            "price" : 2950,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ],
+    [
+        {
+            "id" : 588,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/238083-forel_santa_bremor_podkopchennaya_file-kusok_200_g.jpg?w=360&h=360&_c=1682497371",
+            "description" : "Trout Santa Bremor, wiped fillet-dick 200 g",
+            "price" : 5135,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 589,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292750-preserva_rokos_fish_skumbriya_kopchenaya_180_g.png?w=360&h=360&_c=1686563136",
+            "description" : "Canned Rokos fish smoked mackerel 180 g",
+            "price" : 1365,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 590,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/284447-nerka_meridian_lomtiki_slabosolenaya_120_g.png?w=360&h=360&_c=1685615605",
+            "description" : "Sockeye Meridian slices lightly salted 120 g",
+            "price" : 3510,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 591,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/267560-forel_meridian_file_kusok_slabosolenaya_150_g.jpg?w=360&h=360&_c=1686017308",
+            "description" : "Meridian trout fillet piece lightly salted 150 g",
+            "price" : 4000,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 592,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19982-39-seld_ru.jpg?w=360&h=360&_c=1684912940",
+            "description" : "Herring",
+            "price" : 2005,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 593,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292717-dorado_elitefish_zamorozhennaya_potroshenaya_s_golovoi_kg.jpg?w=360&h=360&_c=1686397513",
+            "description" : "Drado Elitefish frozen gutted with a head of kg",
+            "price" : 6250,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 594,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/288794-forel_good_fish_zamorozhennaya_potroshennaya_kg.jpg?w=360&h=360&_c=1686460186",
+            "description" : "Trout Good fish frozen gutted kg",
+            "price" : 6000,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 595,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/289911-file_raduzhnoi_foreli_good_fish_svezhemorozhenaya_kg.jpeg?w=360&h=360&_c=1686135417",
+            "description" : "Rainbow trout fillet Good fish fresh frozen kg",
+            "price" : 8625,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 596,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/288331-pangasius_lofoten_viking_file_kg.jpg?w=360&h=360&_c=1684829381",
+            "description" : "Pangasius Lofoten viking fillet kg",
+            "price" : 3145,
+            "quantity" : 0,
+            "promotion" : 3930
+        },
+        {
+            "id" : 597,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/271819-seld_rokos_s_ukropom_v_masle_500_g.jpg?w=360&h=360&_c=1686218411",
+            "description" : "Rokos herring with dill in oil 500 g",
+            "price" : 1720,
+            "quantity" : 0,
+            "promotion" : 2295
+        },
+        {
+            "id" : 598,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/287778-steik_good_fish_atlanticheskoi_foreli_podkova_320-350_g.jpg?w=360&h=360&_c=1686136235",
+            "description" : "Good fish steak of Atlantic trout Horseshoe 320-350 g",
+            "price" : 3375,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 599,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/265657-seld_meridian_file_kusochki_v_masle_480_g.jpg?w=360&h=360&_c=1685009464",
+            "description" : "Meridian herring fillet pieces in oil 480 g",
+            "price" : 2520,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 600,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/284973-mintai_dobroflot_file_bez_kozhi_400_g.png?w=360&h=360&_c=1685931625",
+            "description" : "Mintay Dobroflot fillet without skin 400 g",
+            "price" : 2950,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ],
+    [
+        {
+            "id" : 588,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/238083-forel_santa_bremor_podkopchennaya_file-kusok_200_g.jpg?w=360&h=360&_c=1682497371",
+            "description" : "Санта-Бремор форельі ысталған филе-200 г бөлік",
+            "price" : 5135,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 589,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292750-preserva_rokos_fish_skumbriya_kopchenaya_180_g.png?w=360&h=360&_c=1686563136",
+            "description" : "Preserva Rokos fish ысталған скумбрия 180 г",
+            "price" : 1365,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 590,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/284447-nerka_meridian_lomtiki_slabosolenaya_120_g.png?w=360&h=360&_c=1685615605",
+            "description" : "Лосось Меридиан тілімдері аздап тұздалған 120 г",
+            "price" : 3510,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 591,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/267560-forel_meridian_file_kusok_slabosolenaya_150_g.jpg?w=360&h=360&_c=1686017308",
+            "description" : "Форель Меридиан филесі аздап тұздалған бөлік 150 г",
+            "price" : 4000,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 592,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19982-39-seld_ru.jpg?w=360&h=360&_c=1684912940",
+            "description" : "Майшабақ",
+            "price" : 2005,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 593,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292717-dorado_elitefish_zamorozhennaya_potroshenaya_s_golovoi_kg.jpg?w=360&h=360&_c=1686397513",
+            "description" : "Дорадо Elitefish мұздатылған ішек басы кг",
+            "price" : 6250,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 594,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/288794-forel_good_fish_zamorozhennaya_potroshennaya_kg.jpg?w=360&h=360&_c=1686460186",
+            "description" : "Жақсы балық Форелі мұздатылған ішек кг",
+            "price" : 6000,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 595,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/289911-file_raduzhnoi_foreli_good_fish_svezhemorozhenaya_kg.jpeg?w=360&h=360&_c=1686135417",
+            "description" : "Жақсы балық кемпірқосақ форель филесі жаңа мұздатылған кг",
+            "price" : 8625,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 596,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/288331-pangasius_lofoten_viking_file_kg.jpg?w=360&h=360&_c=1684829381",
+            "description" : "Pangasius Lofoten Viking филе кг",
+            "price" : 3145,
+            "quantity" : 0,
+            "promotion" : 3930
+        },
+        {
+            "id" : 597,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/271819-seld_rokos_s_ukropom_v_masle_500_g.jpg?w=360&h=360&_c=1686218411",
+            "description" : "Аскөк қосылған Rokos майшабақ майы 500 г",
+            "price" : 1720,
+            "quantity" : 0,
+            "promotion" : 2295
+        },
+        {
+            "id" : 598,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/287778-steik_good_fish_atlanticheskoi_foreli_podkova_320-350_g.jpg?w=360&h=360&_c=1686136235",
+            "description" : "Жақсы балық Стейк Атлантикалық форель жылқы 320-350 г",
+            "price" : 3375,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 599,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/265657-seld_meridian_file_kusochki_v_masle_480_g.jpg?w=360&h=360&_c=1685009464",
+            "description" : "Майшабақ Меридиан филе майдағы кесектер 480 г",
+            "price" : 2520,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 600,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/284973-mintai_dobroflot_file_bez_kozhi_400_g.png?w=360&h=360&_c=1685931625",
+            "description" : "Поллок Доброфлот терісі жоқ филе 400 г",
+            "price" : 2950,
+            "quantity" : 0,
+            "promotion" : null
+        }   
+    ]
+]

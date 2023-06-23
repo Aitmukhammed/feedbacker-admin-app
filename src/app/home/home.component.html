@@ -1,0 +1,22 @@
+<!-- <div *ngIf="info.token; else loggedOut">
+    <h5 class="text-primary">Hello, Home!</h5>
+    <p>
+      <strong>Username: </strong> {{info.username}} <br/>
+      <strong>Roles:</strong> {{info.roles}} <br/>
+      <strong>Token:</strong> {{info.token}} <br/>
+    </p>
+    <button class="btn btn-secondary" (click)="logout()">Logout</button>
+  </div>  -->
+
+  <div class="container" *ngIf="info.token; else loggedOut">
+    <div class="jumbotron">
+      <p>{{text[translateService.languageId].welcome}}</p> 
+      <p class="username">{{info.username}}</p> <br>
+      <button class="btn btn-danger" (click)="logout()">{{text[translateService.languageId].Logout}}</button>
+    </div>
+  </div>
+  
+  
+  <ng-template #loggedOut>
+   <h1> {{text[translateService.languageId].Please_login}}</h1>
+  </ng-template>

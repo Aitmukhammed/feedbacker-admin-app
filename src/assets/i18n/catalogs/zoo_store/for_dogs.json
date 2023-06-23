@@ -1,0 +1,320 @@
+[
+    [
+        {
+            "id" : 340,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/229024-korm_suhoi_pro_plan_sensitive_yagnenok_i_ris_dlya_vzroslyh_sobak_krupnyh_porod_s_chuvstvitelnym_pish.jpg?w=360&h=360&_c=1686025811",
+            "description" : "Корм сухой Pro Plan с высоким содержанием ягненка для взрослых собак крупных пород с чувствительным пищеварением 14 кг",
+            "price" : 37675,
+            "quantity" : 0,
+            "promotion" : 47095
+        },
+        {
+            "id" : 341,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/246674-korm_suhoi_pro_plan_puppy_sensitive_dlya_shenkov_s_chuvstvitelnym_pishevareniem_i_kozhei_12_kg.jpg?w=360&h=360&_c=1686025804",
+            "description" : "Корм сухой Pro Plan с высоким содержанием лосося для щенков средних пород с чувствительной кожей 12 кг",
+            "price" : 35535,
+            "quantity" : 0,
+            "promotion" : 44240
+        },
+        {
+            "id" : 342,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293261-lakomstvo_titbit_pastila_myasnaya_s_utkoi_i_kerobom_lakomstvo_dlya_sobak_130_g.jpg?w=360&h=360&_c=1686279282",
+            "description" : "Лакомство Titbit пастила мясная с уткой и кэробом Лакомство для собак 130 г",
+            "price" : 1025,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 343,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/288431-polnoracionnyi_suhoi_korm_s_govyadinoi_black_angus_dlya_vzroslyh_sobak_srednih_porod_starshe_1_goda_.jpg?w=360&h=360&_c=1680516061",
+            "description" : "Полнорационный сухой корм с говядиной Black Angus для взрослых собак средних пород старше 1 года 2,6 кг",
+            "price" : 7940,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 344,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/288427-polnoracionnyi_suhoi_korm_winner_extra_meat_dlya_shenkov_srednih_porod_s_nezhnoi_telyatinoi_v_souse_.jpg?w=360&h=360&_c=1680516061",
+            "description" : "Полнорационный сухой корм Winner Extra Meat для щенков средних пород с нежной телятиной в соусе 600 г",
+            "price" : 2330,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 345,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279097-korm_suhoi_royal_canine_yorkshire_terrier_puppy_dlya_shenkov_porody_iorkshirskii_terer_1_5_kg.png?w=360&h=360&_c=1685966145",
+            "description" : "Корм сухой Royal Canin Yorkshire Terrier Puppy для щенков породы йоркширский терьер 1.5 кг",
+            "price" : 9670,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 346,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279095-korm_suhoi_royal_canine_puppy_mini_adult_dlya_shenkov_melkih_porod_10_mes_2_kg.png?w=360&h=360&_c=1685624670",
+            "description" : "Корм сухой Royal Canin Mini Adult для щенков мелких пород 2 кг",
+            "price" : 9375,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 347,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/263928-korm_chappi_govyadina_po-domashnemu_suhoi_dlya_sobak_15_kg.jpg?w=360&h=360&_c=1684150580",
+            "description" : "Корм Chappi Говядина по-домашнему сухой для собак 15 кг",
+            "price" : 16500,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 348,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277969-lakomstvo_titbit_kubiki_iz_telyatiny_dlya_sobak_mini_porod_100_g_.jpg?w=360&h=360&_c=1685608172",
+            "description" : "Лакомство TiTBiT кубики из телятины для собак мини пород 100 г",
+            "price" : 1700,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 349,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/289119-igrushka_gigwi_dlya_sobak_sobachka_so_smennymi_pishalkami_seriya_plush_friendz_13_sm.jpg?w=360&h=360&_c=1686036172",
+            "description" : "Игрушка Gigwi для собак Собачка со сменными пищалками серия plush friendz 13 см",
+            "price" : 3625,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 350,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/289177-igrushka_gigwi_dlya_sobak_dva_myacha_s_pishalkoi_seriya_ball_6_sm.jpg?w=360&h=360&_c=1686036172",
+            "description" : "Игрушка Gigwi для собак Собачка со сменными пищалками серия plush friendz 13 см",
+            "price" : 6025,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 351,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/282255-povodok_kapronovyi_sinii_i_krasnyi_5_m.jpg?w=360&h=360&_c=1683702837",
+            "description" : "Поводок капроновый синий и красный 5 м",
+            "price" : 6215,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 352,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/282259-povodok-ruletka_dlya_sobak_flexi_life_pink_s_do_12kg_tros_5m.jpg?w=360&h=360&_c=1683702838",
+            "description" : "Поводок-рулетка для собак Flexi Life Pink S до 12кг трос 5м",
+            "price" : 9470,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ],
+    [
+        {
+            "id" : 340,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/229024-korm_suhoi_pro_plan_sensitive_yagnenok_i_ris_dlya_vzroslyh_sobak_krupnyh_porod_s_chuvstvitelnym_pish.jpg?w=360&h=360&_c=1686025811",
+            "description" : "Dry food Pro Plan with a high content of lamb for adult dogs of large breeds with sensitive digestion 14 kg",
+            "price" : 37675,
+            "quantity" : 0,
+            "promotion" : 47095
+        },
+        {
+            "id" : 341,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/246674-korm_suhoi_pro_plan_puppy_sensitive_dlya_shenkov_s_chuvstvitelnym_pishevareniem_i_kozhei_12_kg.jpg?w=360&h=360&_c=1686025804",
+            "description" : "Dry Pro Plan food with a high salmon content for medium breed puppies with sensitive skin 12 kg",
+            "price" : 35535,
+            "quantity" : 0,
+            "promotion" : 44240
+        },
+        {
+            "id" : 342,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293261-lakomstvo_titbit_pastila_myasnaya_s_utkoi_i_kerobom_lakomstvo_dlya_sobak_130_g.jpg?w=360&h=360&_c=1686279282",
+            "description" : "Titbit delicacy meat pastille with duck and carob Delicacy for dogs 130 g",
+            "price" : 1025,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 343,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/288431-polnoracionnyi_suhoi_korm_s_govyadinoi_black_angus_dlya_vzroslyh_sobak_srednih_porod_starshe_1_goda_.jpg?w=360&h=360&_c=1680516061",
+            "description" : "Complete dry food with Black Angus beef for adult dogs of medium breeds older than 1 year 2.6 kg",
+            "price" : 7940,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 344,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/288427-polnoracionnyi_suhoi_korm_winner_extra_meat_dlya_shenkov_srednih_porod_s_nezhnoi_telyatinoi_v_souse_.jpg?w=360&h=360&_c=1680516061",
+            "description" : "Winner Extra Meat full-fledged dry food for medium breed puppies with tender veal in sauce 600 g",
+            "price" : 2330,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 345,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279097-korm_suhoi_royal_canine_yorkshire_terrier_puppy_dlya_shenkov_porody_iorkshirskii_terer_1_5_kg.png?w=360&h=360&_c=1685966145",
+            "description" : "Royal Canin Yorkshire Terrier Puppy dry food for Yorkshire Terrier puppies 1.5 kg",
+            "price" : 9670,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 346,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279095-korm_suhoi_royal_canine_puppy_mini_adult_dlya_shenkov_melkih_porod_10_mes_2_kg.png?w=360&h=360&_c=1685624670",
+            "description" : "Royal Canin Mini Adult dry food for puppies of small breeds 2 kg",
+            "price" : 9375,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 347,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/263928-korm_chappi_govyadina_po-domashnemu_suhoi_dlya_sobak_15_kg.jpg?w=360&h=360&_c=1684150580",
+            "description" : "Chappi Beef homemade dry food for dogs 15 kg",
+            "price" : 16500,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 348,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277969-lakomstvo_titbit_kubiki_iz_telyatiny_dlya_sobak_mini_porod_100_g_.jpg?w=360&h=360&_c=1685608172",
+            "description" : "TiTBiT delicacy veal cubes for dogs of mini breeds 100 g",
+            "price" : 1700,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 349,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/289119-igrushka_gigwi_dlya_sobak_sobachka_so_smennymi_pishalkami_seriya_plush_friendz_13_sm.jpg?w=360&h=360&_c=1686036172",
+            "description" : "Gigwi Toy for Dogs Doggie with replaceable squeakers series plush friendz 13 cm",
+            "price" : 3625,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 350,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/289177-igrushka_gigwi_dlya_sobak_dva_myacha_s_pishalkoi_seriya_ball_6_sm.jpg?w=360&h=360&_c=1686036172",
+            "description" : "Gigwi Toy for dogs Two balls with squeaker series ball 6 cm",
+            "price" : 6025,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 351,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/282255-povodok_kapronovyi_sinii_i_krasnyi_5_m.jpg?w=360&h=360&_c=1683702837",
+            "description" : "Nylon leash blue and red 5 m",
+            "price" : 6215,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 352,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/282259-povodok-ruletka_dlya_sobak_flexi_life_pink_s_do_12kg_tros_5m.jpg?w=360&h=360&_c=1683702838",
+            "description" : "Leash tape measure for dogs Flexi Life Pink S up to 12kg rope 5m",
+            "price" : 9470,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ],
+    [
+        {
+            "id" : 340,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/229024-korm_suhoi_pro_plan_sensitive_yagnenok_i_ris_dlya_vzroslyh_sobak_krupnyh_porod_s_chuvstvitelnym_pish.jpg?w=360&h=360&_c=1686025811",
+            "description" : "Сезімтал ас қорытуы бар ірі тұқымды ересек иттерге арналған құрғақ Pro Plan жоғары Қозы тағамы 14 кг",
+            "price" : 37675,
+            "quantity" : 0,
+            "promotion" : 47095
+        },
+        {
+            "id" : 341,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/246674-korm_suhoi_pro_plan_puppy_sensitive_dlya_shenkov_s_chuvstvitelnym_pishevareniem_i_kozhei_12_kg.jpg?w=360&h=360&_c=1686025804",
+            "description" : "Сезімтал терісі 12 кг орташа тұқымды күшіктерге арналған құрғақ Pro Plan жоғары лосось тағамы",
+            "price" : 35535,
+            "quantity" : 0,
+            "promotion" : 44240
+        },
+        {
+            "id" : 342,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293261-lakomstvo_titbit_pastila_myasnaya_s_utkoi_i_kerobom_lakomstvo_dlya_sobak_130_g.jpg?w=360&h=360&_c=1686279282",
+            "description" : "Titbit нәзіктігі үйрек пен кароб қосылған ет пастиласы иттерге арналған ем 130 г",
+            "price" : 1025,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 343,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/288431-polnoracionnyi_suhoi_korm_s_govyadinoi_black_angus_dlya_vzroslyh_sobak_srednih_porod_starshe_1_goda_.jpg?w=360&h=360&_c=1680516061",
+            "description" : "1 жастан асқан ересек орта тұқымды иттерге арналған қара ангус сиыр етінің толық құрғақ тамағы 2,6 кг",
+            "price" : 7940,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 344,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/288427-polnoracionnyi_suhoi_korm_winner_extra_meat_dlya_shenkov_srednih_porod_s_nezhnoi_telyatinoi_v_souse_.jpg?w=360&h=360&_c=1680516061",
+            "description" : "600 г тұздықта нәзік бұзау еті бар орташа тұқымды күшіктерге арналған Winner extra Meat толық құрғақ тағамы",
+            "price" : 2330,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 345,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279097-korm_suhoi_royal_canine_yorkshire_terrier_puppy_dlya_shenkov_porody_iorkshirskii_terer_1_5_kg.png?w=360&h=360&_c=1685966145",
+            "description" : "600 г тұздықта нәзік бұзау еті бар орташа тұқымды күшіктерге арналған Winner extra Meat толық құрғақ тағамы",
+            "price" : 9670,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 346,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279095-korm_suhoi_royal_canine_puppy_mini_adult_dlya_shenkov_melkih_porod_10_mes_2_kg.png?w=360&h=360&_c=1685624670",
+            "description" : "600 г тұздықта нәзік бұзау еті бар орташа тұқымды күшіктерге арналған Winner extra Meat толық құрғақ тағамы",
+            "price" : 9375,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 347,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/263928-korm_chappi_govyadina_po-domashnemu_suhoi_dlya_sobak_15_kg.jpg?w=360&h=360&_c=1684150580",
+            "description" : "Chappi тағамы үйдегі сиыр еті құрғақ иттер үшін 15 кг",
+            "price" : 16500,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 348,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277969-lakomstvo_titbit_kubiki_iz_telyatiny_dlya_sobak_mini_porod_100_g_.jpg?w=360&h=360&_c=1685608172",
+            "description" : "Chappi тағамы үйдегі сиыр еті құрғақ иттер үшін 15 кг",
+            "price" : 1700,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 349,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/289119-igrushka_gigwi_dlya_sobak_sobachka_so_smennymi_pishalkami_seriya_plush_friendz_13_sm.jpg?w=360&h=360&_c=1686036172",
+            "description" : "Gigwi ит ойыншығы ауыстырылатын сықырлайтын ит plush friendz сериясы 13 см",
+            "price" : 3625,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 350,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/289177-igrushka_gigwi_dlya_sobak_dva_myacha_s_pishalkoi_seriya_ball_6_sm.jpg?w=360&h=360&_c=1686036172",
+            "description" : "Иттерге арналған Gigwi ойыншығы екі сықырлаған доп ball сериясы 6 см",
+            "price" : 6025,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 351,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/282255-povodok_kapronovyi_sinii_i_krasnyi_5_m.jpg?w=360&h=360&_c=1683702837",
+            "description" : "Қарғыбау Нейлон көк және Қызыл 5 м",
+            "price" : 6215,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 352,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/282259-povodok-ruletka_dlya_sobak_flexi_life_pink_s_do_12kg_tros_5m.jpg?w=360&h=360&_c=1683702838",
+            "description" : "Flexi Life Pink s 12 кг-ға дейінгі ит рулеткасы 5м кабель",
+            "price" : 9470,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ]
+]

@@ -1,0 +1,272 @@
+[
+    [
+        { 
+            "id": 1,
+            "img": "https://arbuz.kz/image/s3/arbuz-kz-products/274812-kartofel_gala_kg.jpg?w=360&h=360&_c=1683173268",
+            "description": "Картофель Гала кг",
+            "price": 285,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id" : 2,
+            "img": "https://arbuz.kz/image/s3/arbuz-kz-products/19428-kivi.jpg?w=360&h=360&_c=1683799817",
+            "description": "Киви",
+            "price": 1400,
+            "quantity": 0,
+            "promotion" : null
+        },  
+        {
+            "id": 3,
+            "img": "https://arbuz.kz/image/s3/arbuz-kz-products/236730-yaica_kazger-kus_elit_kurinye_10_sht.jpg?w=360&h=360&_c=1683794982",
+            "description": "Яйцо Казгер-Кус Элит куриные 10 шт",
+            "price": 735,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id": 4,
+            "img": "https://arbuz.kz/image/s3/arbuz-kz-products/286347-file_nurly_kus_cyplenka_broilera_zamorozhennoe_kg.jpg?w=360&h=360&_c=1682944029",
+            "description": "Филе Нурлы кус Цыпленка бройлера кг",
+            "price": 2425,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id": 5,
+            "img": "https://arbuz.kz/image/s3/arbuz-kz-products/288684-tomaty_muchcho_rozovye_kg.jpg?w=360&h=360&_c=1683259049",
+            "description": "Томаты Тореро красные кг",
+            "price": 920,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id": 6,
+            "img": "https://arbuz.kz/image/s3/arbuz-kz-products/20095-smetana_fud_master_20_400_g.jpg?w=360&h=360&_c=1683712912",
+            "description": "Сметана President 20% 400 г",
+            "price": 970,
+            "quantity": 0,
+            "promotion" :null
+        },
+         {
+            "id": 7,
+            "img": "https://arbuz.kz/image/s3/arbuz-kz-products/190111-morkov_kazahstan.jpg?w=360&h=360&_c=1683798244",
+            "description": "Морковь Казахстан кг",
+            "price": 455,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id": 8,
+            "img": "https://arbuz.kz/image/s3/arbuz-kz-products/20068-moloko_lactel_s_vitaminom_d_1_5_1_l.jpg?w=360&h=360&_c=1683274867",
+            "description": "Молоко Lactel с витамином D 1,5% 1 л",
+            "price": 540,
+            "quantity": 0 ,
+            "promotion" : null
+        },
+        {
+            "id": 9,
+            "img": "https://arbuz.kz/image/s3/arbuz-kz-products/191338-tvorog_amiran_zhivoi_9_220_g.jpg?w=360&h=360&_c=1683277508",
+            "description": "Творог Амиран живой 9% 220 г",
+            "price": 835,
+            "quantity": 0 ,
+            "promotion" : null
+        },
+        {
+            "id": 10,
+            "img": "https://arbuz.kz/image/s3/arbuz-kz-products/230630-pechene_orion_choco-pie_360_g.jpg?w=360&h=360&_c=1683717965",
+            "description": "Голубика Марокко 125 г",
+            "price": 1820,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id": 11,
+            "img": "https://arbuz.kz/image/s3/arbuz-kz-products/19365-luk_porei.jpg?w=360&h=360&_c=1683544385",
+            "description": "Печенье Orion Choco-Pie 360 г",
+            "price": 1170,
+            "quantity": 0,
+            "promotion" : null
+        }
+    ],
+        [
+            {
+            "id": 1,     
+            "img": "https://arbuz.kz/image/s3/arbuz-kz-products/274812-kartofel_gala_kg.jpg?w=360&h=360&_c=1683173268",
+            "description": "Potatoes Gala kg",
+            "price": 285,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id": 2, 
+            "img": "https://arbuz.kz/image/s3/arbuz-kz-products/19428-kivi.jpg?w=360&h=360&_c=1683799817",
+            "description": "Kiwi",
+            "price": 1400,
+            "quantity": 0,
+            "promotion" : null
+        },  
+        {
+            "id": 3, 
+            "img": "https://arbuz.kz/image/s3/arbuz-kz-products/236730-yaica_kazger-kus_elit_kurinye_10_sht.jpg?w=360&h=360&_c=1683794982",
+            "description": "Egg Kazger-Kus Elite chicken 10 pcs",
+            "price": 735,
+            "quantity": 0,
+            "promotion" :null
+        },
+        {
+            "id": 4, 
+            "img": "https://arbuz.kz/image/s3/arbuz-kz-products/286347-file_nurly_kus_cyplenka_broilera_zamorozhennoe_kg.jpg?w=360&h=360&_c=1682944029",
+            "description": "Nurly fillet of Broiler Chicken kus kg",
+            "price": 2425,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id": 5, 
+            "img": "https://arbuz.kz/image/s3/arbuz-kz-products/288684-tomaty_muchcho_rozovye_kg.jpg?w=360&h=360&_c=1683259049",
+            "description": "Tomatoes Torero red kg",
+            "price": 920,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id": 6,
+            "img": "https://arbuz.kz/image/s3/arbuz-kz-products/20095-smetana_fud_master_20_400_g.jpg?w=360&h=360&_c=1683712912",
+            "description": "Sour cream President 20% 400 g",
+            "price": 970,
+            "quantity": 0,
+            "promotion" : null
+        },
+         {
+            "id": 7,
+            "img": "https://arbuz.kz/image/s3/arbuz-kz-products/190111-morkov_kazahstan.jpg?w=360&h=360&_c=1683798244",
+            "description": "Carrots Kazakhstan kg",
+            "price": 455,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id": 8,
+            "img": "https://arbuz.kz/image/s3/arbuz-kz-products/20068-moloko_lactel_s_vitaminom_d_1_5_1_l.jpg?w=360&h=360&_c=1683274867",
+            "description": "Lactel milk with vitamin D 1.5% 1 l",
+            "price": 540,
+            "quantity": 0,
+            "promotion" : null 
+        },
+        {
+            "id": 9,
+            "img": "https://arbuz.kz/image/s3/arbuz-kz-products/191338-tvorog_amiran_zhivoi_9_220_g.jpg?w=360&h=360&_c=1683277508",
+            "description": "Live Amiran cottage cheese 9% 220 g",
+            "price": 835,
+            "quantity": 0,
+            "promotion" :null 
+        },
+        {
+            "id": 10,
+            "img": "https://arbuz.kz/image/s3/arbuz-kz-products/230630-pechene_orion_choco-pie_360_g.jpg?w=360&h=360&_c=1683717965",
+            "description": "Blueberries of Morocco 125 g",
+            "price": 1820,
+            "quantity": 0,
+            "promotion" : null
+        },
+        {
+            "id": 11, 
+            "img": "https://arbuz.kz/image/s3/arbuz-kz-products/19365-luk_porei.jpg?w=360&h=360&_c=1683544385",
+            "description": "Orion Choco-Pie cookies 360 g",
+            "price": 1170,
+            "quantity": 0,
+            "promotion" : null
+        }
+        ],
+        [
+            { 
+                "id": 1,
+                "img": "https://arbuz.kz/image/s3/arbuz-kz-products/274812-kartofel_gala_kg.jpg?w=360&h=360&_c=1683173268",
+                "description": "Картоп гала кг",
+                "price": 285,
+                "quantity": 0,
+                "promotion" : null
+            },
+            {
+                "id": 2,
+                "img": "https://arbuz.kz/image/s3/arbuz-kz-products/19428-kivi.jpg?w=360&h=360&_c=1683799817",
+                "description": "Киви",
+                "price": 1400,
+                "quantity": 0,
+                "promotion" : null
+            },  
+            {
+                "id": 3,
+                "img": "https://arbuz.kz/image/s3/arbuz-kz-products/236730-yaica_kazger-kus_elit_kurinye_10_sht.jpg?w=360&h=360&_c=1683794982",
+                "description": "Жұмыртқа Казгер-Кус элита тауық 10 дана",
+                "price": 735,
+                "quantity": 0,
+                "promotion" : null
+            },
+            {
+                "id": 4,
+                "img": "https://arbuz.kz/image/s3/arbuz-kz-products/286347-file_nurly_kus_cyplenka_broilera_zamorozhennoe_kg.jpg?w=360&h=360&_c=1682944029",
+                "description": "Филе Нұрлы кус тауық бройлер кг",
+                "price": 2425,
+                "quantity": 0,
+                "promotion" : null
+            },
+            {
+                "id": 5,
+                "img": "https://arbuz.kz/image/s3/arbuz-kz-products/288684-tomaty_muchcho_rozovye_kg.jpg?w=360&h=360&_c=1683259049",
+                "description": "Тореро қызанақтары қызыл кг",
+                "price": 920,
+                "quantity": 0,
+                "promotion" : null
+            },
+            {
+                "id": 6,
+                "img": "https://arbuz.kz/image/s3/arbuz-kz-products/20095-smetana_fud_master_20_400_g.jpg?w=360&h=360&_c=1683712912",
+                "description": "Президенттік қаймақ 20% 400 г",
+                "price": 970,
+                "quantity": 0 ,
+                "promotion" : null
+            },
+             {
+                "id": 7,
+                "img": "https://arbuz.kz/image/s3/arbuz-kz-products/190111-morkov_kazahstan.jpg?w=360&h=360&_c=1683798244",
+                "description": "Сәбіз Қазақстан кг",
+                "price": 455,
+                "quantity": 0,
+                "promotion" : null
+            },
+            {
+                "id": 8,
+                "img": "https://arbuz.kz/image/s3/arbuz-kz-products/20068-moloko_lactel_s_vitaminom_d_1_5_1_l.jpg?w=360&h=360&_c=1683274867",
+                "description": "D дәрумені бар lactel сүті 1,5% 1 л",
+                "price": 540,
+                "quantity": 0,
+                "promotion" : null 
+            },
+            {
+                "id": 9,
+                "img": "https://arbuz.kz/image/s3/arbuz-kz-products/191338-tvorog_amiran_zhivoi_9_220_g.jpg?w=360&h=360&_c=1683277508",
+                "description": "Тірі Амиран сүзбесі 9% 220 г",
+                "price": 835,
+                "quantity": 0,
+                "promotion" : null
+            },
+            {
+                "id": 10,
+                "img": "https://arbuz.kz/image/s3/arbuz-kz-products/230630-pechene_orion_choco-pie_360_g.jpg?w=360&h=360&_c=1683717965",
+                "description": "Марокко көкжидектері 125 г",
+                "price": 1820,
+                "quantity": 0,
+                "promotion" : null 
+            },
+            {
+                "id": 11,
+                "img": "https://arbuz.kz/image/s3/arbuz-kz-products/19365-luk_porei.jpg?w=360&h=360&_c=1683544385",
+                "description": "Orion Choco-Pie печеньесі 360 г",
+                "price": 1170,
+                "quantity": 0,
+                "promotion" : null 
+            }
+            ]
+]

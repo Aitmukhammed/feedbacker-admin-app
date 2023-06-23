@@ -1,0 +1,368 @@
+[
+    [
+        {
+            "id" : 455,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/252902-chesnok_molodoi_1_sht.jpg?w=360&h=360&_c=1685702387",
+            "description" : "Чеснок молодой 1 шт",
+            "price" : 220,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 456,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19367-luk_repchatyi_molodoi.jpg?w=360&h=360&_c=1686134673",
+            "description" : "Лук репчатый молодой",
+            "price" : 330,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 457,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/192649-kapusta_belokochannaya_molodaya.jpg?w=360&h=360&_c=1686294795",
+            "description" : "Капуста белокочанная молодая",
+            "price" : 390,
+            "quantity" : 0,
+            "promotion" : 195
+        },
+        {
+            "id" : 458,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/245314-tomaty_na_vetke_kg.jpg?w=360&h=360&_c=1686381494",
+            "description" : "Томаты на ветке кг",
+            "price" : 670,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 459,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/190079-kartofel_vysshii_sort_kg.jpg?w=360&h=360&_c=1686110103",
+            "description" : "Картофель кг",
+            "price" : 300,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 460,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19347-svekla_kazahstan.jpg?w=360&h=360&_c=1686110308",
+            "description" : "Свекла Казахстан",
+            "price" : 235,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 461,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19371-ogurcy_rava_green_land_kg.jpg?w=360&h=360&_c=1686455305",
+            "description" : "Огурцы Рава Green Land кг",
+            "price" : 445,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 462,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/242763-perec_svetofor_krasnyi_kg.webp?w=360&h=360&_c=1686134728",
+            "description" : "Перец светофор красный кг",
+            "price" : 1430,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 463,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293199-kapusta_cvetnaya_zelenaya_kg_arbuz_select.jpg?w=360&h=360&_c=1686301741",
+            "description" : "Капуста цветная зеленая кг Arbuz Select",
+            "price" : 1560,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 464,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/249913-tykva_rezanaya_kg.jpg?w=360&h=360&_c=1686035000",
+            "description" : "Тыква резаная кг",
+            "price" : 970,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 465,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/190111-morkov_kazahstan.jpg?w=360&h=360&_c=1686191839",
+            "description" : "Морковь Казахстан кг",
+            "price" : 455,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 466,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/255195-kartofel_molodoi_kazahstan_kg.jpg?w=360&h=360&_c=1686035001",
+            "description" : "Картофель молодой Казахстан кг",
+            "price" : 385,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 467,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19343-kapusta_pekinskaya_kg.png?w=360&h=360&_c=1686281917",
+            "description" : "Капуста пекинская кг",
+            "price" : 480,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 468,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292456-ogurcy_green_land_mirinda_kg.png?w=360&h=360&_c=1686205445",
+            "description" : "Огурцы Green Land Миринда кг",
+            "price" : 405,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 469,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/290703-kukuruza_bomaza_sladkaya_varenaya_v_v_u_250_g.png?w=360&h=360&_c=1685413196",
+            "description" : "Кукуруза BOMAZA сладкая вареная в в/у 250 г",
+            "price" : 675,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ],
+    [
+        {
+            "id" : 455,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/252902-chesnok_molodoi_1_sht.jpg?w=360&h=360&_c=1685702387",
+            "description" : "Young garlic 1 piece",
+            "price" : 220,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 456,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19367-luk_repchatyi_molodoi.jpg?w=360&h=360&_c=1686134673",
+            "description" : "Young onion",
+            "price" : 330,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 457,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/192649-kapusta_belokochannaya_molodaya.jpg?w=360&h=360&_c=1686294795",
+            "description" : "White cabbage is young",
+            "price" : 390,
+            "quantity" : 0,
+            "promotion" : 195
+        },
+        {
+            "id" : 458,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/245314-tomaty_na_vetke_kg.jpg?w=360&h=360&_c=1686381494",
+            "description" : "Tomatoes on a branch kg",
+            "price" : 670,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 459,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/190079-kartofel_vysshii_sort_kg.jpg?w=360&h=360&_c=1686110103",
+            "description" : "Potatoes kg",
+            "price" : 300,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 460,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19347-svekla_kazahstan.jpg?w=360&h=360&_c=1686110308",
+            "description" : "Beetroot Kazakhstan",
+            "price" : 235,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 461,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19371-ogurcy_rava_green_land_kg.jpg?w=360&h=360&_c=1686455305",
+            "description" : "Cucumbers Rava Green Land kg",
+            "price" : 445,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 462,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/242763-perec_svetofor_krasnyi_kg.webp?w=360&h=360&_c=1686134728",
+            "description" : "Bell pepper yellow svetofor kg",
+            "price" : 1430,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 463,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293199-kapusta_cvetnaya_zelenaya_kg_arbuz_select.jpg?w=360&h=360&_c=1686301741",
+            "description" : "Cauliflower green kg Arbuz Select",
+            "price" : 1560,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 464,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/249913-tykva_rezanaya_kg.jpg?w=360&h=360&_c=1686035000",
+            "description" : "Pumpkin sliced kg",
+            "price" : 970,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 465,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/190111-morkov_kazahstan.jpg?w=360&h=360&_c=1686191839",
+            "description" : "Carrots Kazakhstan",
+            "price" : 455,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 466,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/255195-kartofel_molodoi_kazahstan_kg.jpg?w=360&h=360&_c=1686035001",
+            "description" : "Young potatoes Kazakhstan kg",
+            "price" : 385,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 467,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19343-kapusta_pekinskaya_kg.png?w=360&h=360&_c=1686281917",
+            "description" : "Cabbage of Beijing kg",
+            "price" : 480,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 468,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292456-ogurcy_green_land_mirinda_kg.png?w=360&h=360&_c=1686205445",
+            "description" : "Cucumbers Green Land Mirinda kg",
+            "price" : 405,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 469,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/290703-kukuruza_bomaza_sladkaya_varenaya_v_v_u_250_g.png?w=360&h=360&_c=1685413196",
+            "description" : "Sweet corn BOMAZA boiled in v/p 250 g",
+            "price" : 675,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ],
+    [
+        {
+            "id" : 455,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/252902-chesnok_molodoi_1_sht.jpg?w=360&h=360&_c=1685702387",
+            "description" : "Жас сарымсақ 1 дана",
+            "price" : 220,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 456,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19367-luk_repchatyi_molodoi.jpg?w=360&h=360&_c=1686134673",
+            "description" : "Пияз жас",
+            "price" : 330,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 457,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/192649-kapusta_belokochannaya_molodaya.jpg?w=360&h=360&_c=1686294795",
+            "description" : "Ақ қырыққабат жас",
+            "price" : 390,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 458,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/245314-tomaty_na_vetke_kg.jpg?w=360&h=360&_c=1686381494",
+            "description" : "Бұтақтағы қызанақ кг",
+            "price" : 670,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 459,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/190079-kartofel_vysshii_sort_kg.jpg?w=360&h=360&_c=1686110103",
+            "description" : "Картоп кг",
+            "price" : 300,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 460,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19347-svekla_kazahstan.jpg?w=360&h=360&_c=1686110308",
+            "description" : "Қызылша Қазақстан",
+            "price" : 235,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 461,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19371-ogurcy_rava_green_land_kg.jpg?w=360&h=360&_c=1686455305",
+            "description" : "Қияр Рава жасыл жер кг",
+            "price" : 445,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 462,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/242763-perec_svetofor_krasnyi_kg.webp?w=360&h=360&_c=1686134728",
+            "description" : "Қызыл бұрыш светофор кг",
+            "price" : 1430,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 463,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293199-kapusta_cvetnaya_zelenaya_kg_arbuz_select.jpg?w=360&h=360&_c=1686301741",
+            "description" : "Түсті қырыққабат жасыл кг Arbuz Select",
+            "price" : 1560,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 464,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/249913-tykva_rezanaya_kg.jpg?w=360&h=360&_c=1686035000",
+            "description" : "Асқабақ кесілген кг",
+            "price" : 970,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 465,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/190111-morkov_kazahstan.jpg?w=360&h=360&_c=1686191839",
+            "description" : "Сәбіз Қазақстан",
+            "price" : 455,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 466,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/255195-kartofel_molodoi_kazahstan_kg.jpg?w=360&h=360&_c=1686035001",
+            "description" : "Картоп жас қазақстан кг",
+            "price" : 385,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 467,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19343-kapusta_pekinskaya_kg.png?w=360&h=360&_c=1686281917",
+            "description" : "Пекин қырыққабаты кг",
+            "price" : 480,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 468,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292456-ogurcy_green_land_mirinda_kg.png?w=360&h=360&_c=1686205445",
+            "description" : "Қияр Green Land Миринда кг",
+            "price" : 405,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 469,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/290703-kukuruza_bomaza_sladkaya_varenaya_v_v_u_250_g.png?w=360&h=360&_c=1685413196",
+            "description" : "Жүгері BOMAZA тәтті қайнатылған в/о 250 г",
+            "price" : 675,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ]
+]

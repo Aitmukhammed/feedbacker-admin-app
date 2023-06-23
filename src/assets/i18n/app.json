@@ -1,0 +1,34 @@
+[
+    {
+        "profile" : "Профиль",
+        "order" : "Доставка",
+        "about": "Про нас",
+        "contact" : "Контакты",
+        "registration" : "Регистрация",
+        "lang": "RU",
+        "order_phone" : "Телефон доставки",
+        "city" : "г.Астана"
+
+    },
+    {
+        "profile" : "Profile",
+        "order" : "Delivery",
+        "about": "About us",
+        "contact" : "Contacts",
+        "registration" : "Registration",
+        "lang": "EN",
+        "order_phone" : "Delivery phone number",
+        "city" : "с.Astana"
+    },
+    {
+        "profile" : "Профиль",
+        "order" : "Жеткізу",
+        "about": "Біз туралы",
+        "contact" : "Байланыс",
+        "registration" : "Тіркеу",
+        "lang": "KZ",
+        "order_phone" : "Жеткізу телефоны",
+        "city" : "қ.Астана"
+    }
+
+]

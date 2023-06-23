@@ -1,0 +1,42 @@
+.row {
+    margin-left: 350px;
+    margin-top: 50px;
+}
+
+.btn{
+    background-color: #07AF49;
+}
+.btn{
+    margin-left: 130px;
+    border: #07AF49;
+}
+.btn-success {
+    margin-left: 120px;
+    border: #07AF49;
+}
+input:focus {
+    border-color: green;
+  }
+
+.username {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+}
+.password {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+}
+.question{
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+h1 {
+  text-align: center;
+}

@@ -1,0 +1,32 @@
+<h3 class="catalogs">{{text[translateservice.languageId].catalogs}}</h3>
+<div class="container">
+    <div class="cuisines" (click)="reloadPage('/cuisines-of-the-world')">
+        <img class="cuisines_of_the_world_png" src="https://arbuz.kz/image/s3/arbuz-kz-catalogs/225170-kuhni_narodov_mira.svg" alt="Кухни народов мира">
+        <span class="cuisines_of_the_world">{{text[translateservice.languageId].cuisines_of_the_world}}</span>
+        <span class="food" >{{text[translateservice.languageId].food}}</span>
+    </div>
+    <div (click)="reloadPage('/EverythingForHomeComponent')"> 
+        <img src="https://arbuz.kz/image/s3/arbuz-kz-catalogs/16-vs_dlya_doma.svg" alt="Все для дома">
+        <span>{{text[translateservice.languageId].everything_for_home}}</span>
+    </div>
+    <div (click)="reloadPage('/HealthComponent')">
+        <img src="https://arbuz.kz/image/s3/arbuz-kz-catalogs/225075-apteka.svg" alt="Здоровье">
+        <span>{{text[translateservice.languageId].health}}</span>
+    </div>
+    <div (click)="reloadPage('/BeautyComponent')">
+        <img src="https://arbuz.kz/image/s3/arbuz-kz-catalogs/224407-krasota.svg" alt="Красота">
+        <span>{{text[translateservice.languageId].beauty}}</span>
+    </div>
+    <div (click)="reloadPage('/ZooStoreComponent')">
+        <img src="https://arbuz.kz/image/s3/arbuz-kz-catalogs/20-zoo_magazin.svg" alt="Zoo магазин">
+        <span>{{text[translateservice.languageId].zoo_store}}</span>
+    </div>
+    <div (click)="reloadPage('/HolidayComponent')">
+        <img class="for_the_holiday" src="https://arbuz.kz/image/s3/arbuz-kz-catalogs/225063-8_marta.svg" alt="К празднику">
+        <span>{{text[translateservice.languageId].for_the_holiday}}</span>
+    </div>
+    <div (click)="reloadPage('/SweetsComponent')">
+        <img src="https://arbuz.kz/image/s3/arbuz-kz-catalogs/225166-sladosti.svg" alt="Сладости">
+        <span>{{text[translateservice.languageId].sweets}}</span>
+    </div>
+</div><br><br>

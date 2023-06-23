@@ -1,0 +1,185 @@
+<nav class="navbar">
+  <div class="container-fluid">
+
+    <div class="navbar-header">
+      <img class="navbar-brand" class="logo" src="../assets/img/logoapple-removebg-preview.png" alt="My Image">
+    </div>
+    <ul class="nav navbar-nav" routerLinkActive="active">
+      
+      <li class="nav-item" >
+        <button class="btn_icon" mat-button [matMenuTriggerFor]="menu">
+          <img class="navbar-brand" class="icon_menu" src="../assets/img/icon_menu.png" alt="My Image">
+        </button>
+      </li>
+
+
+      <mat-menu #menu="matMenu">
+        <button mat-menu-item [matMenuTriggerFor]="fruits">
+          {{text_2[translateservice.languageId].Fresh_vegetables_and_products}}
+        </button>
+        <button mat-menu-item [matMenuTriggerFor]="drinks">
+          {{text_2[translateservice.languageId].Drinks}}
+        </button>
+        <button mat-menu-item [matMenuTriggerFor]="milk_cheese_butter_eggs">
+          {{text_2[translateservice.languageId].Milk_cheese_butter_egg}}
+        </button>
+        <button mat-menu-item [matMenuTriggerFor]="fish_and_seafood">
+          {{text_2[translateservice.languageId].Fish_and_seafood}}
+        </button>
+        <button mat-menu-item [matMenuTriggerFor]="cooking">
+          {{text_2[translateservice.languageId].Cooking}}
+        </button>
+        <button mat-menu-item [matMenuTriggerFor]="Meat_poultry">
+          {{text_2[translateservice.languageId].Meat_poultry}}
+        </button>
+        <button mat-menu-item [matMenuTriggerFor]="Frozen_foods">
+          {{text_2[translateservice.languageId].Frozen_foods}}
+        </button>
+      </mat-menu>
+      
+      <mat-menu #fruits="matMenu">
+        <button (click)="reloadPage('/FruitsComponent')" mat-menu-item>
+          {{text_2[translateservice.languageId].Fruit}}
+        </button>
+        <button (click)="reloadPage('/VegetablesComponent')" mat-menu-item>
+          {{text_2[translateservice.languageId].Vegetables}}
+        </button>
+        <button (click)="reloadPage('/NutsComponent')" mat-menu-item >
+          {{text_2[translateservice.languageId].Nuts_and_dried_fruits}}
+        </button>
+      </mat-menu>
+      
+      <mat-menu #drinks="matMenu">
+        <button (click)="reloadPage('/TeaCoffeeCacoaComponent')" mat-menu-item>
+          {{text_2[translateservice.languageId].Tea_coffee_cacoa}}
+        </button>
+        <button (click)="reloadPage('/HerbalComponent')" mat-menu-item>
+          {{text_2[translateservice.languageId].Herbal_drinks}}
+        </button>
+        <button (click)="reloadPage('/WaterComponent')" mat-menu-item>
+          {{text_2[translateservice.languageId].Water}}
+        </button>
+        <button (click)="reloadPage('/CorbonateComponent')" mat-menu-item>
+          {{text_2[translateservice.languageId].Carbonated_drinks}}
+        </button>
+      </mat-menu>
+
+      <mat-menu #milk_cheese_butter_eggs="matMenu">
+        <button (click)="reloadPage('/MilkComponent')" mat-menu-item>
+          {{text_2[translateservice.languageId].Sour_cream_butter}}
+        </button>
+        <button (click)="reloadPage('/YoghurtsComponent')" mat-menu-item>
+          {{text_2[translateservice.languageId].Yoghurts_and_cottage_cheese_curds}}
+        </button>
+        <button (click)="reloadPage('/CheesesComponent')" mat-menu-item>
+          {{text_2[translateservice.languageId].Cheese}}
+        </button>
+        <button (click)="reloadPage('/EggsComponent')" mat-menu-item>
+          {{text_2[translateservice.languageId].Eggs}}
+        </button>
+      </mat-menu> 
+
+      <mat-menu #fish_and_seafood="matMenu">
+        <button (click)="reloadPage('/FishComponent')" mat-menu-item>
+          {{text_2[translateservice.languageId].Fish}}
+        </button>
+        <button (click)="reloadPage('/SeafoodComponent')" mat-menu-item>
+          {{text_2[translateservice.languageId].Seafood}}
+        </button>
+      </mat-menu> 
+          
+      <mat-menu #cooking="matMenu">
+        <button (click)="reloadPage('/LunchesComponent')" mat-menu-item>
+          {{text_2[translateservice.languageId].Lunches}}
+        </button>
+        <button (click)="reloadPage('/PnLunchComponent')" mat-menu-item>
+          {{text_2[translateservice.languageId].Pn_lunch}}
+        </button>
+        <button (click)="reloadPage('/ChildrenLunchComponent')" mat-menu-item>
+          {{text_2[translateservice.languageId].Children_lunch}}
+        </button>
+        <button (click)="reloadPage('/CakesPastriesComponent')" mat-menu-item>
+          {{text_2[translateservice.languageId].Cakes_pastries_pastries}}
+        </button>
+      </mat-menu>
+      
+      <mat-menu #Frozen_foods="matMenu">
+        <button (click)="reloadPage('/IceCreamComponent')" mat-menu-item>
+          {{text_2[translateservice.languageId].ice_cream}}
+        </button>
+        <button (click)="reloadPage('/DumplingsComponent')" mat-menu-item>
+          {{text_2[translateservice.languageId].Dumplings}}
+        </button>
+      </mat-menu> 
+
+            
+      <mat-menu #Meat_poultry="matMenu">
+        <button (click)="reloadPage('/MeatComponent')" mat-menu-item>
+          {{text_2[translateservice.languageId].meat}}
+        </button>
+        <button (click)="reloadPage('/ChickenComponent')" mat-menu-item>
+          {{text_2[translateservice.languageId].chicken}}
+        </button>
+      </mat-menu> 
+
+      <li class="nav-item">
+        <a class="nav-link order" (click)="reloadPage('/delivery')">{{text[translateservice.languageId].order}} </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link about" (click)="reloadPage('/about')">{{text[translateservice.languageId].about}} </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link contact" (click)="reloadPage('ContactsComponent')" routerLink="#">{{text[translateservice.languageId].contact}} </a>
+      </li>
+      <li class="nav-item">
+          <a class="nav-link" routerLink="home">
+            <div class="btn_profile">{{text[translateservice.languageId].profile}} <img class="profile_people" src="../assets/img/profile_people.png" alt=""></div>
+          </a>
+      </li>
+
+
+      <li class="nav-item" (click)="reloadPage('/basket')">
+          <div class="cont_basket"> 
+            <img class="basket_png" src="../assets/img/basket.png" alt="">
+            <p class="totalItems">{{ totalItems }}</p>
+          </div>
+      </li>
+
+      <li>
+        <div class="dropdown dropdown-right">
+          <button class="btn" >
+            {{text[translateservice.languageId].lang}}
+          </button >
+          <div class="dropdown-content">
+            <button (click)="changeLanguageTitle('rus')">RU</button>
+            <button (click)="changeLanguageTitle('kz')">Kz</button>
+            <button (click)="changeLanguageTitle('eng')">En</button>
+          </div>
+        </div>
+      </li>
+
+
+      <li *ngIf="authority === 'admin'" class="nav-item">
+        <a class="nav-link" routerLink="admin">Admin Board</a>
+      </li>
+      <li *ngIf="authority === 'pm'" class="nav-item">
+        <a class="nav-link" routerLink="mod">PM Board</a>
+      </li>
+      <li *ngIf="!authority" class="nav-item">
+        <a class="nav-link" routerLinkActive="active" routerLink="auth/login">
+          {{text[translateservice.languageId].registration}}
+        </a>
+      </li>
+
+      
+    </ul>
+  </div>
+</nav>
+<hr class="hr">
+
+
+<div class="container">
+  <router-outlet></router-outlet>
+</div>
+
+

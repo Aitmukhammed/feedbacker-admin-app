@@ -1,0 +1,86 @@
+<div class="container">
+    <div class="one">1. {{text[translateService.languageId].basket_2}}
+        <div><hr class="line_one"></div>
+    </div>
+    <div class="two">2. {{text[translateService.languageId].checkout}}
+        <div><hr class="line_two"></div>
+    </div>
+    <div class="three">3. {{text[translateService.languageId].order_accepted}}
+        <div><hr class="line_three"></div>
+    </div>
+</div>
+<div>
+
+    <h2 class="title">{{text[translateService.languageId].Making_an_order}}</h2>
+    <h3>{{text[translateService.languageId].address}}</h3>
+    <form action="https://formsubmit.co/661fcf9d3851f032c436b249d4cf38e4" method="POST">
+        <div class="form-group">
+            <label for="address" class="label_address">{{text[translateService.languageId].street}}</label><br>
+            <input class="address" type="text" id="address" name="address" required>
+        </div>
+        <div class="row">
+            <div class="form-group">
+                <label for="Flat">{{text[translateService.languageId].kv}}</label><br>
+                <input type="number" id="flat" name="flat" required>
+            </div>
+            <div class="form-group">
+                <label for="entrance">{{text[translateService.languageId].Entrance}}</label><br>
+                <input type="number" id="entrance" name="entrance" required>
+            </div>
+            <div class="form-group">
+                <label for="floor">{{text[translateService.languageId].Floor}}</label><br>
+                <input type="number" id="floor" name="floor">
+            </div>
+            <div class="form-group">
+                <label for="intercom">{{text[translateService.languageId].Intercom}}</label><br>
+                <input type="number" id="intercom" name="intercom">
+            </div>
+            </div>
+            <div class="form-group">
+                <label for="phone" class="phone" >{{text[translateService.languageId].Phone}}</label><br>
+                <input type="text"  id="phone" name="phone" placeholder="+7 (707) 000-00-00" required>
+            </div>
+
+            <label>
+                <input class="payment_1" type="radio" name="paymentOption" value="option1" (change)="selectedPaymentOption = 'option1'" [checked]="selectedPaymentOption === 'option1'">
+                <span class="Type_of_payment">{{text[translateService.languageId].Cash}}</span>
+              </label>
+              
+              <label>
+                <input class="payment_2" type="radio" name="paymentOption" value="option2" (change)="selectedPaymentOption = 'option2'" [checked]="selectedPaymentOption === 'option2'">
+                <span class="Type_of_payment">{{text[translateService.languageId].Card}}</span>
+              </label>
+              
+              <div class="card-details" [style.display]="selectedPaymentOption === 'option2' ? 'block' : 'none'">
+                  <input placeholder="7777 7777 7777 7777" pattern="[0-9]*" class="cardNumber" type="text" name="cardNumber" [required]="selectedPaymentOption === 'option2'" >
+                <br><br>
+                  <input class="mm" placeholder="MM" type="text" name="expiryDate"  [required]="selectedPaymentOption === 'option2'" >
+                  <input class="yyyy" placeholder="YYYY" type="text" name="expiryDate"  [required]="selectedPaymentOption === 'option2'" >
+                <br><br>
+                  <input class="cvv" placeholder="CVV" type="text" name="cvv" [required]="selectedPaymentOption === 'option2'">
+                <br><br>
+                   <input class="cardName" pattern="[A-Za-z ]+" placeholder="Arman Bolatovich" type="text" name="cardName" [required]="selectedPaymentOption === 'option2'">
+                <br><br>
+              </div>
+        <button type="submit">{{text[translateService.languageId].To_pay}}</button>     
+    </form> 
+
+    <div class="your_order">
+        <h1 class="order">{{text[translateService.languageId].your_order}}</h1>
+        <table>
+            <tr>
+                <td class="text_products">{{text[translateService.languageId].products}}</td>
+                <td class="totalCost">{{ totalCost }} ₸</td>
+            </tr>
+            <tr>
+                <td class="text_products">{{text[translateService.languageId].delivery_fee}}</td>
+                <td class="totalCost delivery_total" >{{delivery_amout}}</td>
+            </tr>
+            <hr class="under_hr"><br>
+            <tr>
+                <td class="total_amount">{{text[translateService.languageId].total}}</td>
+                <td class="totalCost">{{ delivery_total }} ₸</td>
+            </tr>
+        </table>
+    </div>
+</div>

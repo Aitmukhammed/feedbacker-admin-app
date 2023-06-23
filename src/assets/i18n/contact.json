@@ -1,0 +1,26 @@
+[
+    {
+        "contact" : "Контакты",
+        "Hotline" : "Горячая линия",
+        "hr" : "Отдел кадров:",
+        "delivery" : "Отдел доставки:",
+        "marketing" : "Отдел маркетинга:",
+        "accounting" : "Бухгалтерия:"
+    },
+    {
+        "contact" : "Contacts",
+        "Hotline" : "Helpline",
+        "hr" : "HR Department:",
+        "delivery" : "Delivery Department:",
+        "marketing" : "Marketing Department:",
+        "accounting" : "Accounting department:"
+    },
+    {
+        "contact" : "Байланыс",
+        "Hotline" : "Сенім телефоны",
+        "hr" : "Кадрлар бөлімі:",
+        "delivery" : "Жеткізу бөлімі:",
+        "marketing" : "Маркетинг бөлімі:",
+        "accounting" : "Бухгалтерлік есеп:  "
+    }
+]

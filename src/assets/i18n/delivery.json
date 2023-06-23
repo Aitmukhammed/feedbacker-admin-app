@@ -1,0 +1,51 @@
+[
+    {
+        "condition" : "Условия доставки",
+        "condition_1" : " - Доставка осуществляется только по г. Астана",
+        "condition_2" : " - Вы можете размещать заказы на веб приложении круглосуточно и без выходных",
+        "condition_3" : " - Доставка производится ежедневно с 07:00 до 23:00. Без выходных дней.",
+    
+        "price" : "Стоимость доставки",
+        "price_1" : " - Сумма доставки до 8000 тенге — 700 тенге. Сумма от 8000 тенге — бесплатно. Мы доставляем заказы день в день — 7 дней в неделю, с 07:00 до 23:00 ",
+        "price_2" : " - Если в вашем доме не работает лифт или его нет и вы живете выше третьего этажа, то за каждый этаж пройденный курьером добавляется 50тг",
+    
+        "refund" : "Условия возврата",
+        "refund_1" : "Вы можете вернуть товар в течение 14 дней со дня покупки, если товар не был в употреблении, сохранен товарный вид, потребительские свойства.",
+        "refund_2" : "Возврат возможен только при наличии кассового чека, подтверждающего оплату.",
+        "refund_3" : "В случае соблюдения всех вышеизложенных условии Вы можете вернуть товар в супермаркете по адресу Айтматов 60",
+        "refund_4" : "Остальные условия возврата соответствуют требованиям закона РК «О защите прав потребителей» и иным законодательным актам." 
+    },
+    {
+        "condition" : "Delivery terms:",
+        "condition_1" : " - Delivery will be made only in Astana",
+        "condition_2" : " - You can place orders on the site around the clock without days off",
+        "condition_3" : " - Delivery is made daily from 07:00 to 23:00. Without days off.",
+        "condition_4" : " - Delivered at least 1 hour from the time of order.",
+    
+        "price" : "Delivery fee:",
+        "price_1" : " - The delivery amount is up to 8000 tenge — 700 tenge. The amount from 8000 tenge is free of charge. We deliver orders day to day — 7 days a week, from 07:00 to 23:00",
+        "price_2" : " - If you do not have or do not have an elevator in your house — lifting the goods to the 3rd floor is free, then 50 tenge is charged for the 1st floor.",
+    
+        "refund" : "Terms of Return of goods:",
+        "refund_1" : "The goods can be returned within 14 days from the date of purchase, provided that they are not in use, the appearance of the goods, consumer properties are preserved.",
+        "refund_2" : "To return the goods, you will definitely need a cash receipt confirming your purchase.",
+        "refund_3" : "If all the above conditions are met, you can return the goods at the address: Astana Aitmatov 60",
+        "refund_4" : "Other conditions for the return of goods are made in accordance with the law of the Republic of Kazakhstan “on protection of consumer rights” and other legal acts." 
+    },
+    {
+        "condition" : "Жеткізу шарттары:",
+        "condition_1" : " - Жеткізу текқана Астана қаласы бойынша жасалады",
+        "condition_2" : " - Сіз тапсырсты веб қосымшада тәулік бойы демалыссыз орналастыра аласыз",
+        "condition_3" : " - Жеткізу, күн сайын 07:00-ден 23:00-ге дейін жасалады. Демалыссыз.",
+        "condition_4" : " - Тапсырыс берілген уақыттан бастап кем дегенде 1 сағаттан кейін жеткізіледі.",
+    
+        "price" : "Жеткізу ақысы:",
+        "price_1" : " - Жеткізу сомасы 8000 теңгеге дейін-700 теңге. 8000 теңгеден басталатын сома — тегін. Біз тапсырыстарды күн сайын жеткіземіз — аптасына 7 күн, 07:00-ден 23:00-ге дейін",
+        "price_2" : " - Егер сіздің үйіңізде лифт жасамаса немесе болмаса — тауарларды 3 қабатқа дейін көтеру тегін, ары қарай 1 қабатқа 50 теңге ақы алынады.",
+        "refund" : "Тауарды қайтару шарттары:",
+        "refund_1" : "Тауарды қолданыста болмаған, тауар көрінісі, тұтынушылық қасиеттері сақталған жағдайда сатып алынған күннен бастап 14 күн ішінде қайтаруға болады.",
+        "refund_2" : "Тауарды қайтару үшін сатып алғаныңызды растайтын кассалық түбіртек міндетті түрде қажет.",
+        "refund_3" : "Жоғарыда аталған барлық шарттар орындалған жағдайда, сіз тауарды мына мекен-жай бойынша қайтара аласыз: Астана қаласы Айтматов 60",
+        "refund_4" : "Тауарларды қайтарудың басқа шарттары ҚР “Тұтынушылардың құқығын қорғау туралы” заңына және басқада заңдық актілеріне сәйкес жүргізіледі." 
+    }
+]

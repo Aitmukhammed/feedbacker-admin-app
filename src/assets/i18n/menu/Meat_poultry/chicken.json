@@ -1,0 +1,368 @@
+[
+    [
+        {
+            "id" : 684,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19920-bedryshki_alel_kurinye_zamorozhennye.jpg?w=360&h=360&_c=1686892112",
+            "description" : "Бедро Алель куриные замороженные кг",
+            "price" : 1560,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 685,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/239309-file_kus_vkus_cyplenka_broilera_ohlazhdennoe_na_podlozhke_kg.jpg?w=360&h=360&_c=1686642714",
+            "description" : "Филе Кус Вкус Цыпленка бройлера охлажденное на подложке кг",
+            "price" : 3633,
+            "quantity" : 0,
+            "promotion" : 2595
+        },
+        {
+            "id" : 686,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/239303-cyplenok_broilera_kus_vkus_pervoi_kategorii_ohlazhdennyi_na_podlozhke_kg.jpg?w=360&h=360&_c=1687056168",
+            "description" : "Цыпленок бройлера Кус Вкус первой категории охлажденный на подложке кг",
+            "price" : 2648,
+            "quantity" : 0,
+            "promotion" : 1655
+        },
+        {
+            "id" : 687,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/239306-krylo_kus_vkus_cyplenka_broilera_ohlazhdennoe_na_podlozhke_kg.jpg?w=360&h=360&_c=1686642827",
+            "description" : "Крыло Кус Вкус Цыпленка бройлера охлажденное на подложке кг",
+            "price" : 3192,
+            "quantity" : 0,
+            "promotion" : 2455
+        },
+        {
+            "id" : 688,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/239304-bedro_kus_vkus_cyplenka_broilera_na_podlozhke_ohlazhdennoe_kg.jpg?w=360&h=360&_c=1686545052",
+            "description" : "Бедро Кус Вкус Цыпленка бройлера на подложке охлажденное кг",
+            "price" : 2581,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 689,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/239305-golen_kus_vkus_cyplenka_broilera_ohlazhdennaya_na_podlozhke_kg.jpg?w=360&h=360&_c=1686297622",
+            "description" : "Голень Кус Вкус Цыпленка бройлера охлажденная на подложке кг",
+            "price" : 3332,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 690,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293490-golen_cyplenka_qualiko_zamorozhennaya_na_podlozhke_kg.jpg?w=360&h=360&_c=1687016059",
+            "description" : "Голень цыпленка Qualiko замороженная на подложке кг",
+            "price" : 1620,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 691,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293489-file_qualiko_zamorozhennoe_na_podlozhke_kg.jpg?w=360&h=360&_c=1686545983",
+            "description" : "Филе Qualiko замороженное на подложке кг",
+            "price" : 2095,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 692,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293470-zheludochki_cyplenka_tamasha_zamorozhennye_kg.jpg?w=360&h=360&_c=1686808793",
+            "description" : "Желудочки цыпленка TAMASHA! замороженные кг",
+            "price" : 1170,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 693,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293468-serdechki_cyplenka_tamasha_zamorozhennye_kg.jpg?w=360&h=360&_c=1686808756",
+            "description" : "Сердечки цыпленка TAMASHA! замороженные кг",
+            "price" : 2268,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 694,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/278033-krylo_alel_cyplenka-broilera_zamorozhennaya_kg.jpg?w=360&h=360&_c=1686890186",
+            "description" : "Крыло Алель цыпленка-бройлера замороженное кг",
+            "price" : 2370,
+            "quantity" : 0,
+            "promotion" : 1975
+        },
+        {
+            "id" : 695,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/278032-golen_alel_cyplenka-broilera_zamorozhennaya_kg.jpg?w=360&h=360&_c=1686818068",
+            "description" : "Голень Алель цыпленка-бройлера замороженная кг",
+            "price" : 2268,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 697,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19924-pechen_alel_kurinaya_zamorozhennaya_kg.jpg?w=360&h=360&_c=1686818247",
+            "description" : "Печень Алель куриная замороженная кг",
+            "price" : 1020,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 698,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292040-krylo_indeiki_pava_-pava_zamorozhennoe_kg.jpg?w=360&h=360&_c=1686566641",
+            "description" : "Крыло индейки Пава -Пава замороженное кг",
+            "price" : 1860,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 699,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292039-file_grudki_indeiki_pava_-pava_maloe_zamorozhennoe_kg.jpg?w=360&h=360&_c=1686634265",
+            "description" : "Филе грудки индейки Пава -Пава малое замороженное кг",
+            "price" : 3195,
+            "quantity" : 0,
+            "promotion" : null
+        } 
+    ],
+    [
+        {
+            "id" : 684,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19920-bedryshki_alel_kurinye_zamorozhennye.jpg?w=360&h=360&_c=1686892112",
+            "description" : "Thigh Alel Kurine frozen kg",
+            "price" : 1560,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 685,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/239309-file_kus_vkus_cyplenka_broilera_ohlazhdennoe_na_podlozhke_kg.jpg?w=360&h=360&_c=1686642714",
+            "description" : "Fillet Kus Vkus taste of a chicken chicken chilled on a kg substrate",
+            "price" : 3633,
+            "quantity" : 0,
+            "promotion" : 2595
+        },
+        {
+            "id" : 686,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/239303-cyplenok_broilera_kus_vkus_pervoi_kategorii_ohlazhdennyi_na_podlozhke_kg.jpg?w=360&h=360&_c=1687056168",
+            "description" : "Kus Vkus broiler chicken of the first category cooled on a substrate kg",
+            "price" : 2648,
+            "quantity" : 0,
+            "promotion" : 1655
+        },
+        {
+            "id" : 687,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/239306-krylo_kus_vkus_cyplenka_broilera_ohlazhdennoe_na_podlozhke_kg.jpg?w=360&h=360&_c=1686642827",
+            "description" : "Kus Vkus broiler chicken wing cooled on a substrate kg",
+            "price" : 3192,
+            "quantity" : 0,
+            "promotion" : 2455
+        },
+        {
+            "id" : 688,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/239304-bedro_kus_vkus_cyplenka_broilera_na_podlozhke_ohlazhdennoe_kg.jpg?w=360&h=360&_c=1686545052",
+            "description" : "Kus Vkus chicken thigh broiler on the substrate chilled kg",
+            "price" : 2581,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 689,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/239305-golen_kus_vkus_cyplenka_broilera_ohlazhdennaya_na_podlozhke_kg.jpg?w=360&h=360&_c=1686297622",
+            "description" : "Kus Vkus broiler chicken drumstick chilled on a substrate kg",
+            "price" : 3332,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 690,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293490-golen_cyplenka_qualiko_zamorozhennaya_na_podlozhke_kg.jpg?w=360&h=360&_c=1687016059",
+            "description" : "Qualiko frozen fillet on a substrate kg",
+            "price" : 1620,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 691,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293489-file_qualiko_zamorozhennoe_na_podlozhke_kg.jpg?w=360&h=360&_c=1686545983",
+            "description" : "Qualiko frozen fillet on a substrate kg",
+            "price" : 2095,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 692,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293470-zheludochki_cyplenka_tamasha_zamorozhennye_kg.jpg?w=360&h=360&_c=1686808793",
+            "description" : "TAMASHA chicken ventricles! frozen kg",
+            "price" : 1170,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 693,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293468-serdechki_cyplenka_tamasha_zamorozhennye_kg.jpg?w=360&h=360&_c=1686808756",
+            "description" : "TAMASHA chicken hearts! frozen kg",
+            "price" : 2268,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 694,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/278033-krylo_alel_cyplenka-broilera_zamorozhennaya_kg.jpg?w=360&h=360&_c=1686890186",
+            "description" : "Wing Alel Tsyplenka-Broyler frozen kg",
+            "price" : 2370,
+            "quantity" : 0,
+            "promotion" : 1975
+        },
+        {
+            "id" : 695,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/278032-golen_alel_cyplenka-broilera_zamorozhennaya_kg.jpg?w=360&h=360&_c=1686818068",
+            "description" : "Shin Alel Tsyplenka-Broyler frozen kg",
+            "price" : 2268,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 697,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19924-pechen_alel_kurinaya_zamorozhennaya_kg.jpg?w=360&h=360&_c=1686818247",
+            "description" : "Liver Alel Kurina Frozen kg",
+            "price" : 1020,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 698,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292040-krylo_indeiki_pava_-pava_zamorozhennoe_kg.jpg?w=360&h=360&_c=1686566641",
+            "description" : "Turkey wing Pava -Pava frozen kg",
+            "price" : 1860,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 699,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292039-file_grudki_indeiki_pava_-pava_maloe_zamorozhennoe_kg.jpg?w=360&h=360&_c=1686634265",
+            "description" : "Breast fillet Pava-Pava of Turkey small kg",
+            "price" : 3195,
+            "quantity" : 0,
+            "promotion" : null
+        } 
+    ],
+    [
+        {
+            "id" : 684,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19920-bedryshki_alel_kurinye_zamorozhennye.jpg?w=360&h=360&_c=1686892112",
+            "description" : "Жамбас Алель тауық мұздатылған кг",
+            "price" : 1560,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 685,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/239309-file_kus_vkus_cyplenka_broilera_ohlazhdennoe_na_podlozhke_kg.jpg?w=360&h=360&_c=1686642714",
+            "description" : "Филе Кус Вкус бройлер тауықтың дәмі субстратта салқындатылған кг",
+            "price" : 3633,
+            "quantity" : 0,
+            "promotion" : 2595
+        },
+        {
+            "id" : 686,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/239303-cyplenok_broilera_kus_vkus_pervoi_kategorii_ohlazhdennyi_na_podlozhke_kg.jpg?w=360&h=360&_c=1687056168",
+            "description" : "Қанат Кус Вкус бройлер бірінші санаттағы тауықтың дәмі субстратта салқындатылған кг",
+            "price" : 2648,
+            "quantity" : 0,
+            "promotion" : 1655
+        },
+        {
+            "id" : 687,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/239306-krylo_kus_vkus_cyplenka_broilera_ohlazhdennoe_na_podlozhke_kg.jpg?w=360&h=360&_c=1686642827",
+            "description" : "Қанат Кус Вкус бройлер тауықтың дәмі субстратта салқындатылған кг",
+            "price" : 3192,
+            "quantity" : 0,
+            "promotion" : 2455
+        },
+        {
+            "id" : 688,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/239304-bedro_kus_vkus_cyplenka_broilera_na_podlozhke_ohlazhdennoe_kg.jpg?w=360&h=360&_c=1686545052",
+            "description" : "Кус Вкус жамбас тауықтың дәмі бройлер субстратта салқындатылған кг",
+            "price" : 2581,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 689,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/239305-golen_kus_vkus_cyplenka_broilera_ohlazhdennaya_na_podlozhke_kg.jpg?w=360&h=360&_c=1686297622",
+            "description" : "Кус Вкус субстратта салқындатылған бройлер тауық барабаны кг",
+            "price" : 3332,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 690,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293490-golen_cyplenka_qualiko_zamorozhennaya_na_podlozhke_kg.jpg?w=360&h=360&_c=1687016059",
+            "description" : "Qualiko филесі кг субстратта мұздатылған",
+            "price" : 1620,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 691,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293489-file_qualiko_zamorozhennoe_na_podlozhke_kg.jpg?w=360&h=360&_c=1686545983",
+            "description" : "Qualiko филесі кг субстратта мұздатылған",
+            "price" : 2095,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 692,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293470-zheludochki_cyplenka_tamasha_zamorozhennye_kg.jpg?w=360&h=360&_c=1686808793",
+            "description" : "Тамаша тауықтың қарыншалары! мұздатылған кг",
+            "price" : 1170,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 693,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293468-serdechki_cyplenka_tamasha_zamorozhennye_kg.jpg?w=360&h=360&_c=1686808756",
+            "description" : "Тамаша тауықтың жүректері! мұздатылған кг",
+            "price" : 2268,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 694,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/278033-krylo_alel_cyplenka-broilera_zamorozhennaya_kg.jpg?w=360&h=360&_c=1686890186",
+            "description" : "Қанаты Алель тауық-бройлер мұздатылған кг",
+            "price" : 2370,
+            "quantity" : 0,
+            "promotion" : 1975
+        },
+        {
+            "id" : 695,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/278032-golen_alel_cyplenka-broilera_zamorozhennaya_kg.jpg?w=360&h=360&_c=1686818068",
+            "description" : "Барабан Алель тауық-бройлер мұздатылған кг",
+            "price" : 2268,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 697,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19924-pechen_alel_kurinaya_zamorozhennaya_kg.jpg?w=360&h=360&_c=1686818247",
+            "description" : "Бауыр Алель мұздатылған тауық еті кг",
+            "price" : 1020,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 698,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292040-krylo_indeiki_pava_-pava_zamorozhennoe_kg.jpg?w=360&h=360&_c=1686566641",
+            "description" : "Күркетауық қанаты Пава-Пава мұздатылған кг",
+            "price" : 1860,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 699,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292039-file_grudki_indeiki_pava_-pava_maloe_zamorozhennoe_kg.jpg?w=360&h=360&_c=1686634265",
+            "description" : "Күркетауық кеуде еті Пава-Пава шағын кг",
+            "price" : 3195,
+            "quantity" : 0,
+            "promotion" : null
+        } 
+    ]
+]

@@ -1,0 +1,368 @@
+[
+    [
+        {
+            "id" : 539,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/188402-maslo_prostokvashino_slivochnoe_82_180_g.jpg?w=360&h=360&_c=1686405859",
+            "description" : "Масло Простоквашино сливочное 82% 180 г",
+            "price" : 1830,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 540,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/273306-smetana_prostokvashino_15_300_g.jpg?w=360&h=360&_c=1685447647",
+            "description" : "Сметана Простоквашино 15% 300 г",
+            "price" : 965,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 541,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/231384-moloko_shadrinskoe_pasterizovannoe_6_950_ml.jpg?w=360&h=360&_c=1686397234",
+            "description" : "Молоко Шадринское пастеризованное 6% 950 мл",
+            "price" : 1480,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 542,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/20068-moloko_lactel_s_vitaminom_d_1_5_1_l.jpg?w=360&h=360&_c=1683274867",
+            "description" : "Молоко Lactel с витамином D 1,5% 1 л",
+            "price" : 540,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 543,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/230091-smetana_domik_v_derevne_20_315_g.jpg?w=360&h=360&_c=1686275708",
+            "description" : "Сметана Домик в деревне 20% 315 г",
+            "price" : 895,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 544,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/20095-smetana_fud_master_20_400_g.jpg?w=360&h=360&_c=1685865402",
+            "description" : "Сметана President 20% 400 г",
+            "price" : 970,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 545,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/242948-moloko_ainalaiyn_3_2_1_l.jpg?w=360&h=360&_c=1685421371",
+            "description" : "Молоко Айналайын 3.2% 1 л",
+            "price" : 840,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 546,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/269974-maslo_president_kisloslivochnoe_nesolenoe_president_vysshii_sort_82_180g.jpg?w=360&h=360&_c=1686114108",
+            "description" : "Масло President кислосливочное несоленое President высший сорт 82% 180г",
+            "price" : 1270,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 547,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/262178-maslo_dziugas_slivochnoe_82_200_g.jpg?w=360&h=360&_c=1686114109",
+            "description" : "Масло Dziugas сливочное 82% 200 г",
+            "price" : 1845,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 548,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/20045-margarin_3_zhelaniya_pampushka_180_g_.jpg?w=360&h=360&_c=1685433238",
+            "description" : "Маргарин 3 Желания Пампушка 180 г",
+            "price" : 170,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 549,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291965-sgushenoe_moloko_umit_8_p_butylka_320_g.jpg?w=360&h=360&_c=1686105193",
+            "description" : "Сгущеное молоко Умит 8% п/бутылка 320 г",
+            "price" : 675,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 550,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/273319-napitok_actimel_kislomolochnyi_granat_95_g.jpg?w=360&h=360&_c=1686017505",
+            "description" : "Напиток Actimel кисломолочный гранат 95 г",
+            "price" : 305,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 551,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/273318-napitok_actimel_kislomolochnyi_chernika-ezhevika_95_g.jpg?w=360&h=360&_c=1686405847",
+            "description" : "Напиток Actimel кисломолочный черника-ежевика 95 г",
+            "price" : 305,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 552,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/266991-kokteil_rastishka_molochnyi_fruktovyi_ledenec_2_210_g.jpg?w=360&h=360&_c=1685096614",
+            "description" : "Коктейль Растишка молочный фруктовый леденец 2% 210 г",
+            "price" : 415,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 553,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/20009-kefir_fud_master_2_5_t_p_1_l.jpg?w=360&h=360&_c=1685865399",
+            "description" : "Кефир Фуд Мастер 2,5% т/п 1 л",
+            "price" : 640,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ],
+    [
+        {
+            "id" : 539,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/188402-maslo_prostokvashino_slivochnoe_82_180_g.jpg?w=360&h=360&_c=1686405859",
+            "description" : "Prostokvashino butter 82% 180 g",
+            "price" : 1830,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 540,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/273306-smetana_prostokvashino_15_300_g.jpg?w=360&h=360&_c=1685447647",
+            "description" : "Sour cream Prostokvashino 15% 300 g",
+            "price" : 965,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 541,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/231384-moloko_shadrinskoe_pasterizovannoe_6_950_ml.jpg?w=360&h=360&_c=1686397234",
+            "description" : "Shadrinskoye milk Pasteurized 6% 950 ml",
+            "price" : 1480,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 542,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/20068-moloko_lactel_s_vitaminom_d_1_5_1_l.jpg?w=360&h=360&_c=1683274867",
+            "description" : "Lactel milk with vitamin D 1.5% 1 l",
+            "price" : 540,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 543,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/230091-smetana_domik_v_derevne_20_315_g.jpg?w=360&h=360&_c=1686275708",
+            "description" : "Sour cream house in the village 20% 315 g",
+            "price" : 895,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 544,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/20095-smetana_fud_master_20_400_g.jpg?w=360&h=360&_c=1685865402",
+            "description" : "Sour cream President 20% 400 g",
+            "price" : 970,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 545,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/242948-moloko_ainalaiyn_3_2_1_l.jpg?w=360&h=360&_c=1685421371",
+            "description" : "Milk Ainalayn 3.2% 1 l",
+            "price" : 840,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 546,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/269974-maslo_president_kisloslivochnoe_nesolenoe_president_vysshii_sort_82_180g.jpg?w=360&h=360&_c=1686114108",
+            "description" : "President oxyular unsalted President Higher variety 82% 180g",
+            "price" : 1270,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 547,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/262178-maslo_dziugas_slivochnoe_82_200_g.jpg?w=360&h=360&_c=1686114109",
+            "description" : "Dziugas butter 82% 200 g",
+            "price" : 1845,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 548,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/20045-margarin_3_zhelaniya_pampushka_180_g_.jpg?w=360&h=360&_c=1685433238",
+            "description" : "Margarine 3 Zhelaniya pampushka 180 g",
+            "price" : 170,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 549,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291965-sgushenoe_moloko_umit_8_p_butylka_320_g.jpg?w=360&h=360&_c=1686105193",
+            "description" : "Condensed milk Umit 8% p/bottle 320 g",
+            "price" : 675,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 550,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/273319-napitok_actimel_kislomolochnyi_granat_95_g.jpg?w=360&h=360&_c=1686017505",
+            "description" : "Actimel drink sour -milk grenade 95 g",
+            "price" : 305,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 551,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/273318-napitok_actimel_kislomolochnyi_chernika-ezhevika_95_g.jpg?w=360&h=360&_c=1686405847",
+            "description" : "Actimel drink sour-milk blueberry-year-old 95 g",
+            "price" : 305,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 552,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/266991-kokteil_rastishka_molochnyi_fruktovyi_ledenec_2_210_g.jpg?w=360&h=360&_c=1685096614",
+            "description" : "Cocktail rodshka milk fruit lollipop 2% 210 g  ",
+            "price" : 415,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 553,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/20009-kefir_fud_master_2_5_t_p_1_l.jpg?w=360&h=360&_c=1685865399",
+            "description" : "Kefir Food Master 2.5% t/p 1 l",
+            "price" : 640,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ],
+    [
+        {
+            "id" : 539,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/188402-maslo_prostokvashino_slivochnoe_82_180_g.jpg?w=360&h=360&_c=1686405859",
+            "description" : "Йогурт майы 82% 180 г",
+            "price" : 1830,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 540,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/273306-smetana_prostokvashino_15_300_g.jpg?w=360&h=360&_c=1685447647",
+            "description" : "Простоквашино қаймағы 15% 300 г",
+            "price" : 965,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 541,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/231384-moloko_shadrinskoe_pasterizovannoe_6_950_ml.jpg?w=360&h=360&_c=1686397234",
+            "description" : "Пастерленген Шадр сүті 6% 950 мл",
+            "price" : 1480,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 542,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/20068-moloko_lactel_s_vitaminom_d_1_5_1_l.jpg?w=360&h=360&_c=1683274867",
+            "description" : "Lactel сүті D дәрумені бар 1,5% 1 л",
+            "price" : 540,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 543,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/230091-smetana_domik_v_derevne_20_315_g.jpg?w=360&h=360&_c=1686275708",
+            "description" : "Ауылдағы қаймақ үйі 20% 315 г",
+            "price" : 895,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 544,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/20095-smetana_fud_master_20_400_g.jpg?w=360&h=360&_c=1685865402",
+            "description" : "President қаймақ 20% 400 г",
+            "price" : 970,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 545,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/242948-moloko_ainalaiyn_3_2_1_l.jpg?w=360&h=360&_c=1685421371",
+            "description" : "Сүт Айналайын 3.2% 1 л",
+            "price" : 840,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 546,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/269974-maslo_president_kisloslivochnoe_nesolenoe_president_vysshii_sort_82_180g.jpg?w=360&h=360&_c=1686114108",
+            "description" : "President майы тұздалмаған тұзсыз President жоғары сорт 82% 180г",
+            "price" : 1270,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 547,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/262178-maslo_dziugas_slivochnoe_82_200_g.jpg?w=360&h=360&_c=1686114109",
+            "description" : "Dziugas майы 82% 200 г сары май",
+            "price" : 1845,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 548,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/20045-margarin_3_zhelaniya_pampushka_180_g_.jpg?w=360&h=360&_c=1685433238",
+            "description" : "Маргарин 3 Желания Пампушка 180 г",
+            "price" : 170,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 549,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291965-sgushenoe_moloko_umit_8_p_butylka_320_g.jpg?w=360&h=360&_c=1686105193",
+            "description" : "Қоюландырылған сүт үміт 8% p / бөтелке 320 г",
+            "price" : 675,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 550,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/273319-napitok_actimel_kislomolochnyi_granat_95_g.jpg?w=360&h=360&_c=1686017505",
+            "description" : "Actimel сусыны ашытылған сүт Анар 95 г",
+            "price" : 305,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 551,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/273318-napitok_actimel_kislomolochnyi_chernika-ezhevika_95_g.jpg?w=360&h=360&_c=1686405847",
+            "description" : "Actimel ашытылған сүт сусыны көкжидек-қара бүлдірген 95 г",
+            "price" : 305,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 552,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/266991-kokteil_rastishka_molochnyi_fruktovyi_ledenec_2_210_g.jpg?w=360&h=360&_c=1685096614",
+            "description" : "Коктейль Растишка сүт жеміс лолипопы 2% 210 г",
+            "price" : 415,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 553,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/20009-kefir_fud_master_2_5_t_p_1_l.jpg?w=360&h=360&_c=1685865399",
+            "description" : "Кефир Фуд Мастер 2,5% т/п 1 л",
+            "price" : 640,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ]
+]

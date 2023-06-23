@@ -1,0 +1,368 @@
+[
+    [
+        {
+            "id" : 699,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/259096-pelmeni_vici_gyoza_g_dza_c_yablokami_i_koricei_400_g_.jpg?w=360&h=360&_c=1686545936",
+            "description" : "Гёдза Vici Gyoza c яблоками и корицей 400 г",
+            "price" : 1825,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 700,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/255330-g_dza_vici_gyoza_s_govyadinoi_zamorozhennye_400_g_.jpg?w=360&h=360&_c=1686545939",
+            "description" : "Гёдза Vici Gyoza с говядиной замороженные 400 г",
+            "price" :2570,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 701,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/146331-pelmeni_bekker_domashnie_900_g.jpg?w=360&h=360&_c=1686991824",
+            "description" : "Пельмени Беккер домашние 900 г",
+            "price" : 3920,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 702,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293539-gedza_chestnye_yaponskie_pelmeni_s_kuricei_400_gr.jpeg?w=360&h=360&_c=1686890872",
+            "description" : "Гедза Честные японские пельмени с курицей 400 гр",
+            "price" : 1620,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 703,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293537-gedza_chestnye_yaponskie_pelmeni_gedza_s_govyadinoi_400_gr.jpeg?w=360&h=360&_c=1686890890",
+            "description" : "Гедза Честные японские с говядиной 400 гр",
+            "price" : 2160,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 704,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292307-pelmeni_uly_dala_bailygy_s_govyadinoi_800_g.jpg?w=360&h=360&_c=1686545913",
+            "description" : "Пельмени Uly Dala Bailygy с говядиной 800 г",
+            "price" : 3470,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 705,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292299-vareniki_uly_dala_bailygy_s_kartofelem_700_g.jpg?w=360&h=360&_c=1686545913",
+            "description" : "Вареники Uly Dala Bailygy с картофелем 700 г",
+            "price" : 1430,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 706,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291230-pelmeni_baqanas_dami_kurinye_500_g.png?w=360&h=360&_c=1686545914",
+            "description" : "Пельмени Baqanas dami куриные 500 г",
+            "price" : 2535,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 707,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/287877-manty_yagnyatina_meta_farm_800_g.jpg?w=360&h=360&_c=1686827229",
+            "description" : "Манты ягнятина Meta Farm 800 г",
+            "price" : 5460,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 708,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/287759-ravioli_good_fish_s_s_mgoi_450_g.jpg?w=360&h=360&_c=1686819909",
+            "description" : "Равиоли Good fish с сёмгой 450 г",
+            "price" : 1755,
+            "quantity" : 0,
+            "promotion" : 1900
+        },
+        {
+            "id" : 709,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277364-pelmeni_almaty_et_otbornye_s_govyadinoi_1_kg.jpg?w=360&h=360&_c=1686545922",
+            "description" : "Пельмени Алматы ет отборные с говядиной 1 кг",
+            "price" : 4070,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 710,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277363-pelmeni_almaty_et_domashnie_s_koninoi_450_g.jpg?w=360&h=360&_c=1686566405",
+            "description" : "Пельмени Алматы ет домашние с кониной 450 г",
+            "price" : 2215,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 711,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/275939-pelmeni_nazik_i_k_semirechenskie_900_g.jpg?w=360&h=360&_c=1686545924",
+            "description" : "Пельмени Назик и К Семиреченские 900 г",
+            "price" : 4080,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 712,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/275285-pelmeni_bekker_nacionalnye_400_g.jpg?w=360&h=360&_c=1686545925",
+            "description" : "Пельмени Беккер Национальные 400 г",
+            "price" : 1160,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 713,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/272358-pelmeni_miratorg_halyal_800_g.jpg?w=360&h=360&_c=1686545929",
+            "description" : "Пельмени Мираторг Халяль 800 г",
+            "price" : 3270,
+            "quantity" : 0,
+            "promotion" : null
+        } 
+    ],
+    [
+        {
+            "id" : 699,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/259096-pelmeni_vici_gyoza_g_dza_c_yablokami_i_koricei_400_g_.jpg?w=360&h=360&_c=1686545936",
+            "description" : "Gödza Vici Gyoza with apples and cinnamon 400 g",
+            "price" : 1825,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 700,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/255330-g_dza_vici_gyoza_s_govyadinoi_zamorozhennye_400_g_.jpg?w=360&h=360&_c=1686545939",
+            "description" : "Gödza Vici Gyoza with beef frozen 400 g",
+            "price" :2570,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 701,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/146331-pelmeni_bekker_domashnie_900_g.jpg?w=360&h=360&_c=1686991824",
+            "description" : "Dumplings Bekker Home 900 g",
+            "price" : 3920,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 702,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293539-gedza_chestnye_yaponskie_pelmeni_s_kuricei_400_gr.jpeg?w=360&h=360&_c=1686890872",
+            "description" : "Gyoza Honest Japanese dumplings with chicken 400 gr",
+            "price" : 1620,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 703,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293537-gedza_chestnye_yaponskie_pelmeni_gedza_s_govyadinoi_400_gr.jpeg?w=360&h=360&_c=1686890890",
+            "description" : "Gyoza Honest Japanese dumplings gyoza with beef 400 gr",
+            "price" : 2160,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 704,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292307-pelmeni_uly_dala_bailygy_s_govyadinoi_800_g.jpg?w=360&h=360&_c=1686545913",
+            "description" : "Uly Dala Bailygy dumplings with beef 800 g",
+            "price" : 3470,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 705,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292299-vareniki_uly_dala_bailygy_s_kartofelem_700_g.jpg?w=360&h=360&_c=1686545913",
+            "description" : "Uly Dala Bailygy dumplings with potatoes 700 g",
+            "price" : 1430,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 706,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291230-pelmeni_baqanas_dami_kurinye_500_g.png?w=360&h=360&_c=1686545914",
+            "description" : "Dumplings Baqanas dami with chicken 500 g",
+            "price" : 2535,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 707,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/287877-manty_yagnyatina_meta_farm_800_g.jpg?w=360&h=360&_c=1686827229",
+            "description" : "Manti lamb Meta Farm 800 g",
+            "price" : 5460,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 708,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/287759-ravioli_good_fish_s_s_mgoi_450_g.jpg?w=360&h=360&_c=1686819909",
+            "description" : "Good fish ravioli with salmon 450 g",
+            "price" : 1755,
+            "quantity" : 0,
+            "promotion" : 1900
+        },
+        {
+            "id" : 709,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277364-pelmeni_almaty_et_otbornye_s_govyadinoi_1_kg.jpg?w=360&h=360&_c=1686545922",
+            "description" : "Dumplings of Almaty Selected with beef 1 kg",
+            "price" : 4070,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 710,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277363-pelmeni_almaty_et_domashnie_s_koninoi_450_g.jpg?w=360&h=360&_c=1686566405",
+            "description" : "Almaty et homemade dumplings with horse meat 450 g",
+            "price" : 2215,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 711,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/275939-pelmeni_nazik_i_k_semirechenskie_900_g.jpg?w=360&h=360&_c=1686545924",
+            "description" : "Nasik and K Semirechensk dumplings 900 g",
+            "price" : 4080,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 712,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/275285-pelmeni_bekker_nacionalnye_400_g.jpg?w=360&h=360&_c=1686545925",
+            "description" : "Dumplings Bekker National 400 g",
+            "price" : 1160,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 713,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/272358-pelmeni_miratorg_halyal_800_g.jpg?w=360&h=360&_c=1686545929",
+            "description" : "Miratorg Halal dumplings 800 g",
+            "price" : 3270,
+            "quantity" : 0,
+            "promotion" : null
+        } 
+    ],
+    [
+        {
+            "id" : 699,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/259096-pelmeni_vici_gyoza_g_dza_c_yablokami_i_koricei_400_g_.jpg?w=360&h=360&_c=1686545936",
+            "description" : "Гиоза Vici Gyoza алма мен даршын 400 г",
+            "price" : 1825,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 700,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/255330-g_dza_vici_gyoza_s_govyadinoi_zamorozhennye_400_g_.jpg?w=360&h=360&_c=1686545939",
+            "description" : "Гиоза Vici Gyoza сиыр еті мұздатылған 400 г",
+            "price" :2570,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 701,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/146331-pelmeni_bekker_domashnie_900_g.jpg?w=360&h=360&_c=1686991824",
+            "description" : "Беккер тұшпарасы үйде 900 г",
+            "price" : 3920,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 702,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293539-gedza_chestnye_yaponskie_pelmeni_s_kuricei_400_gr.jpeg?w=360&h=360&_c=1686890872",
+            "description" : "Гиоза адал жапон тауық тұшпарасы 400 гр",
+            "price" : 1620,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 703,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293537-gedza_chestnye_yaponskie_pelmeni_gedza_s_govyadinoi_400_gr.jpeg?w=360&h=360&_c=1686890890",
+            "description" : "Гиоза адал жапон тұшпарасы гиоза сиыр еті 400 гр",
+            "price" : 2160,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 704,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292307-pelmeni_uly_dala_bailygy_s_govyadinoi_800_g.jpg?w=360&h=360&_c=1686545913",
+            "description" : "Uly Dala bailygy сиыр тұшпарасы 800 г",
+            "price" : 3470,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 705,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292299-vareniki_uly_dala_bailygy_s_kartofelem_700_g.jpg?w=360&h=360&_c=1686545913",
+            "description" : "Картоп қосылған Uly Dala bailygy тұшпарасы 700 г",
+            "price" : 1430,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 706,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291230-pelmeni_baqanas_dami_kurinye_500_g.png?w=360&h=360&_c=1686545914",
+            "description" : "Тұшпара Baqanas dami Тауық етімен 500 г",
+            "price" : 2535,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 707,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/287877-manty_yagnyatina_meta_farm_800_g.jpg?w=360&h=360&_c=1686827229",
+            "description" : "Мантия қозы еті meta Farm 800 г",
+            "price" : 5460,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 708,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/287759-ravioli_good_fish_s_s_mgoi_450_g.jpg?w=360&h=360&_c=1686819909",
+            "description" : "Лосось қосылған жақсы балық Равиоли 450 г",
+            "price" : 1755,
+            "quantity" : 0,
+            "promotion" : 1900
+        },
+        {
+            "id" : 709,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277364-pelmeni_almaty_et_otbornye_s_govyadinoi_1_kg.jpg?w=360&h=360&_c=1686545922",
+            "description" : "1 кг сиыр етімен іріктелген Алматының тұшпарасы",
+            "price" : 4070,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 710,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277363-pelmeni_almaty_et_domashnie_s_koninoi_450_g.jpg?w=360&h=360&_c=1686566405",
+            "description" : "Жылқы еті бар үй Алматының тұшпарасы 450 г",
+            "price" : 2215,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 711,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/275939-pelmeni_nazik_i_k_semirechenskie_900_g.jpg?w=360&h=360&_c=1686545924",
+            "description" : "Назик және К Жетісу тұшпаралары 900 г",
+            "price" : 4080,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 712,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/275285-pelmeni_bekker_nacionalnye_400_g.jpg?w=360&h=360&_c=1686545925",
+            "description" : "Беккер тұшпарасы Ұлттық 400 г",
+            "price" : 1160,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 713,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/272358-pelmeni_miratorg_halyal_800_g.jpg?w=360&h=360&_c=1686545929",
+            "description" : "Тұшпара Мираторг Халал 800 г",
+            "price" : 3270,
+            "quantity" : 0,
+            "promotion" : null
+        } 
+    ]
+]

@@ -1,0 +1,368 @@
+[
+    [
+        {
+            "id" : 313,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/259031-shetka_zubnaya_oral-b_pro_expert_clean_35_srednyaya_1_sht.jpg?w=360&h=360&_c=1683635230",
+            "description" : "Щетка зубная Oral-B Pro Expert Clean 35 средняя 1 шт",
+            "price" : 1950,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 314,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/271797-zubnaya_pasta_colgate_total_12_vitaminnyi_zaryad_antibakterialnaya_100_ml.jpg?w=360&h=360&_c=1685608334",
+            "description" : "Зубная паста Colgate Total 12 Витаминный заряд антибактериальная 100 мл",
+            "price" : 1216,
+            "quantity" : 0,
+            "promotion" : 1621
+        },
+        {
+            "id" : 315,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/270848-zubnaya_pasta_2080_dc_pro_max_125_g.jpg?w=360&h=360&_c=1683104593",
+            "description" : "Зубная паста 2080 DC Pro Max 125 г",
+            "price" : 1027,
+            "quantity" : 0,
+            "promotion" : 1283
+        },
+        {
+            "id" : 316,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/290629-zubnaya_pasta_dlya_chuvstvitelnyh_zubov_r_o_c_s_uno_sensitive_74_g_sensitiv_.jpg?w=360&h=360&_c=1683642164",
+            "description" : "Зубная паста для чувствительных зубов R.O.C.S. UNO Sensitive, 74 г (Сенситив)",
+            "price" : 2915,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 317,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/290627-zubnaya_pasta_r_o_c_s_uno_whitening_74_g_otbelivanie_.jpg?w=360&h=360&_c=1684747204",
+            "description" : "Зубная паста R.O.C.S. UNO Whitening, 74 г (Отбеливание)",
+            "price" :2915 ,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 318,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/286786-zubnaya_pasta_colgate_maks_fresh_vzryvnaya_myata_s_osvezhayushimi_kristallami_dlya_svezhego_dyhaniya.jpg?w=360&h=360&_c=1685369279",
+            "description" : "Зубная паста Colgate Макс Фреш Взрывная мята с освежающими кристаллами для свежего дыхания и защиты от кариеса 150 мл",
+            "price" : 1910,
+            "quantity" : 0,
+            "promotion" : 2247
+        },
+        {
+            "id" : 319,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/284102-zubnaya_pasta_jack_n_jill_naturalnaya_s_organicheskoi_chernikoi_50_g_.jpg?w=360&h=360&_c=1683268536",
+            "description" : "Зубная паста Jack n' Jill натуральная с органической черникой 50 г",
+            "price" : 4050,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 320,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/289683-colgate_plax_osvezhayushaya_myata_antibakterialnyi_opolaskivatel_dlya_polosti_rta_250_ml.jpg?w=360&h=360&_c=1685005770",
+            "description" : "Colgate Plax Освежающая мята антибактериальный ополаскиватель для полости рта, 250 мл",
+            "price" : 1496,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 321,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/289681-colgate_plax_svezhest_chaya_antibakterialnyi_opolaskivatel_dlya_polosti_rta_500_ml.jpg?w=360&h=360&_c=1685005729",
+            "description" : "Colgate Plax Свежесть Чая антибактериальный ополаскиватель для полости рта, 500 мл",
+            "price" : 1932,
+            "quantity" : 0,
+            "promotion" : 2146
+        },
+        {
+            "id" : 322,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/260245-sh_tka_zubnaya_longa_vita_bambukovaya_dlya_vzroslyh.jpg?w=360&h=360&_c=1686046290",
+            "description" : "Щётка зубная Longa Vita бамбуковая для взрослых",
+            "price" : 2200,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 323,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/259028-shetka_zubnaya_oral-b_complex_glubokaya_chistka_40_srednyaya_1_sht.jpg?w=360&h=360&_c=1682592559",
+            "description" : "Щетка зубная Oral-B Complex Глубокая Чистка 40 средняя 1 шт",
+            "price" : 1316,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 324,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/257614-shetki_zubnye_colgate_super_flexi_s_gibkoi_ruchkoi_srednei_zhestkosti_4_sht.jpg?w=360&h=360&_c=1685422400",
+            "description" : "Щетки зубные Colgate Super Flexi с гибкой ручкой средней жесткости 4 шт",
+            "price" : 1623,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 325,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/286954-zubnaya_nit_curasept_floss_ptfe_tape_pokrytaya_hlorgeksidinom_35_m.jpg?w=360&h=360&_c=1686303779",
+            "description" : "Зубная нить Curasept Floss PTFE TAPE покрытая хлоргексидином 35 м",
+            "price" : 3215,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 326,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/272993-nit_zubnaya_splat_professional_s_aromatom_klubniki_30_m.jpg?w=360&h=360&_c=1686222797",
+            "description" : "Нить зубная Splat Professional с ароматом Клубники 30 м",
+            "price" : 2319,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 327,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/224943-nit_zubnaya_lacalut_dental_floss_50m.jpg?w=360&h=360&_c=1686222800",
+            "description" : "Нить зубная Lacalut Dental floss 50м",
+            "price" : 1758,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ],
+    [
+        {
+            "id" : 313,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/259031-shetka_zubnaya_oral-b_pro_expert_clean_35_srednyaya_1_sht.jpg?w=360&h=360&_c=1683635230",
+            "description" : "Oral-B Pro Expert Clean 35 Medium Toothbrush 1 pc",
+            "price" : 1950,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 314,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/271797-zubnaya_pasta_colgate_total_12_vitaminnyi_zaryad_antibakterialnaya_100_ml.jpg?w=360&h=360&_c=1685608334",
+            "description" : "Colgate Total 12 Vitamin Charge Antibacterial Toothpaste 100 ml",
+            "price" : 1216,
+            "quantity" : 0,
+            "promotion" : 1621
+        },
+        {
+            "id" : 315,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/270848-zubnaya_pasta_2080_dc_pro_max_125_g.jpg?w=360&h=360&_c=1683104593",
+            "description" : "Toothpaste 2080 DC Pro Max 125 g",
+            "price" : 1027,
+            "quantity" : 0,
+            "promotion" : 1283
+        },
+        {
+            "id" : 316,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/290629-zubnaya_pasta_dlya_chuvstvitelnyh_zubov_r_o_c_s_uno_sensitive_74_g_sensitiv_.jpg?w=360&h=360&_c=1683642164",
+            "description" : "Toothpaste for sensitive teeth R.O.C.S. UNO Sensitive, 74 g (Sensitive)",
+            "price" : 2915,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 317,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/290627-zubnaya_pasta_r_o_c_s_uno_whitening_74_g_otbelivanie_.jpg?w=360&h=360&_c=1684747204",
+            "description" : "R.O.C.S. UNO Whitening toothpaste, 74 g (Whitening)",
+            "price" : 2915 ,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 318,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/286786-zubnaya_pasta_colgate_maks_fresh_vzryvnaya_myata_s_osvezhayushimi_kristallami_dlya_svezhego_dyhaniya.jpg?w=360&h=360&_c=1685369279",
+            "description" : "Colgate Max Fresh Toothpaste Explosive Mint with refreshing crystals for fresh breath and caries protection 150 ml",
+            "price" : 1910,
+            "quantity" : 0,
+            "promotion" : 2247
+        },
+        {
+            "id" : 319,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/284102-zubnaya_pasta_jack_n_jill_naturalnaya_s_organicheskoi_chernikoi_50_g_.jpg?w=360&h=360&_c=1683268536",
+            "description" : "Jack n' Jill natural toothpaste with organic blueberries 50 g",
+            "price" : 4050,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 320,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/289683-colgate_plax_osvezhayushaya_myata_antibakterialnyi_opolaskivatel_dlya_polosti_rta_250_ml.jpg?w=360&h=360&_c=1685005770",
+            "description" : "Colgate Plax Refreshing Mint Antibacterial Mouthwash, 250 ml",
+            "price" : 1496,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 321,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/289681-colgate_plax_svezhest_chaya_antibakterialnyi_opolaskivatel_dlya_polosti_rta_500_ml.jpg?w=360&h=360&_c=1685005729",
+            "description" : "Colgate Plax Freshness Tea Antibacterial Mouthwash, 500 ml",
+            "price" : 1932,
+            "quantity" : 0,
+            "promotion" : 2146
+        },
+        {
+            "id" : 322,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/260245-sh_tka_zubnaya_longa_vita_bambukovaya_dlya_vzroslyh.jpg?w=360&h=360&_c=1686046290",
+            "description" : "Longa Vita bamboo toothbrush for adults",
+            "price" : 2200,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 323,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/259028-shetka_zubnaya_oral-b_complex_glubokaya_chistka_40_srednyaya_1_sht.jpg?w=360&h=360&_c=1682592559",
+            "description" : "Oral-B Complex Deep Cleaning Toothbrush 40 Medium 1 pc",
+            "price" : 1316,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 324,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/257614-shetki_zubnye_colgate_super_flexi_s_gibkoi_ruchkoi_srednei_zhestkosti_4_sht.jpg?w=360&h=360&_c=1685422400",
+            "description" : "Colgate Super Flexi toothbrushes with a flexible handle of medium hardness 4 pcs",
+            "price" : 1623,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 325,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/286954-zubnaya_nit_curasept_floss_ptfe_tape_pokrytaya_hlorgeksidinom_35_m.jpg?w=360&h=360&_c=1686303779",
+            "description" : "Dental floss Curasept Floss PTFE TAPE coated with chlorhexidine 35 m",
+            "price" : 3215,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 326,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/272993-nit_zubnaya_splat_professional_s_aromatom_klubniki_30_m.jpg?w=360&h=360&_c=1686222797",
+            "description" : "Splat Professional dental floss with Strawberry flavor 30 m",
+            "price" : 2319,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 327,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/224943-nit_zubnaya_lacalut_dental_floss_50m.jpg?w=360&h=360&_c=1686222800",
+            "description" : "Dental floss Lacalut Dental floss 50m",
+            "price" : 1758,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ],
+    [
+        {
+            "id" : 313,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/259031-shetka_zubnaya_oral-b_pro_expert_clean_35_srednyaya_1_sht.jpg?w=360&h=360&_c=1683635230",
+            "description" : "Oral-B Pro Expert Clean 35 тіс щеткасы орташа 1 дана",
+            "price" : 1950,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 314,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/271797-zubnaya_pasta_colgate_total_12_vitaminnyi_zaryad_antibakterialnaya_100_ml.jpg?w=360&h=360&_c=1685608334",
+            "description" : "Oral-B Pro Expert Clean 35 тіс щеткасы орташа 1 дана",
+            "price" : 1216,
+            "quantity" : 0,
+            "promotion" : 1621
+        },
+        {
+            "id" : 315,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/270848-zubnaya_pasta_2080_dc_pro_max_125_g.jpg?w=360&h=360&_c=1683104593",
+            "description" : "Тіс пастасы 2080 DC Pro Max 125 г",
+            "price" : 1027,
+            "quantity" : 0,
+            "promotion" : 1283
+        },
+        {
+            "id" : 316,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/290629-zubnaya_pasta_dlya_chuvstvitelnyh_zubov_r_o_c_s_uno_sensitive_74_g_sensitiv_.jpg?w=360&h=360&_c=1683642164",
+            "description" : "R.O.C.S. UNO Sensitive сезімтал тіс пастасы, 74г (Сенсив)",
+            "price" : 2915,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 317,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/290627-zubnaya_pasta_r_o_c_s_uno_whitening_74_g_otbelivanie_.jpg?w=360&h=360&_c=1684747204",
+            "description" : "R. O. C. S. uno Whitening тіс пастасы, 74 г (ағарту)",
+            "price" :2915 ,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 318,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/286786-zubnaya_pasta_colgate_maks_fresh_vzryvnaya_myata_s_osvezhayushimi_kristallami_dlya_svezhego_dyhaniya.jpg?w=360&h=360&_c=1685369279",
+            "description" : "Colgate тіс пастасы Макс Фреш сергітетін кристалдары бар жарылғыш жалбыз жаңа тыныс алу және қуыстардан қорғау үшін 150 мл",
+            "price" : 1910,
+            "quantity" : 0,
+            "promotion" : 2247
+        },
+        {
+            "id" : 319,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/284102-zubnaya_pasta_jack_n_jill_naturalnaya_s_organicheskoi_chernikoi_50_g_.jpg?w=360&h=360&_c=1683268536",
+            "description" : "Jack N ' Jill табиғи органикалық көкжидек тіс пастасы 50 г",
+            "price" : 4050,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 320,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/289683-colgate_plax_osvezhayushaya_myata_antibakterialnyi_opolaskivatel_dlya_polosti_rta_250_ml.jpg?w=360&h=360&_c=1685005770",
+            "description" : "Colgate Plax сергітетін жалбыз бактерияға қарсы ауыз шайғыш, 250 мл",
+            "price" : 1496,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 321,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/289681-colgate_plax_svezhest_chaya_antibakterialnyi_opolaskivatel_dlya_polosti_rta_500_ml.jpg?w=360&h=360&_c=1685005729",
+            "description" : "Colgate Plax шай балғындығы бактерияға қарсы ауыз шайғыш, 500 мл",
+            "price" : 1932,
+            "quantity" : 0,
+            "promotion" : 2146
+        },
+        {
+            "id" : 322,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/260245-sh_tka_zubnaya_longa_vita_bambukovaya_dlya_vzroslyh.jpg?w=360&h=360&_c=1686046290",
+            "description" : "Ересектерге арналған longa vita бамбук тіс щеткасы",
+            "price" : 2200,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 323,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/259028-shetka_zubnaya_oral-b_complex_glubokaya_chistka_40_srednyaya_1_sht.jpg?w=360&h=360&_c=1682592559",
+            "description" : "Oral-B Complex тіс щеткасы терең тазалау 40 орташа 1 дана",
+            "price" : 1316,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 324,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/257614-shetki_zubnye_colgate_super_flexi_s_gibkoi_ruchkoi_srednei_zhestkosti_4_sht.jpg?w=360&h=360&_c=1685422400",
+            "description" : "Colgate super Flexi тіс щеткалары икемді орташа қаттылық тұтқасы 4 дана",
+            "price" : 1623,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 325,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/286954-zubnaya_nit_curasept_floss_ptfe_tape_pokrytaya_hlorgeksidinom_35_m.jpg?w=360&h=360&_c=1686303779",
+            "description" : "35 м хлоргексидинмен қапталған Curasept Floss PTFE таспасы",
+            "price" : 3215,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 326,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/272993-nit_zubnaya_splat_professional_s_aromatom_klubniki_30_m.jpg?w=360&h=360&_c=1686222797",
+            "description" : "Құлпынай хош иісі бар Splat professional тіс жібі 30 м",
+            "price" : 2319,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 327,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/224943-nit_zubnaya_lacalut_dental_floss_50m.jpg?w=360&h=360&_c=1686222800",
+            "description" : "Жіп тіс Lacalut Dental floss 50м",
+            "price" : 1758,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ]
+]

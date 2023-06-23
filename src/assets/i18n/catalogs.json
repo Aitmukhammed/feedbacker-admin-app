@@ -1,0 +1,35 @@
+[
+    {
+        "cuisines_of_the_world" : "Кухни народов",
+        "food" : "мира",
+        "everything_for_home" : "Все для дома",
+        "health" : "Здоровье",
+        "beauty" : "Красота",
+        "zoo_store" : "Zоо магазин",
+        "for_the_holiday"  : "К празднику",
+        "sweets" : "Сладости",
+        "catalogs" : "Каталоги"
+    },
+    {
+        "cuisines_of_the_world" : "Cuisines around",
+        "food" : "the world",
+        "everything_for_home" : "Everything for home",
+        "health" : "Health",
+        "beauty" : "Beauty",
+        "zoo_store" : "Zoo store",
+        "for_the_holiday"  : "For the holiday",
+        "sweets" : "Sweets",
+        "catalogs" : "Catalogs"
+    },
+    {
+        "cuisines_of_the_world": "Әлем халықтарының",
+        "food" : "тағамдары",
+        "everything_for_home" : "Барлығы үйге арналған",
+        "health" : "Денсаулық",
+        "beauty" : "Сұлулық",
+        "zoo_store" : "Zoo дүкен",
+        "for_the_holiday"  : "Мерекеге",
+        "sweets" : "Тәттілер",
+        "catalogs" : "Каталогтар"
+    }      
+]

@@ -1,0 +1,37 @@
+[
+    
+        {
+            "username" : "Имя пользователя",
+            "password" : "Пароль",
+            "enter" : "Войти",
+            "question" : "У вас нету аккаунта?",
+            "registration" : "Регистрация",
+            "error" : "Ошибка входа: ",
+            "requiredUsername" : "Требуется имя пользователя",
+            "passwordRequired" : "Требуется пароль",
+            "charactersPassword" : "Пароль должен содержать не менее 6 символов"
+        },
+        {
+            "username" : "User name",
+            "password" : "Password",
+            "enter" : "Enter",
+            "question" : "Don't you have an account?",
+            "registration" : "Registration",
+            "error" : "Login error: ",
+            "requiredUsername" : "Username is required",
+            "passwordRequired" : "Password is required",
+            "charactersPassword" : "Password must be at least 6 characters"
+        },
+        {
+            "username" : "Пайдаланушы аты",
+            "password" : "Құпия сөз",
+            "enter" : "Кіру",
+            "question" : "Сізде аккаунт жоқпа?",
+            "registration" : "Тіркелу",
+            "error" : "Кіру қатесі: ",
+            "requiredUsername" : "Пайдаланушы аты қажет",
+            "passwordRequired" : "Құпия сөз қажет",
+            "charactersPassword" : "Құпия сөзде кемінде 6 таңба болуы керек"
+        }
+    
+]

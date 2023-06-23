@@ -1,0 +1,368 @@
+[
+    [
+        {
+            "id" : 669,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/233193-gulyash_kazmyaso_govyazhii_v_u_kg.jpg?w=360&h=360&_c=1685436315",
+            "description" : "Гуляш KazMyaso говяжий охлажденный в/у кг",
+            "price" : 4800,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 670,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/233225-grudinka_kazmyaso_govyazhya_v_u_kg.jpg?w=360&h=360&_c=1686710505",
+            "description" : "Грудинка KazMyaso говяжья охлажденная в/у кг",
+            "price" : 4800,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 671,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/230229-myaso_govyadiny_kazmyaso_ossobuko_n_k_choice_kg.jpg?w=360&h=360&_c=1686194509",
+            "description" : "Говядина KazMyaso Мраморная Оссобуко замороженная н/к в/у (choice) кг",
+            "price" : 4550,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 672,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/230245-farsh_govyazhii_kazmyaso_80_20_v_u_kg.jpg?w=360&h=360&_c=1685436285",
+            "description" : "Фарш говяжий KazMyaso 80/20 охлажденный в/у кг",
+            "price" : 4290,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 673,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/238143-okorok_zadnii_zamorozhennyi_b_k_kg.jpg?w=360&h=360&_c=1686023446",
+            "description" : "Окорок свиной задний замороженный б/к кг",
+            "price" : 3080,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 674,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/238142-sheya_svinaya_zamorozhennaya_v_u_kg.jpg?w=360&h=360&_c=1686540271",
+            "description" : "Шея свиная замороженная в/у кг",
+            "price" : 4340,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 675,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292372-vyrezka_black_angus_choice_govyazhya_zamorozhennaya_kg.png?w=360&h=360&_c=1686116718",
+            "description" : "Вырезка Black Angus CHOICE говяжья замороженная кг",
+            "price" : 14030,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 676,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293446-farsh_black_angus_govyazhii_80_zamorozhennyi_2_kg.jpeg?w=360&h=360&_c=1686218613",
+            "description" : "Фарш Black Angus говяжий 80% замороженный 2 кг",
+            "price" : 5835,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 677,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291201-steik_tibon_myasodel_govyazhii_zamorozhennyi_kg.jpeg?w=360&h=360&_c=1686879998",
+            "description" : "Стейк Tibon Myasodel говяжий замороженный кг",
+            "price" : 5265,
+            "quantity" : 0,
+            "promotion" : 5850
+        },
+        {
+            "id" : 678,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291198-gulyash_myasodel_govyazhii_zamorozhennyi_kg.png?w=360&h=360&_c=1686884841",
+            "description" : "Гуляш Myasodel говяжий замороженный кг",
+            "price" : 5395,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 679,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/280983-lopatka_myasodel_govyazhya_zamorozhennaya_kg.png?w=360&h=360&_c=1686370125",
+            "description" : "Лопатка Myasodel говяжья замороженная кг",
+            "price" : 4095,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 680,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/268623-ossobuko_talhiz_zamorozhennoe_kg.jpg?w=360&h=360&_c=1686133023",
+            "description" : "Оссобуко Talhiz замороженное кг",
+            "price" : 4290,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 681,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/254038-hvost_myasokostnyi_boszhan_govyazhii_zamorozhennyi_kg.jpg?w=360&h=360&_c=1686116728",
+            "description" : "Хвост мясокостный Boszhan говяжий замороженный кг",
+            "price" : 2295,
+            "quantity" : 0,
+            "promotion" : 2700
+        },
+        {
+            "id" : 682,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/280973-sup_nabor_myasodel_govyazhii_postnyi_zamorozhennyi_kg.png?w=360&h=360&_c=1686365621",
+            "description" : "Суп набор Myasodel Говяжий постный замороженный кг",
+            "price" : 1625,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 683,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/268617-narezka_talhiz_na_gulyash_postnaya_ohlazhdennaya_kg.jpg?w=360&h=360&_c=1686889101",
+            "description" : "Нарезка Talhiz на гуляш постная охлажденная кг",
+            "price" : 5280,
+            "quantity" : 0,
+            "promotion" : 5720
+        } 
+    ],
+    [   
+        {
+            "id" : 669,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/233193-gulyash_kazmyaso_govyazhii_v_u_kg.jpg?w=360&h=360&_c=1685436315",
+            "description" : "Gulyash kazmyaso beef chilled in/u kg",
+            "price" : 4800,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 670,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/233225-grudinka_kazmyaso_govyazhya_v_u_kg.jpg?w=360&h=360&_c=1686710505",
+            "description" : "Kazmyaso bastard beef chilled in/u kg",
+            "price" : 4800,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 671,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/230229-myaso_govyadiny_kazmyaso_ossobuko_n_k_choice_kg.jpg?w=360&h=360&_c=1686194509",
+            "description" : "Beef Kazmyaso marble ossobuko frozen n/k (choice) kg",
+            "price" : 4550,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 672,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/230245-farsh_govyazhii_kazmyaso_80_20_v_u_kg.jpg?w=360&h=360&_c=1685436285",
+            "description" : "Believers beef Kazmyaso 80/20 chilled in kg",
+            "price" : 4290,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 673,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/238143-okorok_zadnii_zamorozhennyi_b_k_kg.jpg?w=360&h=360&_c=1686023446",
+            "description" : "Rear ham for the rear frozen b/k kg",
+            "price" : 3080,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 674,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/238142-sheya_svinaya_zamorozhennaya_v_u_kg.jpg?w=360&h=360&_c=1686540271",
+            "description" : "Frozen pork neck in/u kg",
+            "price" : 4340,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 675,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292372-vyrezka_black_angus_choice_govyazhya_zamorozhennaya_kg.png?w=360&h=360&_c=1686116718",
+            "description" : "Frozen pork neck in/u kg",
+            "price" : 14030,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 676,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293446-farsh_black_angus_govyazhii_80_zamorozhennyi_2_kg.jpeg?w=360&h=360&_c=1686218613",
+            "description" : "Minced Black Angus beef 80% frozen 2 kg",
+            "price" : 5835,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 677,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291201-steik_tibon_myasodel_govyazhii_zamorozhennyi_kg.jpeg?w=360&h=360&_c=1686879998",
+            "description" : "Tibon Myasodel frozen beef steak kg",
+            "price" : 5265,
+            "quantity" : 0,
+            "promotion" : 5850
+        },
+        {
+            "id" : 678,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291198-gulyash_myasodel_govyazhii_zamorozhennyi_kg.png?w=360&h=360&_c=1686884841",
+            "description" : "Myasodel beef frozen goulash kg",
+            "price" : 5395,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 679,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/280983-lopatka_myasodel_govyazhya_zamorozhennaya_kg.png?w=360&h=360&_c=1686370125",
+            "description" : "Frozen beef shoulder blade Myasodel kg",
+            "price" : 4095,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 680,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/268623-ossobuko_talhiz_zamorozhennoe_kg.jpg?w=360&h=360&_c=1686133023",
+            "description" : "Ossobuco Talhiz frozen kg",
+            "price" : 4290,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 681,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/254038-hvost_myasokostnyi_boszhan_govyazhii_zamorozhennyi_kg.jpg?w=360&h=360&_c=1686116728",
+            "description" : "Tail meat -bone boszhan beef frozen kg",
+            "price" : 2295,
+            "quantity" : 0,
+            "promotion" : 2700
+        },
+        {
+            "id" : 682,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/280973-sup_nabor_myasodel_govyazhii_postnyi_zamorozhennyi_kg.png?w=360&h=360&_c=1686365621",
+            "description" : "Soup set Myasodel beef lean frozen kg",
+            "price" : 1625,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 683,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/268617-narezka_talhiz_na_gulyash_postnaya_ohlazhdennaya_kg.jpg?w=360&h=360&_c=1686889101",
+            "description" : "Talhiz cut on a goulash lean chilled kg",
+            "price" : 5280,
+            "quantity" : 0,
+            "promotion" : 5720
+        } 
+    ],
+    [
+        {
+            "id" : 669,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/233193-gulyash_kazmyaso_govyazhii_v_u_kg.jpg?w=360&h=360&_c=1685436315",
+            "description" : "Гуляш kazmyaso сиыр салқындатылған в/у кг",
+            "price" : 4800,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 670,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/233225-grudinka_kazmyaso_govyazhya_v_u_kg.jpg?w=360&h=360&_c=1686710505",
+            "description" : "Kazmyaso сиыр еті / у кг салқындатылған",
+            "price" : 4800,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 671,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/230229-myaso_govyadiny_kazmyaso_ossobuko_n_k_choice_kg.jpg?w=360&h=360&_c=1686194509",
+            "description" : "KazMyaso сиыр еті мәрмәр Оссобуко мұздатылған н/к в / у (choice) кг",
+            "price" : 4550,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 672,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/230245-farsh_govyazhii_kazmyaso_80_20_v_u_kg.jpg?w=360&h=360&_c=1685436285",
+            "description" : "KazMyaso 80/20 тартылған сиыр еті / у кг салқындатылған",
+            "price" : 4290,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 673,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/238143-okorok_zadnii_zamorozhennyi_b_k_kg.jpg?w=360&h=360&_c=1686023446",
+            "description" : "Ветчина артқы мұздатылған пайдаланылған кг",
+            "price" : 3080,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 674,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/238142-sheya_svinaya_zamorozhennaya_v_u_kg.jpg?w=360&h=360&_c=1686540271",
+            "description" : "Шошқа мойны мұздатылған кг",
+            "price" : 4340,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 675,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292372-vyrezka_black_angus_choice_govyazhya_zamorozhennaya_kg.png?w=360&h=360&_c=1686116718",
+            "description" : "Қара ангус таңдауы сиыр еті мұздатылған кг",
+            "price" : 14030,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 676,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293446-farsh_black_angus_govyazhii_80_zamorozhennyi_2_kg.jpeg?w=360&h=360&_c=1686218613",
+            "description" : "Қара ангус сиыр еті 80% мұздатылған 2 кг",
+            "price" : 5835,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 677,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291201-steik_tibon_myasodel_govyazhii_zamorozhennyi_kg.jpeg?w=360&h=360&_c=1686879998",
+            "description" : "Стейк Tibon Myasodel сиыр еті мұздатылған кг",
+            "price" : 5265,
+            "quantity" : 0,
+            "promotion" : 5850
+        },
+        {
+            "id" : 678,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291198-gulyash_myasodel_govyazhii_zamorozhennyi_kg.png?w=360&h=360&_c=1686884841",
+            "description" : "Гуляш Myasodel говяжий замороженный кг",
+            "price" : 5395,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 679,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/280983-lopatka_myasodel_govyazhya_zamorozhennaya_kg.png?w=360&h=360&_c=1686370125",
+            "description" : "Иық Myasodel сиыр еті мұздатылған кг",
+            "price" : 4095,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 680,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/268623-ossobuko_talhiz_zamorozhennoe_kg.jpg?w=360&h=360&_c=1686133023",
+            "description" : "Оссобуко Talhiz мұздатылған кг",
+            "price" : 4290,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 681,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/254038-hvost_myasokostnyi_boszhan_govyazhii_zamorozhennyi_kg.jpg?w=360&h=360&_c=1686116728",
+            "description" : "Ет және сүйек құйрығы Boszhan сиыр еті мұздатылған кг",
+            "price" : 2295,
+            "quantity" : 0,
+            "promotion" : 2700
+        },
+        {
+            "id" : 682,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/280973-sup_nabor_myasodel_govyazhii_postnyi_zamorozhennyi_kg.png?w=360&h=360&_c=1686365621",
+            "description" : "Сорпа жиынтығы Myasodel сиыр еті майсыз мұздатылған кг",
+            "price" : 1625,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 683,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/268617-narezka_talhiz_na_gulyash_postnaya_ohlazhdennaya_kg.jpg?w=360&h=360&_c=1686889101",
+            "description" : "Гуляшқа talhiz кесу майсыз салқындатылған кг",
+            "price" : 5280,
+            "quantity" : 0,
+            "promotion" : 5720
+        } 
+    ]
+]

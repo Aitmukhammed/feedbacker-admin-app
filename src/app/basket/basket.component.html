@@ -1,0 +1,77 @@
+<div class="container">
+    <div class="one">1. {{text[translateService.languageId].basket_2}}
+        <div><hr class="line_one"></div>
+    </div>
+    <div class="two">2. {{text[translateService.languageId].checkout}}
+        <div><hr class="line_two"></div>
+    </div>
+    <div class="three">3. {{text[translateService.languageId].order_accepted}}
+        <div><hr class="line_three"></div>
+    </div>
+</div>
+<div class="hint">
+    <b><h4>{{text[translateService.languageId].basket}}</h4></b>
+    <button (click)="openModal()" class="clean_basket_hint">{{text[translateService.languageId].basketClear}}</button>
+</div>
+
+<div class="your_order">
+    <h1 class="order">{{text[translateService.languageId].your_order}}</h1>
+    <table>
+        <tr>
+            <td class="text_products">{{text[translateService.languageId].products}}</td>
+            <td class="totalCost">{{ totalCost }} ₸</td>
+        </tr>
+        <tr>
+            <td class="text_products">{{text[translateService.languageId].delivery_fee}}</td>
+            <span class="block show" *ngIf="isBlockVisible">
+                {{text[translateService.languageId].delivery_condition}}
+            </span>
+            <svg (mouseover)="showBlock()" (mouseout)="hideBlock()" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_5152_38976)"><path d="M8 12C8.21217 12 8.41566 11.9157 8.56568 11.7657C8.71571 11.6157 8.8 11.4122 8.8 11.2L8.8 8C8.8 7.78783 8.71571 7.58434 8.56568 7.43432C8.41566 7.28429 8.21217 7.2 8 7.2C7.78783 7.2 7.58434 7.28429 7.43431 7.43431C7.28429 7.58434 7.2 7.78783 7.2 8L7.2 11.2C7.2 11.4122 7.28428 11.6157 7.43431 11.7657C7.58434 11.9157 7.78783 12 8 12ZM7.264 5.104C7.28151 5.15498 7.30572 5.2034 7.336 5.248L7.432 5.368C7.5445 5.47901 7.68736 5.5542 7.84255 5.5841C7.99774 5.614 8.15831 5.59726 8.304 5.536C8.40095 5.49549 8.49024 5.43867 8.568 5.368C8.64214 5.29325 8.7008 5.2046 8.74062 5.10713C8.78043 5.00966 8.80061 4.90529 8.8 4.8C8.79874 4.69546 8.77699 4.59218 8.736 4.496C8.70007 4.39673 8.64275 4.30656 8.56809 4.23191C8.49344 4.15725 8.40328 4.09993 8.304 4.064C8.20824 4.02168 8.1047 3.99981 8 3.99981C7.8953 3.99981 7.79176 4.02168 7.696 4.064C7.59672 4.09993 7.50656 4.15725 7.43191 4.23191C7.35725 4.30656 7.29993 4.39672 7.264 4.496C7.22301 4.59218 7.20126 4.69546 7.2 4.8C7.19607 4.85326 7.19607 4.90674 7.2 4.96C7.21377 5.01102 7.23536 5.05959 7.264 5.104ZM8 16C9.58225 16 11.129 15.5308 12.4446 14.6518C13.7602 13.7727 14.7855 12.5233 15.391 11.0615C15.9965 9.59966 16.155 7.99113 15.8463 6.43928C15.5376 4.88743 14.7757 3.46197 13.6569 2.34315C12.538 1.22433 11.1126 0.4624 9.56072 0.153718C8.00887 -0.154963 6.40034 0.00346291 4.93853 0.608964C3.47672 1.21447 2.2273 2.23985 1.34825 3.55544C0.469194 4.87103 2.74506e-06 6.41775 2.60673e-06 8C2.51489e-06 9.05057 0.206927 10.0909 0.608964 11.0615C1.011 12.0321 1.60028 12.914 2.34315 13.6569C3.08601 14.3997 3.96793 14.989 4.93853 15.391C5.90914 15.7931 6.94942 16 8 16ZM8 1.6C9.2658 1.6 10.5032 1.97536 11.5556 2.6786C12.6081 3.38184 13.4284 4.38138 13.9128 5.55083C14.3972 6.72027 14.524 8.0071 14.277 9.24858C14.0301 10.4901 13.4205 11.6304 12.5255 12.5255C11.6304 13.4205 10.4901 14.0301 9.24858 14.277C8.0071 14.524 6.72027 14.3972 5.55083 13.9128C4.38138 13.4284 3.38184 12.6081 2.6786 11.5556C1.97536 10.5032 1.6 9.2658 1.6 8C1.6 6.30261 2.27428 4.67475 3.47452 3.47452C4.67475 2.27428 6.30261 1.6 8 1.6Z" fill="#333333"></path></g> <defs><clipPath id="clip0_5152_38976"><rect width="16" height="16" fill="white" transform="translate(16 16) rotate(-180)"></rect></clipPath></defs></svg>
+            <td class="totalCost">0 ₸</td>
+        </tr>
+
+        <hr class="under_hr"><br>
+        <tr>
+            <td class="total_amount">{{text[translateService.languageId].total}}</td>
+            <td class="totalCost">0 ₸</td>
+        </tr>
+
+    </table>
+
+    <button class="doOrder"  [disabled]="totalCost === 0" (click)="reloadPage('/DecorationComponent')" >{{text[translateService.languageId].doOrder}}</button>
+</div>
+
+<div class="modal" *ngIf="showModal">
+    <div class="modal-content">
+      <h2>{{text[translateService.languageId].confirmation}}</h2>
+      <p>{{text[translateService.languageId].confirmation_of_deletion}}</p>
+      <div class="modal-buttons">
+        <button class="modal-yes" (click)="removeAllItems()">{{text[translateService.languageId].yes}}</button>
+        <button class="modal-no" (click)="closeModal()">{{text[translateService.languageId].no}}</button>
+      </div>
+    </div>
+</div>
+
+<div class="order_container">
+    <ul>
+        <li *ngFor="let item of getNonZeroQuantityItems()">
+            <img [src]="item.img">
+            <span class="description-delete">{{ item.description }} 
+                <button class="delete" (click)="removeAllFromCart(item)">
+                    <img class="deleteBtn" src="../../assets/img/deleteCart.png" alt="">
+                </button>                
+            </span>
+            <span class="quantity-price">
+                <button class="minus" (click)="removeFromCart(item)">-</button>
+                <p class="quantity">{{ getProductQuantity(item) }}</p>
+                <button class="plus" (click)="addToCart(item)">+</button>
+                <p class="price">{{ item.price * getProductQuantity(item) }}₸</p>
+            </span>
+        </li>
+    </ul>
+</div>
+
+
+
+ 
+  

@@ -1,0 +1,416 @@
+[
+    [
+        {
+            "id" : 438,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19445-banany_kg.jpg?w=360&h=360&_c=1686455227",
+            "description" : "Бананы кг",
+            "price" : 790,
+            "quantity" : 0,
+            "promotion" : 890
+        },
+        {
+            "id" : 439,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/237984-avokado_hass_kolumbiya_sht_.jpg?w=360&h=360&_c=1685337426",
+            "description" : "Авокадо Хасс Колумбия шт",
+            "price" : 960,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 440,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/242599-yabloko_grenni_smit_franciya_kg.jpg?w=360&h=360&_c=1686134924",
+            "description" : "Яблоко Гренни Смит Франция кг",
+            "price" : 1260,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 441,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/234128-grusha_konferenciya_belgiya_kg.jpg?w=360&h=360&_c=1686372626",
+            "description" : "Груша Конференция Бельгия кг",
+            "price" : 1820,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 442,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293576-dynya_eminenza_ot_arbuz_kz_kg.png?w=360&h=360&_c=1686373727",
+            "description" : "Дыня Эминенза кг",
+            "price" : 560,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" :443,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293154-chereshnya_kordiya_zhetysu_ba_tary_kg.png?w=360&h=360&_c=1686121216",
+            "description" : "Черешня Кордия Жетысу Бақтары кг",
+            "price" : 2590,
+            "quantity" : 0,
+            "promotion" : 2790
+        },
+        {
+            "id" : 444,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/256206-arbuz_rannii_kg.jpeg?w=360&h=360&_c=1686369640",
+            "description" : "Арбуз ранний кг",
+            "price" : 255,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 445,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19414-dynya_kolhoznica.jpg?w=360&h=360&_c=1686381177",
+            "description" : "Дыня Колхозница",
+            "price" : 610,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 446,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292239-klubnika_vivara_400_g.jpg?w=360&h=360&_c=1686047389",
+            "description" : "Клубника Вивара 400 г",
+            "price" : 2245,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 447,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291835-golubika_marokko_125_g.jpg?w=360&h=360&_c=1686301125",
+            "description" : "Голубика Марокко 125 г",
+            "price" : 1990,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 448,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19429-ananas_kosta-rika_sht.png?w=360&h=360&_c=1686292199",
+            "description" : "Ананас Коста-Рика шт",
+            "price" : 1620,
+            "quantity" : 0,
+            "promotion" : 1820
+        },
+        {
+            "id" : 449,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19430-mango_braziliya_sht.jpg?w=360&h=360&_c=1686115172",
+            "description" : "Манго Бразилия шт",
+            "price" : 1160,
+            "quantity" : 0,
+            "promotion" : 1260
+        },
+        {
+            "id" : 450,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19428-kivi.jpg?w=360&h=360&_c=1686209013",
+            "description" : "Киви",
+            "price" : 1500,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 451,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/224725-papaiya.jpg?w=360&h=360&_c=1686113166",
+            "description" : "Папайя Китай шт",
+            "price" : 2015,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 452,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/265991-greipfrut_sht.jpg?w=360&h=360&_c=1684731721",
+            "description" : "Грейпфрут шт",
+            "price" : 770,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 453,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/265963-laim_sht.jpg?w=360&h=360&_c=1684731722",
+            "description" : "Лайм шт",
+            "price" : 280,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 454,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/253763-limon_argentina_1_sht.jpg?w=360&h=360&_c=1685588799",
+            "description" : "Лимон Аргентина шт",
+            "price" : 240,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ],
+    [
+        {
+            "id" : 438,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19445-banany_kg.jpg?w=360&h=360&_c=1686455227",
+            "description" : "Bananas kg",
+            "price" : 790,
+            "quantity" : 0,
+            "promotion" : 890
+        },
+        {
+            "id" : 439,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/237984-avokado_hass_kolumbiya_sht_.jpg?w=360&h=360&_c=1685337426",
+            "description" : "Avocado Hass Columbia pcs",
+            "price" : 960,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 440,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/242599-yabloko_grenni_smit_franciya_kg.jpg?w=360&h=360&_c=1686134924",
+            "description" : "Apple Grenny Smith France kg",
+            "price" : 1260,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 441,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/234128-grusha_konferenciya_belgiya_kg.jpg?w=360&h=360&_c=1686372626",
+            "description" : "Conference pear Belgium kg",
+            "price" : 1820,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 442,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293576-dynya_eminenza_ot_arbuz_kz_kg.png?w=360&h=360&_c=1686373727",
+            "description" : "Melon Eminenza kg",
+            "price" : 560,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" :443,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293154-chereshnya_kordiya_zhetysu_ba_tary_kg.png?w=360&h=360&_c=1686121216",
+            "description" : "Cherry Cordia Zhetysu Baktary kg",
+            "price" : 2590,
+            "quantity" : 0,
+            "promotion" : 2790
+        },
+        {
+            "id" : 444,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/256206-arbuz_rannii_kg.jpeg?w=360&h=360&_c=1686369640",
+            "description" : "Watermelon early kg",
+            "price" : 255,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 445,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19414-dynya_kolhoznica.jpg?w=360&h=360&_c=1686381177",
+            "description" : "Melon Collective farmer",
+            "price" : 610,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 446,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292239-klubnika_vivara_400_g.jpg?w=360&h=360&_c=1686047389",
+            "description" : "Strawberry Vivara 400 g",
+            "price" : 2245,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 447,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291835-golubika_marokko_125_g.jpg?w=360&h=360&_c=1686301125",
+            "description" : "Blueberries Morocco 125 g",
+            "price" : 1990,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 448,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19429-ananas_kosta-rika_sht.png?w=360&h=360&_c=1686292199",
+            "description" : "Pineapple Costa Rica pcs",
+            "price" : 1620,
+            "quantity" : 0,
+            "promotion" : 1820
+        },
+        {
+            "id" : 449,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19430-mango_braziliya_sht.jpg?w=360&h=360&_c=1686115172",
+            "description" : "Mango Brazil pcs",
+            "price" : 1160,
+            "quantity" : 0,
+            "promotion" : 1260
+        },
+        {
+            "id" : 450,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19428-kivi.jpg?w=360&h=360&_c=1686209013",
+            "description" : "Kiwi",
+            "price" : 1500,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 451,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/224725-papaiya.jpg?w=360&h=360&_c=1686113166",
+            "description" : "Papaya China pcs",
+            "price" : 2015,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 452,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/265991-greipfrut_sht.jpg?w=360&h=360&_c=1684731721",
+            "description" : "Grapefruit pcs",
+            "price" : 770,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 453,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/265963-laim_sht.jpg?w=360&h=360&_c=1684731722",
+            "description" : "Lime pcs",
+            "price" : 280,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 454,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/253763-limon_argentina_1_sht.jpg?w=360&h=360&_c=1685588799",
+            "description" : "Lemon Argentina pcs",
+            "price" : 240,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ],
+    [
+        {
+            "id" : 438,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19445-banany_kg.jpg?w=360&h=360&_c=1686455227",
+            "description" : "Банан кг",
+            "price" : 790,
+            "quantity" : 0,
+            "promotion" : 890
+        },
+        {
+            "id" : 439,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/237984-avokado_hass_kolumbiya_sht_.jpg?w=360&h=360&_c=1685337426",
+            "description" : "Авокадо Хасс Колумбия д",
+            "price" : 960,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 440,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/242599-yabloko_grenni_smit_franciya_kg.jpg?w=360&h=360&_c=1686134924",
+            "description" : "Гренни Смит Алма Франция кг",
+            "price" : 1260,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 441,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/234128-grusha_konferenciya_belgiya_kg.jpg?w=360&h=360&_c=1686372626",
+            "description" : "Алмұрт конференциясы Бельгия кг",
+            "price" : 1820,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 442,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293576-dynya_eminenza_ot_arbuz_kz_kg.png?w=360&h=360&_c=1686373727",
+            "description" : "Қауын эминенза кг",
+            "price" : 560,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" :443,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/293154-chereshnya_kordiya_zhetysu_ba_tary_kg.png?w=360&h=360&_c=1686121216",
+            "description" : "Тәтті шие Кордия Жетісу бақтары кг",
+            "price" : 2590,
+            "quantity" : 0,
+            "promotion" : 2790
+        },
+        {
+            "id" : 444,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/256206-arbuz_rannii_kg.jpeg?w=360&h=360&_c=1686369640",
+            "description" : "Ерте кг қарбыз",
+            "price" : 255,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 445,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19414-dynya_kolhoznica.jpg?w=360&h=360&_c=1686381177",
+            "description" : "Қауын Колхозшысы",
+            "price" : 610,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 446,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292239-klubnika_vivara_400_g.jpg?w=360&h=360&_c=1686047389",
+            "description" : "Құлпынай Вивара 400 г",
+            "price" : 2245,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 447,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291835-golubika_marokko_125_g.jpg?w=360&h=360&_c=1686301125",
+            "description" : "Марокко көкжидектері 125 г",
+            "price" : 1990,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 448,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19429-ananas_kosta-rika_sht.png?w=360&h=360&_c=1686292199",
+            "description" : "Ананас Коста-Рика д",
+            "price" : 1620,
+            "quantity" : 0,
+            "promotion" : 1820
+        },
+        {
+            "id" : 449,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19430-mango_braziliya_sht.jpg?w=360&h=360&_c=1686115172",
+            "description" : "Манго Бразилия д",
+            "price" : 1160,
+            "quantity" : 0,
+            "promotion" : 1260
+        },
+        {
+            "id" : 450,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/19428-kivi.jpg?w=360&h=360&_c=1686209013",
+            "description" : "Киви",
+            "price" : 1500,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 451,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/224725-papaiya.jpg?w=360&h=360&_c=1686113166",
+            "description" : "Папайя Қытай д",
+            "price" : 2015,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 452,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/265991-greipfrut_sht.jpg?w=360&h=360&_c=1684731721",
+            "description" : "Грейпфрут д",
+            "price" : 770,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 453,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/265963-laim_sht.jpg?w=360&h=360&_c=1684731722",
+            "description" : "Лайм Д",
+            "price" : 280,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 454,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/253763-limon_argentina_1_sht.jpg?w=360&h=360&_c=1685588799",
+            "description" : "Лимон Аргентина д",
+            "price" : 240,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ]
+]

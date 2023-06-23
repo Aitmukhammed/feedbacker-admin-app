@@ -1,0 +1,159 @@
+.container {
+    top: 20px;
+    text-align: center;
+    display: flex;
+}
+hr {
+    width: 200px;
+    margin-top: 1rem;
+    border-width: 2px; 
+}
+
+.line_two {
+    border-color: #07AF49;
+}
+.line_three {
+    width: 260px;
+}
+.one {
+    color: #bdbdbd;
+}
+.two {
+    margin-left: 60px;
+    color: #07AF49;
+}
+.three {
+    margin-left: 60px;
+    color: #bdbdbd;
+}
+
+form {
+    margin-top: 50px;
+}
+
+.address {
+    width: 600px;
+    margin-left: -15px;
+}
+
+.phone, #phone {
+    margin-left: -15px;
+}
+
+.label_address {
+    margin-left: -15px;
+}
+
+
+input {
+    height: 40px;
+    border-radius: 0.25rem;
+    background-color: #fff;
+    border: 1px solid #ced4da;
+    border-radius: 8px;
+    color: #495057;
+}
+
+.form-group {
+    margin-left: 20px;
+}
+
+.row {
+    display: flex;
+}
+
+
+button {
+    background-color: #07AF49;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    transition: all 0.2s ease-in-out;
+    display: flex;
+    text-align: center;
+    width: 285px;
+}
+
+button:hover {
+    background-color: #05df5c;
+} 
+table {
+    width: 300px;
+  }
+
+.your_order {
+    margin-left: 850px;
+    margin-top: -420px;
+}
+.totalCost {
+    float: right;
+}
+.text_products, .totalCost {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 35px;
+}
+
+.order{
+    color: #333;
+    font-size: 24px;
+    font-weight: 700;
+}
+.total_amount {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+}
+.totalCost {
+    font-weight: 600;
+    font-size: 17px;
+}
+
+.under_hr {
+    position: absolute;
+    width: 300px;
+}
+
+.oplata {
+    color: #05df5c;
+}
+
+.payment_2 {
+    margin-left: 140px;
+}
+
+.Type_of_payment {
+    margin-top: 15px;
+    position: absolute;
+    margin-left: 10px;
+}
+
+.cardNumber {
+    width: 300px;
+    padding: 10px;
+}
+
+.mm, .yyyy {
+    width: 100px;
+    padding: 10px;
+}
+
+.yyyy {
+    margin-left: 20px;
+}
+
+.cvv, .cardName {
+    width: 300px;
+    padding: 10px;
+}

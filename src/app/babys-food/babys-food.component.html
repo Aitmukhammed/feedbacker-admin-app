@@ -1,0 +1,34 @@
+<!-- <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;900&family=Montserrat+Alternates:wght@500&family=Montserrat:ital,wght@0,300;0,400;0,700;0,800;0,900;1,300;1,400;1,500;1,700;1,800;1,900&family=PT+Sans:wght@400;700&family=Poppins:wght@100;300;400;500;600&family=Roboto:ital,wght@0,300;0,500;1,300;1,400&display=swap" rel="stylesheet"> -->
+<div class="slider">
+    <h3>{{text_2[translateservice.languageId].yummy_treats_for_children}}</h3>
+    <div class="controls">
+        <button (click)="prev()" class="prev" [disabled]="currentIndex === 0"><-</button>
+        <button (click)="next()" class="next" [disabled]="currentIndex === text.length - 5">-></button>
+      </div>
+  <div class="slides-container" [style.transform]="'translateX(' + (-currentIndex * 20) + '%)'">
+    
+        <div class="slide" *ngFor="let hit of text[translateservice.languageId]; let i = index" [class.active]="i >= currentIndex && i <= currentIndex + 4">
+            <img [src]="hit.img" class="hits_png">
+            <!-- <br><br><br><br><br><br><br> -->
+            <div class="caption" >
+ <h4 class="description" (click)="toggleBlock(i)">{{ hit.description }}</h4>
+
+          <div *ngIf="showDes === i" class="block">
+            <p>{{ hit.description }}</p>
+          </div>
+              <div class="price-promotion">
+                <p class="price">{{ hit.price }} ₸
+                     <span class="promotion"><s>{{ hit.promotion }}</s></span></p>
+              </div>
+              <button class="minus" (click)="removeFromCart(hit)">-</button>
+              <p class="quantity">{{ getProductQuantityById(hit.id) }}</p>
+              <button class="minus" (click)="addToCart(hit)">+</button>
+          </div>
+        </div>
+      </div> 
+      <hr>
+    </div>
+
+  

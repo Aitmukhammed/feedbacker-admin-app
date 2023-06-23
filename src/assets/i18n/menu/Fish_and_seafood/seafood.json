@@ -1,0 +1,392 @@
+[
+    [
+        {
+            "id" : 601,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/241003-palochki_krabovye_vici_snezhnyi_krab_250_g.jpg?w=360&h=360&_c=1686540964",
+            "description" : "Палочки крабовые Vici Снежный краб 250 г",
+            "price" : 1840,
+            "quantity" : 0,
+            "promotion" : 2630
+        }, 
+        {
+            "id" : 602,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/244158-_ikra_obkomovskaya_krasnaya_140g_st_b_.jpg?w=360&h=360&_c=1686562894",
+            "description" : "Икра Обкомовская красная 140 г",
+            "price" : 12705,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 603,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292723-kolca_kalmara_elite_fish_kg.jpg?w=360&h=360&_c=1686460410",
+            "description" : "Кольца кальмара Elite Fish кг",
+            "price" : 4315,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 604,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292714-krevetka_elitefish_16_20_zamorozhennaya_syraya_b_g_v_pancire_kg.jpg?w=360&h=360&_c=1685699378",
+            "description" : "Креветка Elitefish 16/20 замороженная сырая б/г в панцире кг",
+            "price" : 6210,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 605,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/287774-osminog_good_fish_baby_40_60_500_g.png?w=360&h=360&_c=1685098488",
+            "description" : "Осьминог Good fish baby 40/60 500 г",
+            "price" : 3625,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 606,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/287766-krevetka_good_fish_argentina_500_g.jpg?w=360&h=360&_c=1686216287",
+            "description" : "Креветка Good fish Аргентина 500 г",
+            "price" : 4940,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 607,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/284945-krevetki_tanuko_svezhemorozhenye_16_20_1_kg.png?w=360&h=360&_c=1685098489",
+            "description" : "Креветки Tanuko свежемороженые 16/20 1 кг",
+            "price" : 7565,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 608,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/278424-osminogi_by_amiko_baby_svezhemorozhenye_kg.jpg?w=360&h=360&_c=1685257698",
+            "description" : "Осьминоги By Amiko Baby свежемороженые кг",
+            "price" : 5200,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 609,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/273791-midii_by_amiko_svezhemorozhenye_na_polovinke_rakoviny_31_40_kg.png?w=360&h=360&_c=1685512650",
+            "description" : "Мидии By Amiko свежемороженые на половинке раковины 31/40 кг",
+            "price" : 4535,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 610,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/271165-krevetki_elite_fish_morozhennye_v_pancire_13_15_kg.jpg?w=360&h=360&_c=1685699255",
+            "description" : "Креветки Elite Fish мороженные в панцире 13/15 кг",
+            "price" : 12445,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 611,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/271143-krevetki_risma_tigrovye_v_pancire_bez_golovy_16-20_kg.jpg?w=360&h=360&_c=1685443283",
+            "description" : "Креветки Risma тигровые в панцире без головы 16-20 кг",
+            "price" : 13115,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 612,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/262739-krevetka_apex_foods_chernaya_tigrovaya_s_golovoi_8_12_1_kg.jpg?w=360&h=360&_c=1685098495",
+            "description" : "Креветка Apex Foods черная тигровая с головой 8/12 1 кг",
+            "price" : 13880,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 613,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/262735-ulitka_burgundskaya_groupe_francaise_de_gastronomie_v_metallicheskom_poddone_1_sht.jpg?w=360&h=360&_c=1685098496",
+            "description" : "Улитки Бургундские Groupe Francaise de Gastronomie в металлическом поддоне 1 шт",
+            "price" : 4625,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 614,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/238101-kokteil_santa_bremor_assorti_iz_moreproduktov_vareno-morozhenyi_250_g.jpg?w=360&h=360&_c=1685098503",
+            "description" : "Коктейль Санта Бремор ассорти из морепродуктов варено-мороженый 250 г",
+            "price" : 3300,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 615,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/253253-kalmary_beibi_sem_morei_s_shupalcami_41_60_kg.jpg?w=360&h=360&_c=1685353985",
+            "description" : "Кальмары бейби Семь Морей 41/60 кг",
+            "price" : 10590,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 616,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/253247-midii_sem_morei_gigant_kivi_na_odnoi_stvorke_kg_novaya_zelandiya.jpg?w=360&h=360&_c=1686105870",
+            "description" : "Мидии Семь Морей Гигант киви на одной створке кг Новая Зеландия",
+            "price" : 7875,
+            "quantity" : 0,
+            "promotion" : null
+        }  
+    ],
+    [
+        {
+            "id" : 601,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/241003-palochki_krabovye_vici_snezhnyi_krab_250_g.jpg?w=360&h=360&_c=1686540964",
+            "description" : "CRABLE sticks Vici snow crab 250 g",
+            "price" : 1840,
+            "quantity" : 0,
+            "promotion" : 2630
+        }, 
+        {
+            "id" : 602,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/244158-_ikra_obkomovskaya_krasnaya_140g_st_b_.jpg?w=360&h=360&_c=1686562894",
+            "description" : "Caviar Okkomovskaya red 140 g",
+            "price" : 12705,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 603,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292723-kolca_kalmara_elite_fish_kg.jpg?w=360&h=360&_c=1686460410",
+            "description" : "Elite Fish Squid Rings kg",
+            "price" : 4315,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 604,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292714-krevetka_elitefish_16_20_zamorozhennaya_syraya_b_g_v_pancire_kg.jpg?w=360&h=360&_c=1685699378",
+            "description" : "Elitefish shrimp 16/20 frozen raw used in shell kg",
+            "price" : 6210,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 605,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/287774-osminog_good_fish_baby_40_60_500_g.png?w=360&h=360&_c=1685098488",
+            "description" : "Octopus Good fish baby 40/60 500 g",
+            "price" : 3625,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 606,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/287766-krevetka_good_fish_argentina_500_g.jpg?w=360&h=360&_c=1686216287",
+            "description" : "Shrimp Good fish Argentina 500 g",
+            "price" : 4940,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 607,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/284945-krevetki_tanuko_svezhemorozhenye_16_20_1_kg.png?w=360&h=360&_c=1685098489",
+            "description" : "Tanuko shrimp, freshly frozen 16/20 1 kg",
+            "price" : 7565,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 608,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/278424-osminogi_by_amiko_baby_svezhemorozhenye_kg.jpg?w=360&h=360&_c=1685257698",
+            "description" : "Octopuses by Amiko Baby Fresh -frozen kg",
+            "price" : 5200,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 609,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/273791-midii_by_amiko_svezhemorozhenye_na_polovinke_rakoviny_31_40_kg.png?w=360&h=360&_c=1685512650",
+            "description" : "Mussels By Amiko freshly frozen on half shell 31/40 kg",
+            "price" : 4535,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 610,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/271165-krevetki_elite_fish_morozhennye_v_pancire_13_15_kg.jpg?w=360&h=360&_c=1685699255",
+            "description" : "Elite Fish shrimps frozen in a shell 13/15 kg",
+            "price" : 12445,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 611,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/271143-krevetki_risma_tigrovye_v_pancire_bez_golovy_16-20_kg.jpg?w=360&h=360&_c=1685443283",
+            "description" : "Risma tiger shrimp in a shell without a head 16-20 kg",
+            "price" : 13115,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 612,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/262739-krevetka_apex_foods_chernaya_tigrovaya_s_golovoi_8_12_1_kg.jpg?w=360&h=360&_c=1685098495",
+            "description" : "Apex Foods black tiger shrimp with head 8/12 1 kg",
+            "price" : 13880,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 613,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/262735-ulitka_burgundskaya_groupe_francaise_de_gastronomie_v_metallicheskom_poddone_1_sht.jpg?w=360&h=360&_c=1685098496",
+            "description" : "Burgundy snails Groupe Francaise de Gastronomie in a metal pallet 1 pc ",
+            "price" : 4625,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 614,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/238101-kokteil_santa_bremor_assorti_iz_moreproduktov_vareno-morozhenyi_250_g.jpg?w=360&h=360&_c=1685098503",
+            "description" : "Santa Bremor cocktail assorted seafood boiled and frozen 250 g",
+            "price" : 3300,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 615,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/253253-kalmary_beibi_sem_morei_s_shupalcami_41_60_kg.jpg?w=360&h=360&_c=1685353985",
+            "description" : "Baby Squid Seven Seas 41/60 kg",
+            "price" : 10590,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 616,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/253247-midii_sem_morei_gigant_kivi_na_odnoi_stvorke_kg_novaya_zelandiya.jpg?w=360&h=360&_c=1686105870",
+            "description" : "Mussels Seven Seas Giant Kiwi on one leaf kg New Zealand",
+            "price" : 7815,
+            "quantity" : 0,
+            "promotion" : null
+        }  
+    ],
+    [
+        {
+            "id" : 601,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/241003-palochki_krabovye_vici_snezhnyi_krab_250_g.jpg?w=360&h=360&_c=1686540964",
+            "description" : "Краб таяқшалары Vici қар крабы 250 г",
+            "price" : 1840,
+            "quantity" : 0,
+            "promotion" : 2630
+        }, 
+        {
+            "id" : 602,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/244158-_ikra_obkomovskaya_krasnaya_140g_st_b_.jpg?w=360&h=360&_c=1686562894",
+            "description" : "Обкомовская қызыл уылдырығы 140 г",
+            "price" : 12705,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 603,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292723-kolca_kalmara_elite_fish_kg.jpg?w=360&h=360&_c=1686460410",
+            "description" : "Elite fish кальмар сақиналары кг",
+            "price" : 4315,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 604,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292714-krevetka_elitefish_16_20_zamorozhennaya_syraya_b_g_v_pancire_kg.jpg?w=360&h=360&_c=1685699378",
+            "description" : "Elitefish асшаяндары 16/20 мұздатылған шикі б/г қабығында кг",
+            "price" : 6210,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 605,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/287774-osminog_good_fish_baby_40_60_500_g.png?w=360&h=360&_c=1685098488",
+            "description" : "Жақсы балық балығы сегізаяқ 40/60 500 г",
+            "price" : 3625,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 606,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/287766-krevetka_good_fish_argentina_500_g.jpg?w=360&h=360&_c=1686216287",
+            "description" : "Жақсы балық асшаяндары Аргентина 500 г",
+            "price" : 4940,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 607,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/284945-krevetki_tanuko_svezhemorozhenye_16_20_1_kg.png?w=360&h=360&_c=1685098489",
+            "description" : "Тануко асшаяндары жаңа мұздатылған 16/20 1 кг",
+            "price" : 7565,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 608,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/278424-osminogi_by_amiko_baby_svezhemorozhenye_kg.jpg?w=360&h=360&_c=1685257698",
+            "description" : "Сегізаяқтар by Amiko Baby жаңа мұздатылған кг",
+            "price" : 5200,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 609,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/273791-midii_by_amiko_svezhemorozhenye_na_polovinke_rakoviny_31_40_kg.png?w=360&h=360&_c=1685512650",
+            "description" : "Amiko Мидиялары 31/40 кг жарты қабықта жаңа мұздатылған",
+            "price" : 4535,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 610,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/271165-krevetki_elite_fish_morozhennye_v_pancire_13_15_kg.jpg?w=360&h=360&_c=1685699255",
+            "description" : "Elite fish асшаяндары 13/15 кг қабықтағы балмұздақ",
+            "price" : 12445,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 611,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/271143-krevetki_risma_tigrovye_v_pancire_bez_golovy_16-20_kg.jpg?w=360&h=360&_c=1685443283",
+            "description" : "Risma жолбарыс асшаяндары бассыз қабықта 16-20 кг",
+            "price" : 13115,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 612,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/262739-krevetka_apex_foods_chernaya_tigrovaya_s_golovoi_8_12_1_kg.jpg?w=360&h=360&_c=1685098495",
+            "description" : "Apex Foods асшаяндары қара жолбарыс басы 8/12 1 кг",
+            "price" : 13880,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 613,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/262735-ulitka_burgundskaya_groupe_francaise_de_gastronomie_v_metallicheskom_poddone_1_sht.jpg?w=360&h=360&_c=1685098496",
+            "description" : "Бургундия ұлулары groupe francaise de gastronomie металл табада 1 дана",
+            "price" : 4625,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 614,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/238101-kokteil_santa_bremor_assorti_iz_moreproduktov_vareno-morozhenyi_250_g.jpg?w=360&h=360&_c=1685098503",
+            "description" : "Санта-Бремор коктейлі теңіз өнімдерінің ассортименті пісірілген және балмұздақ 250 г",
+            "price" : 3300,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 615,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/253253-kalmary_beibi_sem_morei_s_shupalcami_41_60_kg.jpg?w=360&h=360&_c=1685353985",
+            "description" : "Baby жеті теңіз Кальмары 41/60 кг",
+            "price" : 10590,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 616,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/253247-midii_sem_morei_gigant_kivi_na_odnoi_stvorke_kg_novaya_zelandiya.jpg?w=360&h=360&_c=1686105870",
+            "description" : "Мидия жеті теңіз алып киви бір белбеуде кг Жаңа Зеландия",
+            "price" : 7815,
+            "quantity" : 0,
+            "promotion" : null
+        }  
+    ]   
+]

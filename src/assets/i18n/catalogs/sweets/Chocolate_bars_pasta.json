@@ -1,0 +1,416 @@
+[
+    [
+        {
+            "id" : 406,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228037-batonchik_kitkat_s_hrustyashei_vaflei_40_g.jpg?w=360&h=360&_c=1684489715",
+            "description" : "Батончик KitKat с хрустящей вафлей 40 г",
+            "price" : 370,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 407,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228067-shokolad_nestle_decoration_strawberry_belyi_so_vkusom_klubniki_85_g.jpg?w=360&h=360&_c=1685423285",
+            "description" : "Шоколад Nestle Decoration Strawberry белый со вкусом клубники 85 г",
+            "price" : 703,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 408,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228045-batonchik_nuts_shokoladnyi_s_fundukom_50_g.jpg?w=360&h=360&_c=1684489715",
+            "description" : "Батончик Nuts шоколадный с фундуком 50 г",
+            "price" : 321,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 409,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292049-shokolad_pobeda_poristyi_slivochnyi_180_g.jpg?w=360&h=360&_c=1685423249",
+            "description" : "Шоколад Победа пористый сливочный 180 г",
+            "price" : 1075,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 410,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291779-shokolad_molochnyi_bongenie_s_mango_90_g.jpg?w=360&h=360&_c=1685423250",
+            "description" : "Шоколад молочный Bongenie с манго 90 г",
+            "price" : 1660,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 411,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291778-shokolad_gorkii_bongenie_s_fistashkoi_i_mindalem_100_g.jpg?w=360&h=360&_c=1686032303",
+            "description" : "Шоколад горький Bongenie с фисташкой и миндалем 100 г",
+            "price" : 1235,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 412,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/286740-shokolad_nestle_molochnyi_celnyi_funduk_85_g.jpg?w=360&h=360&_c=1685423250",
+            "description" : "Шоколад Nestle молочный цельный фундук 85 г",
+            "price" : 730,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 413,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/286534-shokolad_milka_klubnika_so_slivkami_85_g.png?w=360&h=360&_c=1685423251",
+            "description" : "Шоколад Milka Клубника со сливками 85 г",
+            "price" :795,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 414,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277140-shokolad_ulker_albeni_apelsin_85_g.png?w=360&h=360&_c=1685423252",
+            "description" : "Шоколад Ulker Albeni апельсин 85 г",
+            "price" : 485,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 415,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/265731-shokolad_alpen_gold_molochnyi_s_chernichnoi_nachinkoi_i_pechenem_oreo_90_g.png?w=360&h=360&_c=1685423256",
+            "description" : "Шоколад Alpen Gold молочный с черничной начинкой и печеньем Oreo 90 г",
+            "price" : 650,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 416,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/286726-batonchik_nuts_duo_brauni_60_g.jpg?w=360&h=360&_c=1684489688",
+            "description" : "Батончик Nuts Duo Брауни 60 г",
+            "price" : 466,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 417,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/278040-batonchik_glazirovannyi_bombbar_fistashka_i_karamel_50_g.jpg?w=360&h=360&_c=1684809894",
+            "description" : "Батончик глазированный BombBar Фисташка и карамель 50 г",
+            "price" : 1015  ,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 418,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/136092-shokoladnyi_batonchik_snickers_super_95_g.jpg?w=360&h=360&_c=1684489708",
+            "description" : "Батончик глазированный BombBar Фисташка и карамель 50 г",
+            "price" : 505,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 419,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228376-batonchik_snickers_shokoladnyi_lesnoi_oreh_81_g.jpg?w=360&h=360&_c=1684489708",
+            "description" : "Батончик Snickers шоколадный лесной орех, 81 г",
+            "price" : 505,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 420,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228377-batonchik_twix_extra_82_g.jpg?w=360&h=360&_c=1686222212",
+            "description" : "Батончик Twix Extra 82 г",
+            "price" : 505,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 421,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/20455-shokoladnyi_batonchik_bounty_55_g_.jpg?w=360&h=360&_c=1684489708",
+            "description" : "Шоколадный батончик Bounty 55 г",
+            "price" : 375,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 422,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/213718-shokolad_molochnyi_kinder_s_molochnoi_nachinkoi_4_sht_50_g.jpg?w=360&h=360&_c=1684489713",
+            "description" : "Шоколад молочный Kinder с молочной начинкой 4 шт 50 г",
+            "price" : 450,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ],
+    [
+        {
+            "id" : 406,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228037-batonchik_kitkat_s_hrustyashei_vaflei_40_g.jpg?w=360&h=360&_c=1684489715",
+            "description" : "Kitkat bar with crispy waffles 40 g",
+            "price" : 370,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 407,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228067-shokolad_nestle_decoration_strawberry_belyi_so_vkusom_klubniki_85_g.jpg?w=360&h=360&_c=1685423285",
+            "description" : "Nestle Decoration Strawberry Chocolate White with a taste of strawberries 85 g",
+            "price" : 703,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 408,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228045-batonchik_nuts_shokoladnyi_s_fundukom_50_g.jpg?w=360&h=360&_c=1684489715",
+            "description" : "Baton NUTS chocolate with a hazelnut 50 g",
+            "price" : 321,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 409,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292049-shokolad_pobeda_poristyi_slivochnyi_180_g.jpg?w=360&h=360&_c=1685423249",
+            "description" : "Pobeda porous creamy chocolate 180 g",
+            "price" : 1075,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 410,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291779-shokolad_molochnyi_bongenie_s_mango_90_g.jpg?w=360&h=360&_c=1685423250",
+            "description" : "Milk chocolate Bongenie with mango 90 g",
+            "price" : 1660,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 411,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291778-shokolad_gorkii_bongenie_s_fistashkoi_i_mindalem_100_g.jpg?w=360&h=360&_c=1686032303",
+            "description" : "Bitter chocolate Bongenie with pistachio and almonds 100 g",
+            "price" : 1235,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 412,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/286740-shokolad_nestle_molochnyi_celnyi_funduk_85_g.jpg?w=360&h=360&_c=1685423250",
+            "description" : "Nestle milk chocolate whole hazelnuts 85 g",
+            "price" : 730,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 413,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/286534-shokolad_milka_klubnika_so_slivkami_85_g.png?w=360&h=360&_c=1685423251",
+            "description" : "Chocolate Milka strawberries with cream 85 g",
+            "price" :795,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 414,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277140-shokolad_ulker_albeni_apelsin_85_g.png?w=360&h=360&_c=1685423252",
+            "description" : "Chocolate Ulker Albeni orange 85 g",
+            "price" : 485,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 415,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/265731-shokolad_alpen_gold_molochnyi_s_chernichnoi_nachinkoi_i_pechenem_oreo_90_g.png?w=360&h=360&_c=1685423256",
+            "description" : "Alpen Gold milk chocolate with blueberry filling and Oreo cookies 90 g",
+            "price" : 650,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 416,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/286726-batonchik_nuts_duo_brauni_60_g.jpg?w=360&h=360&_c=1684489688",
+            "description" : "Nuts Duo Brownie Bar 60 g",
+            "price" : 466,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 417,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/278040-batonchik_glazirovannyi_bombbar_fistashka_i_karamel_50_g.jpg?w=360&h=360&_c=1684809894",
+            "description" : "Glazed BombBar Pistachio and caramel 50 g",
+            "price" : 1015  ,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 418,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/136092-shokoladnyi_batonchik_snickers_super_95_g.jpg?w=360&h=360&_c=1684489708",
+            "description" : "Chocolate Batonchik Snickers Super 80 g",
+            "price" : 505,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 419,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228376-batonchik_snickers_shokoladnyi_lesnoi_oreh_81_g.jpg?w=360&h=360&_c=1684489708",
+            "description" : "Batonchik Snickers Chocolate hazelnut, 81 g",
+            "price" : 505,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 420,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228377-batonchik_twix_extra_82_g.jpg?w=360&h=360&_c=1686222212",
+            "description" : "Twix Extra Bank, 82 g",
+            "price" : 505,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 421,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/20455-shokoladnyi_batonchik_bounty_55_g_.jpg?w=360&h=360&_c=1684489708",
+            "description" : "Chocolate Bounty Bounty 55 g",
+            "price" : 375,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 422,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/213718-shokolad_molochnyi_kinder_s_molochnoi_nachinkoi_4_sht_50_g.jpg?w=360&h=360&_c=1684489713",
+            "description" : "Milk chocolate Kinder with milk filling 4 pcs 50 g",
+            "price" : 450,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ],
+    [
+        {
+            "id" : 406,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228037-batonchik_kitkat_s_hrustyashei_vaflei_40_g.jpg?w=360&h=360&_c=1684489715",
+            "description" : "KitKat қытырлақ вафли бар 40 г",
+            "price" : 370,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 407,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228067-shokolad_nestle_decoration_strawberry_belyi_so_vkusom_klubniki_85_g.jpg?w=360&h=360&_c=1685423285",
+            "description" : "Nestle Decoration Strawberry шоколады ақ құлпынай хош иістендірілген 85 г",
+            "price" : 703,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 408,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228045-batonchik_nuts_shokoladnyi_s_fundukom_50_g.jpg?w=360&h=360&_c=1684489715",
+            "description" : "Жаңғақ бар шоколадты Фундук 50 г",
+            "price" : 321,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 409,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292049-shokolad_pobeda_poristyi_slivochnyi_180_g.jpg?w=360&h=360&_c=1685423249",
+            "description" : "Шоколад Жеңіс кеуекті кремді 180 г",
+            "price" : 1075,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 410,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291779-shokolad_molochnyi_bongenie_s_mango_90_g.jpg?w=360&h=360&_c=1685423250",
+            "description" : "Сүтті шоколад Bongenie Манго қосылған 90 г",
+            "price" : 1660,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 411,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291778-shokolad_gorkii_bongenie_s_fistashkoi_i_mindalem_100_g.jpg?w=360&h=360&_c=1686032303",
+            "description" : "Сүтті шоколад Bongenie Манго қосылған 90 г",
+            "price" : 1235,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 412,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/286740-shokolad_nestle_molochnyi_celnyi_funduk_85_g.jpg?w=360&h=360&_c=1685423250",
+            "description" : "Nestle Шоколад сүтті тұтас жаңғақ 85 г",
+            "price" : 730,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 413,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/286534-shokolad_milka_klubnika_so_slivkami_85_g.png?w=360&h=360&_c=1685423251",
+            "description" : "Milka шоколады кілегей қосылған құлпынай 85 г",
+            "price" :795,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 414,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277140-shokolad_ulker_albeni_apelsin_85_g.png?w=360&h=360&_c=1685423252",
+            "description" : "Ulker albeni шоколады апельсин 85 г",
+            "price" : 485,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 415,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/265731-shokolad_alpen_gold_molochnyi_s_chernichnoi_nachinkoi_i_pechenem_oreo_90_g.png?w=360&h=360&_c=1685423256",
+            "description" : "Alpen Gold milk chocolate with blueberry filling and Oreo cookies 90 g",
+            "price" : 650,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 416,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/286726-batonchik_nuts_duo_brauni_60_g.jpg?w=360&h=360&_c=1684489688",
+            "description" : "Nuts Duo Browny bar 60 г",
+            "price" : 466,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 417,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/278040-batonchik_glazirovannyi_bombbar_fistashka_i_karamel_50_g.jpg?w=360&h=360&_c=1684809894",
+            "description" : "Bombbar жылтыратылған бар пісте және карамель 50 г",
+            "price" : 1015  ,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 418,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/136092-shokoladnyi_batonchik_snickers_super_95_g.jpg?w=360&h=360&_c=1684489708",
+            "description" : "Snickers super кәмпиттері 80 г",
+            "price" : 505,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 419,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228376-batonchik_snickers_shokoladnyi_lesnoi_oreh_81_g.jpg?w=360&h=360&_c=1684489708",
+            "description" : "Snickers бар шоколадты Фундук, 81 г",
+            "price" : 505,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 420,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/228377-batonchik_twix_extra_82_g.jpg?w=360&h=360&_c=1686222212",
+            "description" : "Twix Extra бар, 82 г",
+            "price" : 505,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 421,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/20455-shokoladnyi_batonchik_bounty_55_g_.jpg?w=360&h=360&_c=1684489708",
+            "description" : "Twix Extra бар, 82 г",
+            "price" : 375,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 422,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/213718-shokolad_molochnyi_kinder_s_molochnoi_nachinkoi_4_sht_50_g.jpg?w=360&h=360&_c=1684489713",
+            "description" : "Сүтпен толтырылған Kinder сүт шоколады 4 д 50 г",
+            "price" : 450,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ]
+]

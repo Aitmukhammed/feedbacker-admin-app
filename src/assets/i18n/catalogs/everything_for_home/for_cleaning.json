@@ -1,0 +1,488 @@
+[
+    [
+        {
+            "id" : 133,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/272397-sredstvo_mr_proper_dlya_polov_i_sten_dlya_domov_s_koshkami_svezhii_citrus_1_l.jpg?w=360&h=360&_c=1683706260",
+            "description" : "Средство Mr.Proper для полов и стен для домов с кошками Свежий Цитрус 1 л",
+            "price" : 2382,
+            "quantity" : 0,
+            "promotion" : 2747
+        },
+        {
+            "id" : 134,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/200463-sredstvo_mr_proper_okeanskii_briz_dlya_mytya_polov_i_sten_1_l.jpg?w=360&h=360&_c=1684124086",
+            "description" : "Средство Mr.Proper Океанский бриз для мытья полов и стен 1 л",
+            "price" : 2075,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 135,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/211954-sredstvo_meine_liebe_antibakterialnyi_effekt_dlya_uborki_detskih_pomeshenii_500_ml.jpg?w=360&h=360&_c=1684993847",
+            "description" : "Средство Meine Liebe антибактериальный эффект для уборки детских помещений 500 мл",
+            "price" : 2400,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 136,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/242177-krem_sanita_steklokeramika_600_ml.jpg?w=360&h=360&_c=1685001849",
+            "description" : "Крем Sanita для стеклокерамики 600 мл",
+            "price" : 1395,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 137,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291228-zhiroudalitel_gold_unicum_380_ml.jpg?w=360&h=360&_c=1684993840",
+            "description" : "Жироудалитель Gold Unicum, 380 мл",
+            "price" : 2299,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 138,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291226-professional_zhiroudalitel_gold_unicum_3_l.jpg?w=360&h=360&_c=1684993840",
+            "description" : "Professional Жироудалитель Gold Unicum, 3 л",
+            "price" : 10685,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 139,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/289117-crispi_universalnoe_ekosredstvo_dlya_uborki_600_ml.jpg?w=360&h=360&_c=1685953958",
+            "description" : "CRISPI универсальное экосредство для уборки 600 мл",
+            "price" : 2365,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 140,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291143-salfetki_parex_abrazivnye_13smx14sm_3sht.jpg?w=360&h=360&_c=1686203484",
+            "description" : "Салфетки Parex абразивные 13смx14см 3шт",
+            "price" : 480,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 141,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291065-salfetki_parex_trend_universalnye_38smx30sm_3sht.jpg?w=360&h=360&_c=1686203484",
+            "description" : "Салфетки Parex TREND универсальные 38смx30см 3шт",
+            "price" : 465,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 142,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291041-salfetka_dlya_uborki_parex_mikrofibrovaya_34smx30sm.jpg?w=360&h=360&_c=1686203484",
+            "description" : "Салфетка для уборки Parex микрофибровая 34смx30см",
+            "price" : 645,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 143,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291029-salfetki_parex_iz_mikrofibry_v_upakovke_32smx32sm_3sht.jpg?w=360&h=360&_c=1686203485",
+            "description" : "Салфетки Parex из микрофибры в упаковке 32смx32см 3шт",
+            "price" : 1830,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 144,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/287428-_sprei_mr_proper_dlya_udaleniya_zhira_sila_i_skorost_apelsin_450_ml.jpg?w=360&h=360&_c=1684993841",
+            "description" : "Спрей Mr Proper для удаления жира Сила и скорость Апельсин 450 мл",
+            "price" : 2247,
+            "quantity" : 0,
+            "promotion" : 2747
+        },
+        {
+            "id" : 145,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291024-salfetka_parex_neo_fiber_dlya_mytya_okon.jpg?w=360&h=360&_c=1686203485",
+            "description" : "Салфетка Parex NEO FIBER для мытья окон",
+            "price" : 1405,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 146,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/286770-sredstvo_meine_liebe_dlya_chistki_santehniki_750_ml.jpg?w=360&h=360&_c=1685506606",
+            "description" : "Средство Meine Liebe для чистки сантехники 750 мл",
+            "price" : 3370,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 147,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291017-salfetki_parex_universalnye_s_zapahom_limona_3sht.jpg?w=360&h=360&_c=1686203485",
+            "description" : "Салфетки Parex универсальные с запахом лимона 3шт",
+            "price" : 657,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 148,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291013-salfetki_parex_v_rulone_s_3d_effektom_25cmx2_25m.jpg?w=360&h=360&_c=1686203486",
+            "description" : "Салфетки Parex в рулоне с 3D эффектом 25cmx2.25m   ",
+            "price" : 1095,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 149,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291012-salfetki_universalnye_parex_v_rulone_26smh27sm.jpg?w=360&h=360&_c=1686203486",
+            "description" : "Салфетки универсальные Parex в рулоне 26смх27см",
+            "price" : 1305,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 150,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/286100-krem-ochistitel_gallus_limonnyi_s_mikrogranulami_700_ml.jpg?w=360&h=360&_c=1686046555",
+            "description" : "Крем-очиститель Gallus лимонный с микрогранулами 700 мл",
+            "price" : 2475,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 151,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/289767-nabor_salfetok_universalnyh_hozyayushka_mila_miks_mikrofibra_220_gr_m2_30_30_sm_6_sht.jpg?w=360&h=360&_c=1686203487",
+            "description" : "Набор Салфеток Универсальных Хозяюшка Мила Микс, Микрофибра 220 гр/м2, 30*30 см, 6 шт",
+            "price" : 2016,
+            "quantity" : 0,
+            "promotion" : 2520
+        },
+        {
+            "id" : 152,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/285392-sredstvo_chirton_chistyashee_universalnoe_morskoi_briz_750_ml.jpg?w=360&h=360&_c=1684993842",
+            "description" : "Средство Chirton чистящее универсальное Морской Бриз 750 мл",
+            "price" : 1104,
+            "quantity" : 0,
+            "promotion" : 1379
+        }
+    ],
+    [
+        {
+            "id" : 133,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/272397-sredstvo_mr_proper_dlya_polov_i_sten_dlya_domov_s_koshkami_svezhii_citrus_1_l.jpg?w=360&h=360&_c=1683706260",
+            "description" : "The Mr tool.Proper for floors and walls for houses with cats Fresh Citrus 1 l",
+            "price" : 2382,
+            "quantity" : 0,
+            "promotion" : 2747
+        },
+        {
+            "id" : 134,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/200463-sredstvo_mr_proper_okeanskii_briz_dlya_mytya_polov_i_sten_1_l.jpg?w=360&h=360&_c=1684124086",
+            "description" : "The Mr tool.Proper Ocean breeze for washing floors and walls 1 l",
+            "price" : 2075,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 135,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/211954-sredstvo_meine_liebe_antibakterialnyi_effekt_dlya_uborki_detskih_pomeshenii_500_ml.jpg?w=360&h=360&_c=1684993847",
+            "description" : "Meine Liebe antibacterial effect for cleaning children's rooms 500 ml",
+            "price" : 2400,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 136,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/242177-krem_sanita_steklokeramika_600_ml.jpg?w=360&h=360&_c=1685001849",
+            "description" : "Sanita cream for glass ceramics 600 ml",
+            "price" : 1395,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 137,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291228-zhiroudalitel_gold_unicum_380_ml.jpg?w=360&h=360&_c=1684993840",
+            "description" : "Fat remover Gold Unicum, 380 ml",
+            "price" : 2299,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 138,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291226-professional_zhiroudalitel_gold_unicum_3_l.jpg?w=360&h=360&_c=1684993840",
+            "description" : "Professional Grease remover Gold Unicum, 3 l",
+            "price" : 10685,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 139,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/289117-crispi_universalnoe_ekosredstvo_dlya_uborki_600_ml.jpg?w=360&h=360&_c=1685953958",
+            "description" : "CRISPI universal eco-cleaning tool 600 ml",
+            "price" : 2365,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 140,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291143-salfetki_parex_abrazivnye_13smx14sm_3sht.jpg?w=360&h=360&_c=1686203484",
+            "description" : "Parex Abrasive Wipes 13cm x 14cm 3pcs",
+            "price" : 480,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 141,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291065-salfetki_parex_trend_universalnye_38smx30sm_3sht.jpg?w=360&h=360&_c=1686203484",
+            "description" : "Parex TREND Universal Napkins 38cm x 30cm 3pcs",
+            "price" : 465,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 142,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291041-salfetka_dlya_uborki_parex_mikrofibrovaya_34smx30sm.jpg?w=360&h=360&_c=1686203484",
+            "description" : "Parex microfiber cleaning cloth 34cm x 30cm",
+            "price" : 645,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 143,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291029-salfetki_parex_iz_mikrofibry_v_upakovke_32smx32sm_3sht.jpg?w=360&h=360&_c=1686203485",
+            "description" : "Parity microfiber cloths in a pack of 32cm x 32cm 3 pcs",
+            "price" : 1830,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 144,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/287428-_sprei_mr_proper_dlya_udaleniya_zhira_sila_i_skorost_apelsin_450_ml.jpg?w=360&h=360&_c=1684993841",
+            "description" : "Spray Mr Proper for removing fat Strength and speed Orange 450 ml",
+            "price" : 2247,
+            "quantity" : 0,
+            "promotion" : 2747
+        },
+        {
+            "id" : 145,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291024-salfetka_parex_neo_fiber_dlya_mytya_okon.jpg?w=360&h=360&_c=1686203485",
+            "description" : "Parex NEO FIBER window cleaning cloth",
+            "price" : 1405,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 146,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/286770-sredstvo_meine_liebe_dlya_chistki_santehniki_750_ml.jpg?w=360&h=360&_c=1685506606",
+            "description" : "Meine Liebe plumbing cleaner 750 ml",
+            "price" : 3370,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 147,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291017-salfetki_parex_universalnye_s_zapahom_limona_3sht.jpg?w=360&h=360&_c=1686203485",
+            "description" : "Parex universal napkins with lemon scent 3 pcs",
+            "price" : 657,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 148,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291013-salfetki_parex_v_rulone_s_3d_effektom_25cmx2_25m.jpg?w=360&h=360&_c=1686203486",
+            "description" : "Салфетки Parex в рулоне с 3D эффектом 25cmx2.25m",
+            "price" : 1095,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 149,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291012-salfetki_universalnye_parex_v_rulone_26smh27sm.jpg?w=360&h=360&_c=1686203486",
+            "description" : "Universal Parex napkins in a roll of 26cm x 27cm",
+            "price" : 1305,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 150,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/286100-krem-ochistitel_gallus_limonnyi_s_mikrogranulami_700_ml.jpg?w=360&h=360&_c=1686046555",
+            "description" : "Gallus lemon cream cleaner with microgranules 700 ml",
+            "price" : 2475,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 151,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/289767-nabor_salfetok_universalnyh_hozyayushka_mila_miks_mikrofibra_220_gr_m2_30_30_sm_6_sht.jpg?w=360&h=360&_c=1686203487",
+            "description" : "Set of Napkins Universal Hostess Mila Mix, Microfiber 220 gr/m2, 30*30 cm, 6 pcs",
+            "price" : 2016,
+            "quantity" : 0,
+            "promotion" : 2520
+        },
+        {
+            "id" : 152,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/285392-sredstvo_chirton_chistyashee_universalnoe_morskoi_briz_750_ml.jpg?w=360&h=360&_c=1684993842",
+            "description" : "Chirton universal cleaning agent Sea Breeze 750 ml",
+            "price" : 1104,
+            "quantity" : 0,
+            "promotion" : 1379
+        }
+    ],
+    [
+        {
+            "id" : 133,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/272397-sredstvo_mr_proper_dlya_polov_i_sten_dlya_domov_s_koshkami_svezhii_citrus_1_l.jpg?w=360&h=360&_c=1683706260",
+            "description" : "Mr.Proper құралы. Мысықтары бар үйлерге арналған едендер мен қабырғаларға арналған Proper Жаңа Цитрус 1 л",
+            "price" : 2382,
+            "quantity" : 0,
+            "promotion" : 2747
+        },
+        {
+            "id" : 134,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/200463-sredstvo_mr_proper_okeanskii_briz_dlya_mytya_polov_i_sten_1_l.jpg?w=360&h=360&_c=1684124086",
+            "description" : "Mr.Proper құралы. Мұхит самалы едендер мен қабырғаларды жууға арналған 1 л",
+            "price" : 2075,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 135,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/211954-sredstvo_meine_liebe_antibakterialnyi_effekt_dlya_uborki_detskih_pomeshenii_500_ml.jpg?w=360&h=360&_c=1684993847",
+            "description" : "Meine Liebe балалар үй-жайларын тазалауға арналған бактерияға қарсы әсері 500 мл",
+            "price" : 2400,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 136,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/242177-krem_sanita_steklokeramika_600_ml.jpg?w=360&h=360&_c=1685001849",
+            "description" : "Шыны керамикаға арналған SANITA кремі 600 мл",
+            "price" : 1395,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 137,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291228-zhiroudalitel_gold_unicum_380_ml.jpg?w=360&h=360&_c=1684993840",
+            "description" : "Gold Unicum май кетіргіш, 380 мл",
+            "price" : 2299,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 138,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291226-professional_zhiroudalitel_gold_unicum_3_l.jpg?w=360&h=360&_c=1684993840",
+            "description" : "Professional Gold Unicum Май Кетіргіш, 3 л",
+            "price" : 10685,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 139,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/289117-crispi_universalnoe_ekosredstvo_dlya_uborki_600_ml.jpg?w=360&h=360&_c=1685953958",
+            "description" : "CRISPI 600 мл тазартуға арналған әмбебап эко құрал",
+            "price" : 2365,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 140,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291143-salfetki_parex_abrazivnye_13smx14sm_3sht.jpg?w=360&h=360&_c=1686203484",
+            "description" : "Parex абразивті майлықтар 13см x 14см 3 дана",
+            "price" : 480,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 141,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291065-salfetki_parex_trend_universalnye_38smx30sm_3sht.jpg?w=360&h=360&_c=1686203484",
+            "description" : "Parex Trend әмбебап майлықтар 38см x 30см 3 дана",
+            "price" : 465,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 142,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291041-salfetka_dlya_uborki_parex_mikrofibrovaya_34smx30sm.jpg?w=360&h=360&_c=1686203484",
+            "description" : "Parex микрофибрлі 34смх30см тазалауға арналған майлық",
+            "price" : 645,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 143,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291029-salfetki_parex_iz_mikrofibry_v_upakovke_32smx32sm_3sht.jpg?w=360&h=360&_c=1686203485",
+            "description" : "Parity микроталшықты майлықтар 32смх32см 3 дана қаптамада",
+            "price" : 1830,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 144,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/287428-_sprei_mr_proper_dlya_udaleniya_zhira_sila_i_skorost_apelsin_450_ml.jpg?w=360&h=360&_c=1684993841",
+            "description" : "Майды кетіруге арналған mr Proper Спрейі күш пен жылдамдық Апельсин 450 мл",
+            "price" : 2247,
+            "quantity" : 0,
+            "promotion" : 2747
+        },
+        {
+            "id" : 145,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291024-salfetka_parex_neo_fiber_dlya_mytya_okon.jpg?w=360&h=360&_c=1686203485",
+            "description" : "Parex NEO FIBER терезе тазалағыш",
+            "price" : 1405,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 146,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/286770-sredstvo_meine_liebe_dlya_chistki_santehniki_750_ml.jpg?w=360&h=360&_c=1685506606",
+            "description" : "Сантехниканы тазартуға арналған Meine Liebe құралы 750 мл",
+            "price" : 3370,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 147,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291017-salfetki_parex_universalnye_s_zapahom_limona_3sht.jpg?w=360&h=360&_c=1686203485",
+            "description" : "Лимон иісі бар әмбебап parex майлықтары 3 дана",
+            "price" : 657,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 148,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291013-salfetki_parex_v_rulone_s_3d_effektom_25cmx2_25m.jpg?w=360&h=360&_c=1686203486",
+            "description" : "25cmx2.25m 3D әсері бар орамдағы Parex майлықтары",
+            "price" : 1095,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 149,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291012-salfetki_universalnye_parex_v_rulone_26smh27sm.jpg?w=360&h=360&_c=1686203486",
+            "description" : "26смх27см орамдағы әмбебап parex майлықтары",
+            "price" : 1305,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 150,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/286100-krem-ochistitel_gallus_limonnyi_s_mikrogranulami_700_ml.jpg?w=360&h=360&_c=1686046555",
+            "description" : "700 мл микро түйіршіктері бар лимон Gallus тазартқыш кремі",
+            "price" : 2475,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 151,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/289767-nabor_salfetok_universalnyh_hozyayushka_mila_miks_mikrofibra_220_gr_m2_30_30_sm_6_sht.jpg?w=360&h=360&_c=1686203487",
+            "description" : "Набор Салфеток Универсальных Хозяюшка Мила Микс, Микрофибра 220 гр/м2, 30*30 см, 6 шт",
+            "price" : 2016,
+            "quantity" : 0,
+            "promotion" : 2520
+        },
+        {
+            "id" : 152,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/285392-sredstvo_chirton_chistyashee_universalnoe_morskoi_briz_750_ml.jpg?w=360&h=360&_c=1684993842",
+            "description" : "Chirton тазартқыш әмбебап Теңіз самалы 750 мл",
+            "price" : 1104,
+            "quantity" : 0,
+            "promotion" : 1379
+        }
+    ]
+]

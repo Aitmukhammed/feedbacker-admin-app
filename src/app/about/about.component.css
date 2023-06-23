@@ -1,0 +1,172 @@
+* {
+    margin: 0px;
+}
+
+.container {
+    width: 1528px;
+    padding: 50px;
+    background-color: rgb(255, 253, 253);
+    color: black;
+    padding: 50px;
+    margin-left: -200px;
+    margin-top: -19px;
+}
+
+.text_about {
+    font-weight: 500;
+    font-size: 44px;
+    line-height: 54px;
+    letter-spacing: -.005em;
+}
+
+.text_container {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: -.002em;
+    width: 450px;
+}
+
+.title {
+    color: rgb(91, 91, 91);
+}
+
+.aboutApple, .top_big_logo {
+    display: inline-block;
+}
+
+.aboutApple {
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+.top_big_logo {
+    margin-left: 150px;
+    height: 220px;
+    border-radius: 5px;
+}
+
+.logo {
+    width: 450px;
+    transition: transform 0.3s ease;
+    margin-bottom: 200px;
+}
+
+.logo:hover {
+    transform: scale(1.2); /* Увеличение в 1.2 раза */
+  }
+
+.container_2 {
+    width: 1528px;
+    padding: 50px;
+    background-color: rgb(244, 244, 241);
+    color: rgb(0, 0, 0);
+    padding: 50px;
+    margin-left: -200px;
+    margin-top: -19px;
+    text-align: center;
+
+    font-weight: 500;
+    font-size: 44px;
+    line-height: 54px
+}
+
+.advantages {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    margin-top: 30px;
+    color: rgb(91, 91, 91);
+}
+
+.container_3 {
+    width: 1528px;
+    padding: 50px;
+    background-color: #ededed;
+    color: rgb(0, 0, 0);
+    padding: 50px;
+    margin-left: -200px;
+    margin-top: -19px;
+
+    font-weight: 500;
+    font-size: 44px;
+    line-height: 54px
+}
+
+.title_1 {
+    float: left;
+    height: 90px;
+    font-size: 30px;
+    margin-right: 150px;
+    width: 600px;
+}
+
+.text_title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: left;
+    color: rgb(91, 91, 91);
+}
+
+.img1 {
+    margin-top: 80px;
+    border-radius: 15px;
+    width: 800px;
+    height: 400px;
+    margin-left: 30px;
+}
+
+.img2 {
+    width: 510px;
+    margin-top: 80px;
+    margin-left: 20px;
+    border-radius: 15px;
+    height: 400px;
+}
+
+.img3 {
+    position: absolute;
+    width: 510px;
+    margin-top: -450px;
+    border-radius: 15px;
+    height: 400px;
+    margin-left: 700px;
+}
+
+.img4 {
+    position: absolute;
+    width: 730px;
+    margin-top: -450px;
+    margin-left: 20px;
+    border-radius: 15px;
+    height: 400px;
+    margin-left: -100px;
+}
+
+
+.container_4{
+    background-color: #e4e4e4;
+    width: 1528px;
+    padding: 50px;
+    color: rgb(0, 0, 0);
+    padding: 50px;
+    margin-left: -200px;
+    margin-top: -19px;
+    height: 700px;
+    font-weight: 500;
+    font-size: 44px;
+    line-height: 54px
+}
+
+.title_2 {
+    float: left;
+    height: 90px;
+    font-size: 30px;
+    margin-right: 150px;
+    width: 550px;
+}

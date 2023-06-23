@@ -1,0 +1,29 @@
+[
+    {
+        "text_hit" : "Хит продажы для вас",
+        "new_products" : "Новинки для Вас",
+        "dinner" : "Готовые обеды",
+        "healthy_snack" : "Полезный перекус",
+        "yummy_treats_for_children" : "Вкусняшки для детей",
+        "forPets" : "Для питомцев",
+        "active_recreation_time" : "Время активного отдыха"
+    },
+    {
+        "text_hit" : "A hit of sales for you",
+        "new_products" : "New items for you",
+        "dinner" : "Ready meals",
+        "healthy_snack" : "Healthy snack",
+        "yummy_treats_for_children" : "Yummy treats for children",
+        "forPets" : "For pets",
+        "active_recreation_time" : "Active recreation time"
+    },
+    {
+        "text_hit" : "Сіз үшін сату хиттері",
+        "new_products" : "Сіз үшін жаңа өнімдер",
+        "dinner" : "Дайын түскі ас",
+        "healthy_snack" : "Пайдалы тағамдар",
+        "yummy_treats_for_children" : "Балаларға арналған тәттілер",
+        "forPets" : "Үй жануарлары үшін" ,
+        "active_recreation_time" : "Белсенді демалыс уақыты"
+    }
+]

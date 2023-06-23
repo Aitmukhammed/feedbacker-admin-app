@@ -1,0 +1,272 @@
+[
+    [
+        {
+            "id" : 56,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/266280-korm_suhoi_pro_plan_losos_dlya_zdorovya_shersti_i_kozhi_vzroslyh_koshek_1_5_kg.jpg?w=360&h=360&_c=1683351415",
+            "description" : "Корм сухой Pro Plan для здоровья шерсти и кожи взрослых кошек 1.5 кг",
+            "price" : 7556,
+            "quantity" : 0,
+            "promotion" : 8590 
+        },
+        {
+            "id" : 57,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279687-korm_suhoi_royal_canin_maxi_adult_dlya_sobak_krupnyh_porod_15_mes_4_kg.jpg?w=360&h=360&_c=1680516063",
+            "description" : "Корм сухой Royal Canin Maxi Adult для собак крупных пород (15+ мес) 4 кг",
+            "price" : 13932,
+            "quantity" : 0,
+            "promotion" : 16460 
+        },
+        {
+            "id" : 58,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/266261-korm_suhoi_pro_plan_veterinary_diets_dlya_vzroslyh_koshek_pri_hronicheskoi_pochechnoi_nedostatochnos.jpg?w=360&h=360&_c=1683351414",
+            "description" : "Pro Plan Veterinary Diets NF для кошек при хронической почечной недостаточности 1.5 кг",
+            "price" : 10794,
+            "quantity" : 0,
+            "promotion" : 12270 
+        },
+        {
+            "id" : 59,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/249090-snek_zhevatelnyi_titbit_dent_so_vkusom_govyadiny_dlya_melkih_sobak_1_sht.jpg?w=360&h=360&_c=1685679378",
+            "description" : "Снек жевательный TiTBiT Dent со вкусом говядины для мелких собак",
+            "price" : 235,
+            "quantity" : 0,
+            "promotion" : 325 
+        },
+        {
+            "id" : 60,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/265401-shampun_chistotel_maksimum_ot_bloh_dlya_sobak_250_ml.jpg?w=360&h=360&_c=1686036345",
+            "description" : "Шампунь Чистотел Максимум от блох для собак 250 мл",
+            "price" : 1010,
+            "quantity" : 0,
+            "promotion" : 1240 
+        },
+        {
+            "id" : 61,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/271813-shampun_good_dog_dlya_sobak_i_shenkov_s_aromatom_yabloka_250_ml.jpg?w=360&h=360&_c=1686036344",
+            "description" : "Шампунь Good Dog для собак и щенков с ароматом яблока 250 мл",
+            "price" : 748,
+            "quantity" : 0,
+            "promotion" : 885 
+        },
+        {
+            "id" : 62,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/269304-loson_crystal_line_dlya_ushei_dlya_zhivotnyh_30_ml.jpg?w=360&h=360&_c=1686036345",
+            "description" : "Лосьон crystal line. для ушей для животных, 30 мл",
+            "price" : 1923,
+            "quantity" : 0,
+            "promotion" : 2420 
+        },
+        {
+            "id" : 63,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/271492-lakomstvo_good_dog_zdorove_kozhi_i_shersti_multivititamin_dlya_sobak_90_tab.jpg?w=360&h=360&_c=1685608174",
+            "description" : "Лакомство Good Dog Здоровье кожи и Шерсти мультивититамин для собак 90 таб",
+            "price" : 848,
+            "quantity" : 0,
+            "promotion" : 1070 
+        },
+        {
+            "id" : 64,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277137-napolnitel_sisiket_vpityvayushii_drevesnyi_8_l.jpg?w=360&h=360&_c=1685679414",
+            "description" : "Наполнитель СиСиКэт впитывающий древесный 8 л",
+            "price" : 1045,
+            "quantity" : 0,
+            "promotion" : 1360 
+        },
+        {
+            "id" : 65,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/265318-korm_zhorka_dlya_volnistyh_popugaev_500_g.jpg?w=360&h=360&_c=1685433529",
+            "description" : "Корм Жорка для волнистых попугаев 500 г",
+            "price" : 703,
+            "quantity" : 0,
+            "promotion" : 1060 
+        },
+        {
+            "id" : 66,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/269266-koleso_savic_zakrytoe_dlya_gryzunov_18_sm.jpg?w=360&h=360&_c=1683275863",
+            "description" : "Колесо Savic закрытое для грызунов 18 см",
+            "price" : 3257,
+            "quantity" : 0,
+            "promotion" : 4095 
+        }
+    ],
+    [
+        {
+            "id" : 56,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/266280-korm_suhoi_pro_plan_losos_dlya_zdorovya_shersti_i_kozhi_vzroslyh_koshek_1_5_kg.jpg?w=360&h=360&_c=1683351415",
+            "description" : "Dry food Pro Plan for the health of wool and skin of adult cats 1.5 kg",
+            "price" : 7556,
+            "quantity" : 0,
+            "promotion" : 8590 
+        },
+        {
+            "id" : 57,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279687-korm_suhoi_royal_canin_maxi_adult_dlya_sobak_krupnyh_porod_15_mes_4_kg.jpg?w=360&h=360&_c=1680516063",
+            "description" : "Dry Royal Canin Maxi Adult dog food for large breeds (15+ months) 4 kg",
+            "price" : 13932,
+            "quantity" : 0,
+            "promotion" : 16460 
+        },
+        {
+            "id" : 58,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/266261-korm_suhoi_pro_plan_veterinary_diets_dlya_vzroslyh_koshek_pri_hronicheskoi_pochechnoi_nedostatochnos.jpg?w=360&h=360&_c=1683351414",
+            "description" : "Pro Plan Veterinary Diets NF для кошек при хронической почечной недостаточности 1.5 кг",
+            "price" : 10794,
+            "quantity" : 0,
+            "promotion" : 12270 
+        },
+        {
+            "id" : 59,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/249090-snek_zhevatelnyi_titbit_dent_so_vkusom_govyadiny_dlya_melkih_sobak_1_sht.jpg?w=360&h=360&_c=1685679378",
+            "description" : "TiTBiT Dent chewable snack with beef flavor for small dogs",
+            "price" : 235,
+            "quantity" : 0,
+            "promotion" : 325 
+        },
+        {
+            "id" : 60,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/265401-shampun_chistotel_maksimum_ot_bloh_dlya_sobak_250_ml.jpg?w=360&h=360&_c=1686036345",
+            "description" : "Shampoo Celandine Maximum from fleas for dogs 250 ml",
+            "price" : 1010,
+            "quantity" : 0,
+            "promotion" : 1240 
+        },
+        {
+            "id" : 61,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/271813-shampun_good_dog_dlya_sobak_i_shenkov_s_aromatom_yabloka_250_ml.jpg?w=360&h=360&_c=1686036344",
+            "description" : "Good Dog shampoo for dogs and puppies with apple flavor 250 ml",
+            "price" : 748,
+            "quantity" : 0,
+            "promotion" : 885 
+        },
+        {
+            "id" : 62,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/269304-loson_crystal_line_dlya_ushei_dlya_zhivotnyh_30_ml.jpg?w=360&h=360&_c=1686036345",
+            "description" : "Crystal line lotion. for animal ears, 30 ml",
+            "price" : 1923,
+            "quantity" : 0,
+            "promotion" : 2420 
+        },
+        {
+            "id" : 63,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/271492-lakomstvo_good_dog_zdorove_kozhi_i_shersti_multivititamin_dlya_sobak_90_tab.jpg?w=360&h=360&_c=1685608174",
+            "description" : "Good Dog Treat Skin and Coat Health multi vitamin for dogs 90 tab",
+            "price" : 848,
+            "quantity" : 0,
+            "promotion" : 1070 
+        },
+        {
+            "id" : 64,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277137-napolnitel_sisiket_vpityvayushii_drevesnyi_8_l.jpg?w=360&h=360&_c=1685679414",
+            "description" : "SiSiKet absorbent wood filler 8 l",
+            "price" : 1045,
+            "quantity" : 0,
+            "promotion" : 1360 
+        },
+        {
+            "id" : 65,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/265318-korm_zhorka_dlya_volnistyh_popugaev_500_g.jpg?w=360&h=360&_c=1685433529",
+            "description" : "Zhorka food for budgies 500 g",
+            "price" : 703,
+            "quantity" : 0,
+            "promotion" : 1060 
+        },
+        {
+            "id" : 66,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/269266-koleso_savic_zakrytoe_dlya_gryzunov_18_sm.jpg?w=360&h=360&_c=1683275863",
+            "description" : "Savic closed rodent wheel 18 cm",
+            "price" : 3257,
+            "quantity" : 0,
+            "promotion" : 4095 
+        }
+    ],
+    [
+        {
+            "id" : 56,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/266280-korm_suhoi_pro_plan_losos_dlya_zdorovya_shersti_i_kozhi_vzroslyh_koshek_1_5_kg.jpg?w=360&h=360&_c=1683351415",
+            "description" : "Ересек мысықтардың пальто және тері денсаулығына арналған құрғақ Pro Plan тағамы 1.5 кг",
+            "price" : 7556,
+            "quantity" : 0,
+            "promotion" : 8590 
+        },
+        {
+            "id" : 57,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279687-korm_suhoi_royal_canin_maxi_adult_dlya_sobak_krupnyh_porod_15_mes_4_kg.jpg?w=360&h=360&_c=1680516063",
+            "description" : "Ірі тұқымды иттерге арналған Royal Canin Maxi Adult құрғақ тағамы (15 + ай) 4 кг",
+            "price" : 13932,
+            "quantity" : 0,
+            "promotion" : 16460 
+        },
+        {
+            "id" : 58,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/266261-korm_suhoi_pro_plan_veterinary_diets_dlya_vzroslyh_koshek_pri_hronicheskoi_pochechnoi_nedostatochnos.jpg?w=360&h=360&_c=1683351414",
+            "description" : "Созылмалы бүйрек жеткіліксіздігі бар мысықтарға арналған Pro Plan Veterinary Diets NF 1.5 кг",
+            "price" : 10794,
+            "quantity" : 0,
+            "promotion" : 12270 
+        },
+        {
+            "id" : 59,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/249090-snek_zhevatelnyi_titbit_dent_so_vkusom_govyadiny_dlya_melkih_sobak_1_sht.jpg?w=360&h=360&_c=1685679378",
+            "description" : "Снек жевательный TiTBiT Dent санатындағы үшін сиыр, ұсақ иттер",
+            "price" : 235,
+            "quantity" : 0,
+            "promotion" : 325 
+        },
+        {
+            "id" : 60,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/265401-shampun_chistotel_maksimum_ot_bloh_dlya_sobak_250_ml.jpg?w=360&h=360&_c=1686036345",
+            "description" : "Сусабын сүйел шөп Ең бүрге иттер үшін 250 мл",
+            "price" : 1010,
+            "quantity" : 0,
+            "promotion" : 1240 
+        },
+        {
+            "id" : 61,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/271813-shampun_good_dog_dlya_sobak_i_shenkov_s_aromatom_yabloka_250_ml.jpg?w=360&h=360&_c=1686036344",
+            "description" : "Сусабын Good Dog үшін иттер мен күшіктер алма хош 250 мл",
+            "price" : 748,
+            "quantity" : 0,
+            "promotion" : 885 
+        },
+        {
+            "id" : 62,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/269304-loson_crystal_line_dlya_ushei_dlya_zhivotnyh_30_ml.jpg?w=360&h=360&_c=1686036345",
+            "description" : "Лосьон crystal line. құлаққа жануарлар үшін 30 мл",
+            "price" : 1923,
+            "quantity" : 0,
+            "promotion" : 2420 
+        },
+        {
+            "id" : 63,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/271492-lakomstvo_good_dog_zdorove_kozhi_i_shersti_multivititamin_dlya_sobak_90_tab.jpg?w=360&h=360&_c=1685608174",
+            "description" : "Лакомство Good Dog Здоровье кожи и Шерсти мультивититамин для собак 90 таб",
+            "price" : 848,
+            "quantity" : 0,
+            "promotion" : 1070 
+        },
+        {
+            "id" : 64,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/277137-napolnitel_sisiket_vpityvayushii_drevesnyi_8_l.jpg?w=360&h=360&_c=1685679414",
+            "description" : "Толтырғыш СиСиКэт сіңіретін ағаш 8 л",
+            "price" : 1045,
+            "quantity" : 0,
+            "promotion" : 1360 
+        },
+        {
+            "id" : 65,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/265318-korm_zhorka_dlya_volnistyh_popugaev_500_g.jpg?w=360&h=360&_c=1685433529",
+            "description" : "Корм Жорка для волнистых попугаев 500 г",
+            "price" : 703,
+            "quantity" : 0,
+            "promotion" : 1060 
+        },
+        {
+            "id" : 66,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/269266-koleso_savic_zakrytoe_dlya_gryzunov_18_sm.jpg?w=360&h=360&_c=1683275863",
+            "description" : "Доңғалақ Savic жабық кеміргіштер 18 см",
+            "price" : 3257,
+            "quantity" : 0,
+            "promotion" : 4095 
+        }
+    ]
+]

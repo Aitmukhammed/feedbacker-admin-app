@@ -1,0 +1,197 @@
+body {
+    margin: 0;
+}
+.container-fluid {
+  width: 100%;
+    background-color: white;
+    border: 0px solid white;
+    position: fixed;
+    z-index: 1;
+    margin-top: -2px;
+}
+.navbar-inverse {
+    border: 0px solid white;
+}
+.logo {
+    width: 165px;
+    height: 70px;
+    left: -15px;
+    top: 6px;
+}
+
+.btn_icon {
+    width: 40px;
+    height: 35px;
+    margin-top: 18px;
+    background-color: white;
+    margin-left: 40px;
+    border: 1px solid #4f4f4f;
+}
+
+.icon_menu {
+    width: 75px;
+    height: 35px;
+}
+.btn_profile {
+    width: 130px;
+    height: 34px;
+
+    color: white;
+    text-align: center;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 30px;
+    text-decoration: none;
+    
+    background: #07AF49;
+    border: 3px solid #07AF49;
+    border-radius: 26px;
+    margin-left: 20px;
+}
+
+.btn_profile:hover {
+  background-color: #2bca6b;
+  border: 3px solid #2bca6b;
+}
+
+.profile_people {
+    width: 30px;
+    height: 30px;
+    padding-bottom: 2px;
+}
+
+.cont_basket {
+    width: 80px;
+    height: 34px;
+    margin-top: 18px;
+    
+    color: white;
+    text-align: center;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 30px;
+    text-decoration: none;
+    
+    background: #07AF49;
+    border: 3px solid #07AF49;
+    border-radius: 26px;
+    display: flex;
+}
+.cont_basket:hover {
+  background-color: #2bca6b;
+  border: 3px solid #2bca6b;
+}
+.basket_png {
+    width: 25px;
+    height: 25px;
+    margin-left: 10px;
+    margin-top: 2px;
+}
+.totalItems {
+  margin-left: 10px;
+}
+
+ 
+.nav-link {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 36px;
+    /* identical to box height, or 118% */
+    
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    text-decoration: none;
+
+    margin-top: 3px;
+    
+
+    color: gray;
+}
+.nav-link:active {
+    color: #07AF49;
+  }
+   
+
+.navbar-nav li.nav-item a.nav-link:hover {
+    color: #07AF49;
+    background-color: white;
+  }
+  .navbar-nav li.nav-item a.nav-link {
+    background-color: white;
+  } 
+  
+.navbar-nav li.nav-item a.nav-link.active {
+  color: #07AF49;
+} 
+
+.order, .about, .contact{
+    text-align: center;
+    width: 200px;
+    cursor: pointer;
+}
+
+.order {
+  margin-left: 80px;
+}
+
+/* ------------------------------------------- */
+.btn {
+    margin-top: 19px;
+    background-color: #07AF49;
+    color: white;
+    width: 50px;
+    height: 32px;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    margin-bottom: 10px;
+  }
+
+  .btn:hover {
+    background-color: #2bca6b;
+    border: none;
+  }
+  
+  .dropdown {
+    display: flex;
+    display: inline-block;
+    margin-left: 10px;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    z-index: 1;
+  }  
+  
+  .dropdown-content button {
+    background-color: #07AF49;
+    border: 0px;
+    border-radius: 10px;
+    color: white;
+    width: 50px;
+    height: 32px;
+    text-decoration: none;
+    display: block;
+  }
+
+  .dropdown-content button:hover{
+    background-color: #2bca6b;
+    border-radius: 10px;
+    margin-bottom: 2px;
+  }
+  
+ 
+  .dropdown:hover .dropdown-content {
+   border-radius: 10px;
+   border-color: none;  
+   border: none;
+   display: block;
+  }
+
+
+ 

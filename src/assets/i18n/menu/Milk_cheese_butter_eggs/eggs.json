@@ -1,0 +1,272 @@
+[
+    [
+        {
+            "id" : 577,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/236731-yaico_kazger-kus_premium_kurinye_15_sht.jpg?w=360&h=360&_c=1686137413",
+            "description" : "Яйцо Казгер-Кус Премиум куриные 15 шт",
+            "price" : 1085,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 578,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/275111-yaica_foodz_kurinye_fermerskie_domashnie_10_sht.jpg?w=360&h=360&_c=1682999656",
+            "description" : "Яйца Foodz куриные фермерские/домашние 10 шт",
+            "price" : 850,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 579,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/275112-yaica_foodz_kurinye_fermerskie_domashnie_15_sht.jpg?w=360&h=360&_c=1675757092",
+            "description" : "Яйца Foodz куриные фермерские/домашние 15 шт",
+            "price" : 1280,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 580,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/239319-yaica_kazger-kus_premium_kurinye_10_sht.jpg?w=360&h=360&_c=1686130873",
+            "description" : "Яйцо Казгер-Кус Премиум куриные 10 шт",
+            "price" : 725,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 581,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/239308-yaica_kazger-kus_vtorogo_sorta_10_sht.jpg?w=360&h=360&_c=1685084896",
+            "description" : "Яйцо Казгер-Кус Вторая категория 10 шт",
+            "price" : 660,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 582,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/235818-yaica_ak-kus_rekord_10_sht.jpg?w=360&h=360&_c=1685518975",
+            "description" : "Яйца Ак-Кус Рекорд 10 шт",
+            "price" : 685,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 583,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/235816-yaica_ak-kus_elit_10_sht.jpg?w=360&h=360&_c=1685518975",
+            "description" : "Яйца Ак-Кус Элит 10 шт",
+            "price" : 745,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 584,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/246949-yaica_qarqus_otbornye_10_sht.jpg?w=360&h=360&_c=1686397147",
+            "description" : "Яйцо QarQus Отборные 10 шт",
+            "price" : 775,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 585,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/238777-yaica_ak-kus_rekord_30_sht.jpg?w=360&h=360&_c=1685615323",
+            "description" : "Яйца Ак-Кус Рекорд 30 шт",
+            "price" : 1755,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 586,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/238775-yaica_ak-kus_elit_30_sht.jpg?w=360&h=360&_c=1685518975",
+            "description" : "Яйца Ак-Кус Элит 30 шт",
+            "price" : 2210,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 587,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/246948-yaico_qarqus_vysshii_sort_10_sht.jpg?w=360&h=360&_c=1685502272",
+            "description" : "Яйцо QarQus Высший сорт 10 шт",
+            "price" : 805,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ],
+    [
+        {
+            "id" : 577,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/236731-yaico_kazger-kus_premium_kurinye_15_sht.jpg?w=360&h=360&_c=1686137413",
+            "description" : "Egg Kazger-Kus Premium chicken 15 pcs",
+            "price" : 1085,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 578,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/275111-yaica_foodz_kurinye_fermerskie_domashnie_10_sht.jpg?w=360&h=360&_c=1682999656",
+            "description" : "Eggs Foodz chicken farm/homemade 10 pcs",
+            "price" : 850,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 579,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/275112-yaica_foodz_kurinye_fermerskie_domashnie_15_sht.jpg?w=360&h=360&_c=1675757092",
+            "description" : "Eggs Foodz chicken farm/homemade 15 pcs",
+            "price" : 1280,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 580,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/239319-yaica_kazger-kus_premium_kurinye_10_sht.jpg?w=360&h=360&_c=1686130873",
+            "description" : "Egg Kazger-Kus premium chicken 10 pcs",
+            "price" : 725,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 581,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/239308-yaica_kazger-kus_vtorogo_sorta_10_sht.jpg?w=360&h=360&_c=1685084896",
+            "description" : "Egg Kazger-Kus Second category 10 pcs",
+            "price" : 660,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 582,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/235818-yaica_ak-kus_rekord_10_sht.jpg?w=360&h=360&_c=1685518975",
+            "description" : "Eggs Ak-Cu Record 10 pcs",
+            "price" : 685,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 583,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/235816-yaica_ak-kus_elit_10_sht.jpg?w=360&h=360&_c=1685518975",
+            "description" : "Eggs Ak-och elite 10 pcs",
+            "price" : 745,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 584,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/246949-yaica_qarqus_otbornye_10_sht.jpg?w=360&h=360&_c=1686397147",
+            "description" : "QarQus egg selected 10 pcs",
+            "price" : 775,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 585,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/238777-yaica_ak-kus_rekord_30_sht.jpg?w=360&h=360&_c=1685615323",
+            "description" : "Eggs Ak-Cu Record 30 pcs",
+            "price" : 1755,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 586,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/238775-yaica_ak-kus_elit_30_sht.jpg?w=360&h=360&_c=1685518975",
+            "description" : "Eggs Ak-och elite 30 pcs",
+            "price" : 2210,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 587,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/246948-yaico_qarqus_vysshii_sort_10_sht.jpg?w=360&h=360&_c=1685502272",
+            "description" : "QarQus egg Higher variety 10 pcs",
+            "price" : 805,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ],
+    [
+        {
+            "id" : 577,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/236731-yaico_kazger-kus_premium_kurinye_15_sht.jpg?w=360&h=360&_c=1686137413",
+            "description" : "Қазгер-Құс Премиум тауық жұмыртқасы 15 д",
+            "price" : 1085,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 578,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/275111-yaica_foodz_kurinye_fermerskie_domashnie_10_sht.jpg?w=360&h=360&_c=1682999656",
+            "description" : "Foodz Тауық жұмыртқасы ферма/үйдікі 10 д",
+            "price" : 850,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 579,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/275112-yaica_foodz_kurinye_fermerskie_domashnie_15_sht.jpg?w=360&h=360&_c=1675757092",
+            "description" : "Жұмыртқа Foodz тауық фермасы/үй 15 д",
+            "price" : 1280,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 580,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/239319-yaica_kazger-kus_premium_kurinye_10_sht.jpg?w=360&h=360&_c=1686130873",
+            "description" : "Қазгер-Құс Premium тауық жұмыртқасы 10 д",
+            "price" : 725,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 581,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/239308-yaica_kazger-kus_vtorogo_sorta_10_sht.jpg?w=360&h=360&_c=1685084896",
+            "description" : "Қазгер-Кус жұмыртқасы екінші санат 10 дана",
+            "price" : 660,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 582,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/235818-yaica_ak-kus_rekord_10_sht.jpg?w=360&h=360&_c=1685518975",
+            "description" : "Ак-Кус жұмыртқалары рекорд 10 д",
+            "price" : 685,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 583,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/235816-yaica_ak-kus_elit_10_sht.jpg?w=360&h=360&_c=1685518975",
+            "description" : "Ак-Кус элитасының жұмыртқалары 10 д",
+            "price" : 745,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 584,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/246949-yaica_qarqus_otbornye_10_sht.jpg?w=360&h=360&_c=1686397147",
+            "description" : "Жұмыртқа QarQus таңдаулы 10 д",
+            "price" : 775,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 585,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/238777-yaica_ak-kus_rekord_30_sht.jpg?w=360&h=360&_c=1685615323",
+            "description" : "Жұмыртқа Ак-Кус рекорды 30 д",
+            "price" : 1755,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 586,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/238775-yaica_ak-kus_elit_30_sht.jpg?w=360&h=360&_c=1685518975",
+            "description" : "Ak - kus elite жұмыртқалары 30 д",
+            "price" : 2210,
+            "quantity" : 0,
+            "promotion" : null
+        },
+        {
+            "id" : 587,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/246948-yaico_qarqus_vysshii_sort_10_sht.jpg?w=360&h=360&_c=1685502272",
+            "description" : "QarQus жұмыртқасы жоғары сорт 10 д",
+            "price" : 805,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ]
+]

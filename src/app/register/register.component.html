@@ -1,0 +1,52 @@
+<div *ngIf="isSignedUp; else signupForm">
+  <div class="container" >
+    <div class="jumbotron">
+      <h1> {{text[translateservice.languageId].successful}}</h1>
+    </div>
+  </div>
+  </div>
+
+<ng-template #signupForm>
+  <div class="row col-sm-6" style="max-width:350px;">
+    <form name="form" (ngSubmit)="f.form.valid && onSubmit()" #f="ngForm" novalidate>
+      <div class="form-group">
+        <label class="name" for="name">{{text[translateservice.languageId].name}}</label>
+        <input type="text" class="form-control" name="name" [(ngModel)]="form.name" #name="ngModel" required />
+        <div *ngIf="f.submitted && name.invalid">
+          <div *ngIf="name.errors?.required">{{text[translateservice.languageId].requiredName}}</div>
+        </div>
+      </div>
+      <div class="form-group">
+        <label class="username" for="username">{{text[translateservice.languageId].username}}</label>
+        <input type="text" class="form-control" name="username" [(ngModel)]="form.username" #username="ngModel"
+          required />
+        <div *ngIf="f.submitted && username.invalid">
+          <div *ngIf="username.errors?.required">{{text[translateservice.languageId].requiredUsername}}</div>
+        </div>
+      </div>
+      <div class="form-group">
+        <label class="email" for="email">{{text[translateservice.languageId].email}}</label>
+        <input type="text" class="form-control" name="email" [(ngModel)]="form.email" #email="ngModel" required email />
+        <div *ngIf="f.submitted && email.invalid">
+          <div *ngIf="email.errors?.required">Email is required</div>
+          <div *ngIf="email.errors?.email">Email must be a valid email address</div>
+        </div>
+      </div>
+      <div class="form-group">
+        <label class="password" for="password">{{text[translateservice.languageId].password}}</label>
+        <input type="password" class="form-control" name="password" [(ngModel)]="form.password" #password="ngModel"
+          required minlength="6" />
+        <div *ngIf="f.submitted && password.invalid">
+          <div *ngIf="password.errors?.required">{{text[translateservice.languageId].passwordRequired}}</div>
+          <div *ngIf="password.errors?.minlength">{{text[translateservice.languageId].charactersPassword}}</div>
+        </div>
+      </div>
+      <div class="form-group">
+        <button class="btn btn-primary">{{text[translateservice.languageId].registration_btn}}</button>
+        <div *ngIf="f.submitted && isSignUpFailed" class="alert alert-warning">
+          {{text[translateservice.languageId].signupFailed}}<br/>{{errorMessage}}
+        </div>
+      </div>
+    </form>
+  </div>
+</ng-template>

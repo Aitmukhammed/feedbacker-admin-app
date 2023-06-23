@@ -1,0 +1,368 @@
+[
+    [
+        {
+            "id" : 283,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/285537-shampun_aussie_repair_miracle_300_ml.jpg?w=360&h=360&_c=1686119127",
+            "description" : "Шампунь Aussie Repair Miracle 300 мл",
+            "price" : 3082,
+            "quantity" : 0,
+            "promotion" : null
+        },        
+        {
+            "id" : 284,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/258964-shampun_herbal_essences_marokkanskoe_arganovoe_maslo_400_ml.jpg?w=360&h=360&_c=1684324841",
+            "description" : "Шампунь Herbal Essences Марокканское аргановое масло 400 мл",
+            "price" : 2260,
+            "quantity" : 0,
+            "promotion" : 2625
+        },      
+        {
+            "id" : 285,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/199569-shampun_pantene_pro-v_intensivnoe_vosstanovlenie_400_ml.jpg?w=360&h=360&_c=1684324859",
+            "description" : "Шампунь Pantene Pro-V Интенсивное восстановление 400 мл",
+            "price" : 2431,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 286,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/268392-shampun_synergetic_ekstramyagkii_2v1_250_ml.png?w=360&h=360&_c=1686305585",
+            "description" : "Шампунь Synergetic экстрамягкий 2в1 250 мл",
+            "price" : 2439,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 287,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/268388-shampun-gel_synergetic_energiya_i_sila_250_ml.png?w=360&h=360&_c=1684324836",
+            "description" : "Шампунь-гель Synergetic Энергия и сила 250 мл",
+            "price" : 2439,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 288,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/258976-balzam-opolaskivatel_pantene_hair_biology_ochishenie_i_rekonstrukciya_160_ml.jpg?w=360&h=360&_c=1684315975",
+            "description" : "Бальзам-ополаскиватель Pantene Hair Biology Очищение и реконструкция 160 мл",
+            "price" : 2079,
+            "quantity" : 0,
+            "promotion" : 2625
+        },      
+        {
+            "id" : 289,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292398-ekspress-kondicioner_gliss_bezuprechno_dlinnye_200_ml.jpg?w=360&h=360&_c=1684747311",
+            "description" : "Экспресс-кондиционер Gliss Безупречно Длинные 200 мл",
+            "price" : 2990,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 290,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292397-ekspress-kondicioner_gliss_oil_nutritive_200_ml.jpg?w=360&h=360&_c=1686045802",
+            "description" : "Экспресс-кондиционер Gliss Oil Nutritive 200 мл",
+            "price" : 2990,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 291,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292393-balzam_gliss_sovershenstvo_okrashennyh_volos_200_ml.jpg?w=360&h=360&_c=1686045806",
+            "description" : "Бальзам Gliss Совершенство Окрашенных волос 200 мл",
+            "price" : 2280,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 292,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292305-balzam_syoss_repair_440_ml.jpg?w=360&h=360&_c=1686045816",
+            "description" : "Бальзам Syoss Repair 440 мл",
+            "price" : 2260,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 293,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291605-sprei-kondicioner_uvlazhnyayushii_indola_hydrate_300ml.jpg?w=360&h=360&_c=1685095326",
+            "description" : "Спрей-кондиционер увлажняющий Indola Hydrate 300мл",
+            "price" : 5285,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 294,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/285538-balzam-opolaskivatel_aussie_repair_miracle_200_ml.jpg?w=360&h=360&_c=1684315967",
+            "description" : "Бальзам-ополаскиватель Aussie Repair Miracle 200 мл",
+            "price" : 3082,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 295,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/283515-kondicioner_kerasys_ampulnyi_advanced_volume_ampoule_600_ml.jpg?w=360&h=360&_c=1684903975",
+            "description" : "Кондиционер Kerasys Ампульный Advanced Volume Ampoule 600 мл",
+            "price" : 4745,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 296,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279875-maska_dr_konopka_s_vosstanavlivayushaya_138_dlya_okrashennyh_i_povrezhdennyh_volos_300_ml.jpg?w=360&h=360&_c=1684315969",
+            "description" : "Маска Dr. Konopka´s восстанавливающая №138 для окрашенных и поврежденных волос 300 мл",
+            "price" : 4800,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 297,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/276754-kondicioner_insight_nourishing_pitatelnyi_dlya_suhih_volos_400_ml.png?w=360&h=360&_c=1684315970",
+            "description" : "Маска Dr. Konopka´s восстанавливающая №138 для окрашенных и поврежденных волос 300 мл",
+            "price" : 6000,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ],
+    [
+        {
+            "id" : 283,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/285537-shampun_aussie_repair_miracle_300_ml.jpg?w=360&h=360&_c=1686119127",
+            "description" : "Shampoo Aussie Repair Miracle 300 ml",
+            "price" : 3082,
+            "quantity" : 0,
+            "promotion" : null
+        },        
+        {
+            "id" : 284,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/258964-shampun_herbal_essences_marokkanskoe_arganovoe_maslo_400_ml.jpg?w=360&h=360&_c=1684324841",
+            "description" : "Herbal Essences shampoo Moroccan argan oil 400 ml",
+            "price" : 2260,
+            "quantity" : 0,
+            "promotion" : 2625
+        },      
+        {
+            "id" : 285,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/199569-shampun_pantene_pro-v_intensivnoe_vosstanovlenie_400_ml.jpg?w=360&h=360&_c=1684324859",
+            "description" : "PANTENE PRO -V shampoo Intensive recovery 400 ml",
+            "price" : 2431,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 286,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/268392-shampun_synergetic_ekstramyagkii_2v1_250_ml.png?w=360&h=360&_c=1686305585",
+            "description" : "Synergetic shampoo Extrashogic 2B1 250 ml",
+            "price" : 2439,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 287,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/268388-shampun-gel_synergetic_energiya_i_sila_250_ml.png?w=360&h=360&_c=1684324836",
+            "description" : "",
+            "price" : 2439,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 288,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/258976-balzam-opolaskivatel_pantene_hair_biology_ochishenie_i_rekonstrukciya_160_ml.jpg?w=360&h=360&_c=1684315975",
+            "description" : "Pantene Hair Biology Conditioner Cleansing and reconstruction 160 ml",
+            "price" : 2079,
+            "quantity" : 0,
+            "promotion" : 2625
+        },      
+        {
+            "id" : 289,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292398-ekspress-kondicioner_gliss_bezuprechno_dlinnye_200_ml.jpg?w=360&h=360&_c=1684747311",
+            "description" : "Express Conditioner Gliss Flawlessly Long 200 ml",
+            "price" : 2990,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 290,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292397-ekspress-kondicioner_gliss_oil_nutritive_200_ml.jpg?w=360&h=360&_c=1686045802",
+            "description" : "Express conditioner Gliss Oil Nutritive 200 ml",
+            "price" : 2990,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 291,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292393-balzam_gliss_sovershenstvo_okrashennyh_volos_200_ml.jpg?w=360&h=360&_c=1686045806",
+            "description" : "Balm Gliss Perfection of Colored hair 200 ml",
+            "price" : 2280,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 292,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292305-balzam_syoss_repair_440_ml.jpg?w=360&h=360&_c=1686045816",
+            "description" : "Syoss Repair Balm 440 ml",
+            "price" : 2260,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 293,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291605-sprei-kondicioner_uvlazhnyayushii_indola_hydrate_300ml.jpg?w=360&h=360&_c=1685095326",
+            "description" : "Spray conditioner moisturizing Indola Hydrate 300ml",
+            "price" : 5285,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 294,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/285538-balzam-opolaskivatel_aussie_repair_miracle_200_ml.jpg?w=360&h=360&_c=1684315967",
+            "description" : "Aussie Repair Miracle Conditioner 200 ml",
+            "price" : 3082,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 295,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/283515-kondicioner_kerasys_ampulnyi_advanced_volume_ampoule_600_ml.jpg?w=360&h=360&_c=1684903975",
+            "description" : "Kerasys Ampoule Conditioner Advanced Volume Ampoule 600 ml",
+            "price" : 4745,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 296,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279875-maska_dr_konopka_s_vosstanavlivayushaya_138_dlya_okrashennyh_i_povrezhdennyh_volos_300_ml.jpg?w=360&h=360&_c=1684315969",
+            "description" : "Dr. Konopkas regenerating mask No.138 for colored and damaged hair 300 ml",
+            "price" : 4800,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 297,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/276754-kondicioner_insight_nourishing_pitatelnyi_dlya_suhih_volos_400_ml.png?w=360&h=360&_c=1684315970",
+            "description" : "Insight Nourishing nourishing conditioner for dry hair 400 ml",
+            "price" : 6000,
+            "quantity" : 0,
+            "promotion" : null
+        }
+    ],
+    [
+        {
+            "id" : 283,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/285537-shampun_aussie_repair_miracle_300_ml.jpg?w=360&h=360&_c=1686119127",
+            "description" : "Aussie Repair Miracle Сусабыны 300 мл",
+            "price" : 3082,
+            "quantity" : 0,
+            "promotion" : null
+        },        
+        {
+            "id" : 284,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/258964-shampun_herbal_essences_marokkanskoe_arganovoe_maslo_400_ml.jpg?w=360&h=360&_c=1684324841",
+            "description" : "Herbal Essences сусабыны Мароккалық арган майы 400 мл",
+            "price" : 2260,
+            "quantity" : 0,
+            "promotion" : 2625
+        },      
+        {
+            "id" : 285,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/199569-shampun_pantene_pro-v_intensivnoe_vosstanovlenie_400_ml.jpg?w=360&h=360&_c=1684324859",
+            "description" : "Pantene Pro-V Сусабыны 400 мл қарқынды қалпына келтіру",
+            "price" : 2431,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 286,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/268392-shampun_synergetic_ekstramyagkii_2v1_250_ml.png?w=360&h=360&_c=1686305585",
+            "description" : "Synergetic сусабыны Экстра жұмсақ 2в1 250 мл",
+            "price" : 2439,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 287,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/268388-shampun-gel_synergetic_energiya_i_sila_250_ml.png?w=360&h=360&_c=1684324836",
+            "description" : "Synergetic сусабын-гель энергиясы мен күші 250 мл",
+            "price" : 2439,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 288,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/258976-balzam-opolaskivatel_pantene_hair_biology_ochishenie_i_rekonstrukciya_160_ml.jpg?w=360&h=360&_c=1684315975",
+            "description" : "Pantene Hair Biology шаю бальзамы 160 мл тазарту және қайта құру",
+            "price" : 2079,
+            "quantity" : 0,
+            "promotion" : 2625
+        },      
+        {
+            "id" : 289,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292398-ekspress-kondicioner_gliss_bezuprechno_dlinnye_200_ml.jpg?w=360&h=360&_c=1684747311",
+            "description" : "Gliss Express кондиционері мінсіз ұзын 200 мл",
+            "price" : 2990,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 290,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292397-ekspress-kondicioner_gliss_oil_nutritive_200_ml.jpg?w=360&h=360&_c=1686045802",
+            "description" : "Gliss Oil nutritive 200 мл Экспресс кондиционері",
+            "price" : 2990,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 291,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292393-balzam_gliss_sovershenstvo_okrashennyh_volos_200_ml.jpg?w=360&h=360&_c=1686045806",
+            "description" : "Gliss Бальзамы боялған шаштың жетілдірілуі 200 мл",
+            "price" : 2280,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 292,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/292305-balzam_syoss_repair_440_ml.jpg?w=360&h=360&_c=1686045816",
+            "description" : "Syoss Repair бальзамы 440 мл",
+            "price" : 2260,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 293,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/291605-sprei-kondicioner_uvlazhnyayushii_indola_hydrate_300ml.jpg?w=360&h=360&_c=1685095326",
+            "description" : "Enola hydrate 300ml ылғалдандыратын кондиционер Спрейі",
+            "price" : 5285,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 294,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/285538-balzam-opolaskivatel_aussie_repair_miracle_200_ml.jpg?w=360&h=360&_c=1684315967",
+            "description" : "Aussie Repair Miracle 200 мл шаю бальзамы",
+            "price" : 3082,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 295,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/283515-kondicioner_kerasys_ampulnyi_advanced_volume_ampoule_600_ml.jpg?w=360&h=360&_c=1684903975",
+            "description" : "Kerasys Advanced Volume ampoule кондиционері 600 мл",
+            "price" : 4745,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 296,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/279875-maska_dr_konopka_s_vosstanavlivayushaya_138_dlya_okrashennyh_i_povrezhdennyh_volos_300_ml.jpg?w=360&h=360&_c=1684315969",
+            "description" : "Dr Маскасы. Боялған және зақымдалған шашқа арналған №138 қалпына келтіретін Konopkas 300 мл",
+            "price" : 4800,
+            "quantity" : 0,
+            "promotion" : null
+        },      
+        {
+            "id" : 297,
+            "img" : "https://arbuz.kz/image/s3/arbuz-kz-products/276754-kondicioner_insight_nourishing_pitatelnyi_dlya_suhih_volos_400_ml.png?w=360&h=360&_c=1684315970",
+            "description" : "Құрғақ шашқа арналған нәрлендіретін insight Nourishing кондиционері 400 мл",
+            "price" : 6000,
+            "quantity" : 0,
+            "promotion" : null  
+        }
+    ]
+]
